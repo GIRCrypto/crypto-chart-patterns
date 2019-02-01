@@ -67,130 +67,89 @@ Good for those who work on a low timeframe.
 
 >A broadening formation is an example of a consolidation pattern and a highly useful tool in the prediction of the likelihood of a reversal in the direction of a current trend. When found in an uptrend it indicates not a continuation of that trend, but a near-term reversal of the price action.
 
+<a href="https://www.tradingview.com/chart/BTCUSD/oiTdqZex-BTC-too-early-to-Tell-Broadening-Pattern/"><img src="http://i.imgur.com/5hZLIzW.png"/></a>
+
 * [Investopedia - Broadening Formations](https://www.investopedia.com/terms/b/broadeningformation.asp)
 * [Baby Pips - Broadening Formations](https://www.babypips.com/forexpedia/broadening-formation)
+* [TradingView - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
+
+Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class and not worth spending too much time on the variants unless noted otherwise.
+
 
 ### Broadening Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/ZdMwvG5.png"/>
 
+* [TradingView.wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
+* [TradingView.ideas - Broadening Bottoms](https://www.tradingview.com/ideas/broadening-bottom/)
 * [Bulkowski - Broadening Bottoms](http://thepatternsite.com/rabfa.html)
 
-Bulkowski says not worth trading: 
-
-<img src="http://i.imgur.com/3QGW7mj.png"/>
-
-> Broadening bottoms with downside breakouts outperform those with upside breakouts. 
->
-> Bullish formations typically have gains averaging about 40%; broadening bottoms have gains of just 25%.
->
-> Bearish formations decline about 20%, on average, but bearish broadening bottoms show losses of 27%. 
->
-> This information tells me that even though you can have an upside breakout, the chart pattern is essentially a bearish one. Prices do not rise all that far before retreating, and when they do break out downward, the decline is above average in severity.
-
-<img src="http://i.imgur.com/EfOd5KQ.png"/>
-
-Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class.
-
-### Right-Angled and Ascending [**^**](#Contents)
-
-<img src="http://i.imgur.com/sKlLY09.png"/>
-
-* [Bulkowski - Broadening formations: Right-Angled and Ascending](http://thepatternsite.com/rabfa.html)
-
-<img src="http://i.imgur.com/Ffs7wtt.png"/>
-
-It is a bearish reversal of the short-term price trend. This is not a novel finding, as others have discussed the bearish behavior of ascending broadening formations. The word ascending in the title refers to the minor highs that rise over time. The base of this formation is flat but the
-tops widen out, generally following an up-sloping trendline.
-
-<img src="http://i.imgur.com/MNt77Ec.png"/>
-
-Right-angled ascending broadening formations: What does the name mean? Right angle implies that it is a member of the triangle family. A horizontal base with an up-sloping hypotenuse forms a right triangle. The third side drops down from the hypotenuse to the base and intersects it at a 90 degree angle, forming the so-called right angle. Ascending means that the hypotenuse ascends over time as contrasted with descending broadening formations. Broadening formation means that prices make higher highs. Ascending and descending triangles, in contrast, have narrowing price movements.
-
-## Right-Angled and Descending [**^**](#Contents)
-
-<img src="http://i.imgur.com/NmJySGO.png"/>
-<img src="http://i.imgur.com/DQW6GEQ.png"/>
-
-The characteristic flat top and down-sloping bottom are apparent in the figure. These are the two key ingredients. Prices at the top of the formation reach the same price level before declining. Over time, a horizontal trendline can be drawn connecting them. 
-
-Along the bottom of the formation, the minor lows touch a down-sloping trendline before prices rebound. Eventually, prices break out of the formation by either closing above the top trendline or below the bottom one.
-
-After I completed the statistics for this formation, I found that more right-angled descending broadening formations broke out upward than downward. At first I logged the upside breakouts as failures since I expected the correct breakout to be down. I was wrong. I reexamined the literature and discovered that descending broadening formations could break out either way. So I reworked the statistics and scanned all the formations again to make sure that they agreed with the new methodology.
-
-<img src="http://i.imgur.com/bNHpVbx.png"/>
-
-If the breakout direction is **up, which it is 57% of the time, the formation is bullish**. 
-
-For **downside breakouts, which occur 37% of the time, the formation is bearish**. 
-
-The balance have horizontal breakouts or no specific breakout direction.
+<a href="https://www.tradingview.com/chart/BTCUSD/IxwU3hjj-BTC-BROADENING-BOTTOM-BULLISH/"><img src="http://i.imgur.com/gJEFw7m.png"></a>
 
 ### Broadening Tops [**^**](#Contents)
 
 <img src="http://i.imgur.com/aYRNLT6.png"/>
 
-<img src="http://i.imgur.com/cmKB1wI.png"/>
+<a href="https://www.tradingview.com/chart/AUDCHF/yqgnq7zm-Broadening-Top-on-AUDCHF/"><img src="http://i.imgur.com/dr6ubSl.png"/></a>
 
-Broadening tops, not surprisingly, act a lot like broadening bottoms. What eparates a top from a bottom is the price trend leading to the chart pattern.
+* [TradingView.wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
+* [Tradingview.ideas - Broadening Tops](https://www.tradingview.com/ideas/broadening-tops/)
+* [Bulkowski - Broadening Tops](http://thepatternsite.com/bt.html)
 
-For tops, the intermediate-term price trend is upward; for broadening bottoms, it is downward. This is an arbitrary distinction I made just to see if the two formations act differently. In answer to the question you have probably
-posed right now: The two formations act similarly, but their performance differs slightly.
-
-Broadening tops divide into two types: those with upside breakouts and those with downside ones. You can see in the Results Snapshot that the failure rates are the same for both: 4%. That is a very good number. I consider failure
-rates below 20% to be acceptable.
-
-The average gain for upside breakouts is subpar at 34%. Well-behaved bullish formations usually score about a 40% rise. Downside breakouts from broadening tops perform better than normal with a 23% loss. The usual loss for all bearish chart patterns is about 20%.
+>Broadening tops, not surprisingly, act a lot like broadening bottoms. What separates a top from a bottom is the price trend leading to the chart pattern.
 
 <img src="http://i.imgur.com/wJhx8U7.png"/>
 
-The broadening top formation performs better than some chart patterns regarding the measure rule. The rule estimates a target price for the stock. Three out of every four broadening tops (75%) with upside breakouts meet or exceed their price targets, whereas 64% of those formations with downside
-breakouts meet or exceed theirs.
 
-Still, I consider values above 80% to be reliable, so the formation comes up a bit short. This formation does excel in predicting the breakout direction. When a partial rise or decline occurs—that is, when prices move toward the opposite side, then reverse before touching the trendline—it is a breakout signal. For partial rises, the breakout direction is downward. A downside breakout follows
+>There should be at least two minor highs and two minor lows before die chart pattern becomes a broadening top. A minor high is another name for a distinct price peak. A minor low refers to the valley pattern as prices descend to a low then turn back up. Again, the minor low should be a distinct trough that is easily recognizable. Figure 4.1 shows diree minor highs touching die top trendline and four minor lows either nearing or touching die bottom trendline. The minor highs and minor lows need not alternate as prices crisscross die formation.
 
-<img src="http://i.imgur.com/SdHlwok.png"/>
 
-Trendlines drawn across the peaks and valleys resemble a megaphone. Higher highs and lower lows make the formation obvious to those versed in spotting chart patterns. The slope of the trendlines is what distinguishes this formation from some others. The top trendline must slope up and the bottom one must slope down. When one of die two trendlines is horizontal or nearly so, die formation classifies as a right-angled ascending or descending broadening formation. When the two trendlines slope in the same direction, die formation is a broadening wedge.
+### Right-Angled and Ascending [**^**](#Contents)
 
-There should be at least two minor highs and two minor lows before die chart pattern becomes a broadening top. A minor high is another name for a distinct price peak. A minor low refers to the valley pattern as prices descend to a low then turn back up. Again, die minor low should be a distinct trough diat is easily recognizable. Figure 4.1 shows diree minor highs touching die top trendline and four minor lows either nearing or touching die bottom trendline. The minor highs and minor lows need not alternate as prices crisscross die formation.
+<img src="http://i.imgur.com/sKlLY09.png"/>
+<a href="https://in.tradingview.com/chart/BOSCHLTD/ostmxgIZ-Broadening-Formations-Right-Angled-and-Ascending-Engulfing/"><img src="http://i.imgur.com/RtOVuz1.png"/></a>
 
-### Broadening Wedges, Ascending [**^**](#Contents)
+* [Bulkowski - Broadening formations: Right-Angled and Ascending](http://thepatternsite.com/rabfa.html)
+
+>The right-angled and ascending broadening chart pattern is not one you might choose to trade. -[source](https://education.howthemarketworks.com/advanced/charts-and-patterns/broadening-formations-right-angled-and-ascending/)
+
+>Right-angled ascending broadening formations: What does the name mean? Right angle implies that it is a member of the triangle family. A horizontal base with an up-sloping hypotenuse forms a right triangle. The third side drops down from the hypotenuse to the base and intersects it at a 90 degree angle, forming the so-called right angle. Ascending means that the hypotenuse ascends over time as contrasted with descending broadening formations. Broadening formation means that prices make higher highs. Ascending and descending triangles, in contrast, have narrowing price movements.
+
+## Right-Angled and Descending [**^**](#Contents)
+
+<img src="http://i.imgur.com/NmJySGO.png"/>
+<a href="https://www.tradingview.com/chart/BTCUSD/cQ0rTZ0i-A-Right-Angled-and-Descending-Broadening-Formations/"><img src="http://i.imgur.com/QE58pku.png"/></a>
+
+* [Bulkowski - Broadening formations: Right-Angled and Descending](http://thepatternsite.com/rabfd.html)
+
+The characteristic flat top and down-sloping bottom are apparent in the figure. These are the two key ingredients. Prices at the top of the formation reach the same price level before declining. Over time, a horizontal trendline can be drawn connecting them. 
+
+Along the bottom of the formation, the minor lows touch a down-sloping trendline before prices rebound. Eventually, prices break out of the formation by either closing above the top trendline or below the bottom one.
+
+### Broadening Ascending Wedges [**^**](#Contents)
 
 <img src="http://i.imgur.com/wM5asGY.png"/>
 
-The chart looks like a pie-shaped wedge that slopes uphill. That is why it is called an ascending broadening wedge. The price action alternates and is contained by the two trendlines. The two trendlines are not parallel. If they were parallel, you would have a channel or rectangle (when both trendlines are horizontal).
+* [TradingView.ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
+* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)
+^^^ shows entirely different version of this based on updated statistics.
 
-<img src="http://i.imgur.com/c4eKYkq.png"/>
-
-The ascending broadening wedge is different from a rising wedge. Both ascending broadening wedge and rising wedge trendlines encompass price action that slopes upward. However, that is where the similarity ends. The top trendline of ascending broadening wedges slopes upward at a higher rate than
-the bottom one, giving the appearance of a broadening price series.
-
-Volume of ascending broadening wedges is also opposite that of rising wedges: Volume for the ascending broadening wedge is slightly higher as the breakout nears, but in a rising wedge volume typically recedes.
-
-<img src="http://i.imgur.com/QsPr8Gb.png"/>
-
-The Results Snapshot shows some statistics for ascending broadening wedges. This chart pattern sports a relatively high, 24%, failure rate that reduces to 6% if one waits for a downside breakout. Failure rates below 20% I consider to be acceptable, so the rule is, wait for a downside breakout before
-selling this one short.
-
-Fullbacks (21%) and throwbacks (7%) are rare, which is somewhat
-unusual for broadening formations. The numbers suggest that once a breakout occurs, there is no looking back; prices break down cleanly and continue down. This is not strictly true as the chart patterns accompanying this entry attest. There is some hesitancy when the stock nears the lower trendline.
-
-The measure rule is similar to the wedge family. Prices decline to, or below, the start of the formation about two-thirds of the time.
+<a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
 
 ### Broadening Wedges, Descending [**^**](#Contents) 
 
-<img src="http://i.imgur.com/d1K92Dv.png"/>
+<img src="http://i.imgur.com/d1K92Dv.png"/> 
 
-What a surprise! When I discovered this formation, I thought it would act like a falling wedge, but it did not. Falling wedges are reversal formations, whereas descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases
+* [TradingView.ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
+- [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
+  > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
 
-<img src="http://i.imgur.com/0iktdFi.png"/>
+
+<a href="https://www.tradingview.com/chart/AUDUSD/BTTUvzhp-AUDUSD-Descending-Broadening-Wedge-And-Short-Setup/"><img src="http://i.imgur.com/jV5HN0x.png"/></a>
+
+>descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases.
 
 During my search through the various stocks in the database, I noticed that this formation appears most often after an uptrend. Prices move down in a broadening wedge for several months then return to their original direction: up.
-
-<img src="http://i.imgur.com/OX9BTuj.png"/>
-
-The pattern is representative of a trend consolidation, reaffirming the statistics. How do you measure the failure rate of this formation? 
 
 Once I knew that the formation acts as a consolidation of the trend, then trend reversals become failures. Also, formations that are consolidations but fail to move more than 5% in the breakout direction (after a breakout) are also failures. Altogether, 37% of the formations fail. That is well above the maximum 20% that I consider reliable formations to possess.
 
@@ -199,7 +158,10 @@ Being a consolidation in a bull market, the average rise is a very high 46%. The
 ## Bump-and-Run Reversal Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/C3adH9M.png"/>
-<img src="http://i.imgur.com/6DaDf7F.png"/>
+
+* https://www.tradingview.com/ideas/bump/
+* [Bulkowski - Bump and Run Reversal Bottoms](http://thepatternsite.com/barrb.html)
+  >The bump-and-run reversal bottom is a chart pattern that is a surprisingly good performer in both bull and bear markets. It has a low break even failure rate and high average rise after the breakout. Discovered by Thomas Bulkowski in 1999.
 
 If you wait for a breakout, the failure rate drops from 19% to 9%. I consider anything less than 20% to indicate a reliable formation. The average gain is 37%. This is a bit shy of the usual 40% for bullish formations, but the most likely rise, at 20%, is quite good.
 
@@ -208,25 +170,26 @@ If you wait for a breakout, the failure rate drops from 19% to 9%. I consider an
 Many would recognize this formation as a cup-with-handle, and indeed it is. But it is also a BARR bottom, as a cup does not depend on a down-sloping trendline and a larger handle on the left such as that shown in Figure 7.1. Whatever you call the formation, the result is still the same: Prices move
 higher.
 
-<img src="http://i.imgur.com/LR6m1Uh.png"/>
+<a href="https://www.tradingview.com/chart/ITC/d5Pr576Q-ITC-Bulkowski-s-Bump-and-Run-Reversal-Bottoms-LONG/"><img src="http://i.imgur.com/hJAhGQL.png"></a>
 
-Only 52, or 14%, of the BARR bottoms have dual or multiple bumps. Dual or multiple bumps are significant declines after the main bump touches the trendline. Most of the time, the second or later bumps do not decline to the low seen during formation of the main bump. The actual number of secondary bumps declining below the main bump are few but not tabulated.
 
 ## Bump-and-Run Reversal Tops [**^**](#Contents)
 
-<img src="http://i.imgur.com/MJQXJcz.png"/>
+<img src="http://i.imgur.com/MJQXJcz.png"/>\
+<img src="http://i.imgur.com/2JpGC1p.png"/>
 
-<img src="http://i.imgur.com/jEwAZ1E.png"/>
+* https://www.tradingview.com/ideas/bump/
+* [Bulkowski - Bump and Run Reversal Top](http://thepatternsite.com/barrt.html)
 
 The overall formation reminds me of a mountain range. The foothills at the start of the formation are low and subdued, not venturing too far above the up-sloping plain. Volume at the start of the formation is high but quickly recedes. The mountains themselves rise up well above the foothills on high volume. 
 
 Investor enthusiasm continues high as prices round over at the top, then diminishes on the far side. When the mountains end, prices decline sharply and continue moving down. That is a BARR. Prices bump-up, round over, and run back down again. The formation is the visual representation of momentum. The base of the formation follows a trendline that always slopes upward. It signals investors' eagerness to acquire the stock. As each day goes by, investors bid higher to reluctant sellers and the price rises
 
-<img src="http://i.imgur.com/752cx5N.png"/>
+<img src="http://i.imgur.com/jEwAZ1E.png"/>
+
 
 Other momentum players eventually notice the rise in the stock price. Many jump on the bandwagon the day after a surprisingly good earnings announcement. That is when the bump begins. Volume spikes upward along with the stock price. Quickly rising prices entice others to join the fray and that, in turn, sends the stock even higher. As momentum increases, prices jump up to form a new, higher-sloping trendline. Then things start going wrong.
 
-Upward momentum continues until supply catches up with demand. As that happens, the rise slows and the smart money turns cautious. Investor enthusiasm wanes and the war between supply and demand turns. The stock rounds over and starts heading down. When the smart money sees prices falling, they sell and the decline picks up speed. Downward momentum increases and returns prices to the trendline. At this point, buying enthusiasm may increase and send prices back up for one last try at a new peak. Usually, however, prices do not bounce off the trendline but continue moving down.
 
 ## Cup with Handle [**^**](#Contents)
 
