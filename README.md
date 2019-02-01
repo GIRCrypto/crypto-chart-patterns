@@ -130,8 +130,8 @@ Along the bottom of the formation, the minor lows touch a down-sloping trendline
 
 <img src="http://i.imgur.com/wM5asGY.png"/>
 
-* [TradingView.ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
-* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)
+* [TradingView - Ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
+* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)\
 ^^^ shows entirely different version of this based on updated statistics.
 
 <a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
@@ -140,8 +140,8 @@ Along the bottom of the formation, the minor lows touch a down-sloping trendline
 
 <img src="http://i.imgur.com/d1K92Dv.png"/> 
 
-* [TradingView.ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
-- [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
+* [TradingView - Ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
+* [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
   > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
 
 
@@ -193,9 +193,16 @@ Other momentum players eventually notice the rise in the stock price. Many jump 
 
 ## Cup with Handle [**^**](#Contents)
 
-<img src="http://i.imgur.com/piGF9G6.png"/>
+<img src="http://i.imgur.com/piGF9G6.png"/>\
+<img src="http://i.imgur.com/nn0KcON.png"/>
 
-<img src="http://i.imgur.com/EBtwcBi.png">
+* [Investopedia - Terms - Cup and Handle](https://www.investopedia.com/terms/c/cupandhandle.asp)
+* [Investopedia - University - Cup and Handle](https://www.investopedia.com/university/charts/charts3.asp)
+* [TradingView - Ideas - Cup and Handle](https://www.tradingview.com/ideas/cupandhandle/)
+* [TradingView - Education - Cup and Handle](https://www.tradingview.com/education/cupandhandle/)
+* [TradingView - Wiki - Cup and Handle](https://www.tradingview.com/wiki/Cup_and_Handle)
+* [Bulkowski - Cup with Handle](http://thepatternsite.com/cup.html)
+* [Babypips - Cup and Handle](https://www.babypips.com/forexpedia/cup-with-handle)
 
 As I was selecting cup-with-handle formations, it became apparent that locating cups during an uptrend is important. So, I adopted O'Neil's criteria of a minimum 30% rise leading up to the cup.
 
@@ -205,25 +212,28 @@ All the cups are U-shaped (V-shaped ones being removed). Also removed from the s
 
 <img src="http://i.imgur.com/vyJdfDG.png"/>
 
-<img src="http://i.imgur.com/yz4tHOR.png"/>
+* [Investopedia - Terms - Dead-cat Bounce](https://www.investopedia.com/terms/d/deadcatbounce.asp)
+* [Investopedia - Articles - Dead-cat Bounce](https://www.investopedia.com/articles/00/101700.asp)
+* [Bulkowski - Dead-cat Bounce](http://thepatternsite.com/dcb.html)
+* [Bulkowski's Dead-Cat Bounce Setup](http://thepatternsite.com/DCBSetup.html)
+* [TradingView - Ideas - Dead-Cat Bounce](https://www.tradingview.com/ideas/dead-cat-bounce/)
+
+<a href="https://www.tradingview.com/chart/BTCUSD/mhSdd8K0-How-High-Will-The-Dead-Cat-Bounce-Bitcoin-BTC-MEOOOW/"><img src="http://i.imgur.com/Q7Az9KV.png"/></a>
 
 It is not so much a chart formation as it is a warning to exit the stock quickly after a dramatic decline. The event decline, which is the decline that spawns the dead-cat bounce, averages 25%. After the event decline, prices bounce up, round over, and continue down another 15%, on average (measured from the event low to the ultimate low). 
 
 The larger the event decline, the larger the bounce. 
 
-<img src="http://i.imgur.com/ZE5WEFH.png"/>
-
-What is a dead-cat bounce? The name comes from the behavior of a stock after an unexpected negative event. Figure 10.1 shows a typical example of a deadcat bounce. In late September, the smart money started selling their holdings,
-driving down the price and pushing up the volume trend. Prices declined from a high of 427/i6 to 3513/i6 in just over a week. On October 9, a major brokerage house lowered its intermediate-term rating on the stock. Down it went. In 2 days the stock dropped from a high of 37 /i6 to a low of 26, a decline of over 30%.
-
-For the next week and a half, the stock recovered somewhat, rising to 3213/i6 and enticing novice investors to buy the stock. The stock moved lower, then climbed again to form a double top. This was the end of the good news.
-
-From the second peak, it was all downhill until mid-January, when the stock bottomed at 1813/is. From the high before the event began to the ultimate low, the stock plunged 50%! Welcome to the dead cat bounce.
-
 ## Diamond Tops and Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/6EnaktK.png"/>
 <img src="http://i.imgur.com/b3FG74u.png"/>
+
+* [Bulkowski - Diamond Tops](http://thepatternsite.com/diamondt.html)
+* [Bulkowski - Diamond Bottoms](http://thepatternsite.com/diamondb.html)
+* [Introducing The Bearish Diamond Formation](https://www.investopedia.com/articles/forex/05/diamondbear.asp)
+* [Diamond Top Formation](https://www.investopedia.com/terms/d/diamondtop.asp)
+
 
 In appearance, the only difference between the two diamond patterns is the price trend leading to the formation. For diamond tops, the prior price trend is upward, whereas diamond bottoms have price trends that lead down to the formation.
 
