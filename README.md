@@ -360,6 +360,8 @@ First and most importantly there must be a short, quick rise. Flags with a reced
 
 * [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
 * [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
+* [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
+* [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
 
 A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
 stock to create a gap. 
@@ -375,21 +377,20 @@ It sometimes is nothing more than the stock being worth less simply because of a
 
 <img src="http://i.imgur.com/dUiqpr0.png"/>
 
+* [Bulkowski - Hanging Man](http://thepatternsite.com/HangingMan.html)
+* [Babypips - Single Candlestick Patterns](https://www.babypips.com/learn/forex/lone-rangers-single-candlestick-patterns)
+  * (diff between hanging man and hammer is that hammer is at the bottom)
+* [Investopedia - Terms - Hanging Man](https://www.investopedia.com/terms/h/hangingman.asp)
+* [Investopedia - Ideas - Hanging Man](https://www.tradingview.com/ideas/hangingman/)
+* [Investopdedia - Scripts - Hanging Man](https://www.tradingview.com/scripts/hangingman/)
+
 Hanging man formations with upside breakouts show gains averaging 40%, which is quite good, but the most likely gain is 10%—comparatively poor. For downside breakouts, the average loss is 16% with a likely loss between 5% and 10%. If you decide to trade this formation, do not expect a large price move.
 
-<img src="http://i.imgur.com/VME9GjW.png"/>
+<img src="http://i.imgur.com/l29D51i.png">
 
-After careful consideration, I cannot recommend trading this formation. The primary belief behind this chart pattern is that prices will reverse the uptrend.
+After careful consideration, I cannot recommend trading this formation. The primary belief behind this chart pattern is that prices will reverse the uptrend. They do not. Just a third of the formations reverse, whereas the others see prices continue higher. 
 
-They do not. Just a third of the formations reverse, whereas the others see prices continue higher. 
-
-The only advice I can offer is when you are considering buying or selling a stock and see a hanging man formation. It is probably best if the opening price is well below the intraday high but the stock closes at the high, suggesting upward momentum. 
-
-The following day, there is a very slight tendency to
-post a higher high. So, if you are selling, you might wait for the new high or at least follow the stock closely throughout the day.
-
-If you are buying just before the close and the price is at or near the intraday high (again, with the opening price near the intraday low), you might take comfort in believing tomorrow's price will be higher—at least sometime during the day. The odds suggest a higher price, but the odds are not much better
-than a coin toss, certainly not worth betting the farm on.
+<img src="http://i.imgur.com/tf78WgB.png"/>
 
 ## Head-and-Shoulders [**^**](#Contents)
 
