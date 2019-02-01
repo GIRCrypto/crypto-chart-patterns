@@ -6,6 +6,25 @@ Until I'm ready to build a similar cheet sheet for other aspects of trading I'll
 
 Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). Ultimately, I'll study other sources on the same subject and replace Bulkowski's words with my own. I'm just becomming familiar with the subject, atm.
 
+### Intro
+
+According to BabyPips there are [3 main groups](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns) of trading patterns:
+
+1. Reversal
+   * Double Top
+   * Double Bottom
+   * Head and Shoulders
+   * Inverse Head and Shoulders
+   * Rising Wedge
+   * Falling Wedge
+2. Continuation
+   * wedges
+   * rectangles
+   * pennants
+* Note that wedges can be considered either reversal or continuation patterns depending on the trend on which they form.
+3. Bi-lateral
+   * Triangles
+
 
 ## Contents
 * [Broadening Formations](#Broadening-Formations)
@@ -24,9 +43,10 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
 * [Flags and Pennants](#Flags-and-Pennants)
   * [Flags-High and Tight](#Flags-High-and-Tight)
 * [Gaps](#Gaps)
+* [Hanging Man](#Hanging-Man)
 * [Head and Shoulders](#Heads-and-Shoulders-)
-  * [HS Bottoms](#HS-Bottoms)
-  * [HS Bottoms-Complex](#HS-Bottoms-Complex)
+  * [Inverted](#Inverted-Head-and-Shoulders)
+  * [Inverted-Complex](#HS-Bottoms-Complex)
   * [HS Tops](#HS-Tops)
   * [HS Tops Complex](#HS-Tops-Complex)
 * [Horn Bottoms](#Horn-Bottoms)
@@ -394,40 +414,27 @@ After careful consideration, I cannot recommend trading this formation. The prim
 
 ## Head-and-Shoulders [**^**](#Contents)
 
-### HS Bottoms [**^**](#Contents)
+<a href="https://www.tradingview.com/chart/GBPJPY/yv4IbECk-GBPJPY-Head-and-Shoulders-Pattern-Neckline-barely-broken/"><img src="http://i.imgur.com/28rS1rV.png"/></a>
 
-<img src="http://i.imgur.com/vYdIsA1.png"/>
-<img src="http://i.imgur.com/khjPkx2.png">
-I find it easier to pick out tops than bottoms. Perhaps this is because I spend so much time worrying about when to sell. 
+* [Bulkowski's Head-and-Shoulders Explained](http://thepatternsite.com/HSTExplained.html)
+* [Investopedia - University - Head and Shoulders](https://www.investopedia.com/university/charts/charts2.asp)
+* [Investopedia - Terms - Head and shoulders](https://www.investopedia.com/terms/h/head-shoulders.asp)
+* [Investopedia - Technical - How to Trade Head and Shoulders](https://www.investopedia.com/articles/technical/121201.asp)
+* [Babypips - Head and Shoulders](https://www.babypips.com/forexpedia/head-and-shoulders)
+* [Babypips - How to Trade the Head and Shoulders Pattern](https://www.babypips.com/learn/forex/head-and-shoulders)
+* [TradingView - Ideas - Head and Shoulders](https://www.tradingview.com/ideas/headandshoulders/)
+* [TradingView - Wiki - Head and Shoulders](https://www.tradingview.com/wiki/Head_&_Shoulders)
 
-Placing a trade is easy but getting out is the tough part. In my quest to sell at the appropriate time, I have often overlooked the buy side: bottom reversals. Head-and-shoulders bottoms are just such a formation. They are quite easy to spot and can be very profitable.
-
-<img src="http://i.imgur.com/aK3mnHT.png"/>
-
-They usually form after an extended downtrend in prices. As a reversal, once they complete, prices rise. Why do head-and-shoulders bottoms form? The formation represents a struggle to find the bottom, the lowest price that represents the best value
-
-<img src="http://i.imgur.com/hve8PTA.png"/>
-
-### HS Bottoms-Complex [**^**](#Contents)
-
-<img src="http://i.imgur.com/N963uRH.png"/>
-
-An inverted head-and-shoulders formation with
-multiple heads, shoulders, or both
-
-<img src="http://i.imgur.com/KJ9Geqa.png">
-
-The failure rate at 6% is outstanding. Only 15 formations out of almost 240 fail to perform as expected. The average rise is a reassuring 37%, and 82% of the formations experiencing an upside breakout meet or exceed their price targets. These figures are all excellent and they imply that this formation is worth trading.
-
-<img src="http://i.imgur.com/ssgtNdW.png"/>
-
-Two interesting findings relate to the formation appearance. When the neckline slopes downward, the stock performs better, with gains averaging 39% versus 34% (for those formations with up-sloping necklines). Formations with high volume breakouts also perform better, with gains averaging 39% versus 32% for low volume breakouts. We explore these results in the Statistics section.
-
-<img src="http://i.imgur.com/X8EPPj4.png"/>
+<img src="http://i.imgur.com/OfXsPjs.png"/>
 
 ### HS Tops [**^**](#Contents)
 
 <img src="http://i.imgur.com/gMIQ51S.png"/>
+
+Most references to head and shoulders are to the tops, and bottoms are known as inverse.
+
+* [Bulkowski - Head and Shoulder Tops](http://thepatternsite.com/hst.html)
+* []
 
 Three-bump formation with center bump taller than
 the others
@@ -468,6 +475,39 @@ Consider Figure 21.3, another example of a multiple shoulder chart pattern. Afte
 If you ignore the labels for a moment, the inner price action looks like a rounding top. This smooth price rollover is common for complex head-andshoulder formations. Of course, the flat head shape for a multiple shoulder pattern (Figure 21.2) is also typical.
 
 <img src="http://i.imgur.com/TKEpqOn.png"/>
+
+
+### Inverted Head and Shoulders [**^**](#Contents)
+
+<img src="http://i.imgur.com/vYdIsA1.png"/>
+
+* [Bulkowski - Head and Shoulder Bottoms](http://thepatternsite.com/hsb.html)
+* [Tradingview - Inverted Head and Shoulders](https://www.tradingview.com/ideas/inverseheadandshoulders/)
+
+<a href="https://www.tradingview.com/chart/EURUSD/p1ezt9N2-Discussion-Head-and-Shoulders-Bottoms/"><img src="http://i.imgur.com/FtyT6zr.png"></a>
+
+I find it easier to pick out tops than bottoms. Perhaps this is because I spend so much time worrying about when to sell. 
+
+Placing a trade is easy but getting out is the tough part. In my quest to sell at the appropriate time, I have often overlooked the buy side: bottom reversals. Head-and-shoulders bottoms are just such a formation. They are quite easy to spot and can be very profitable.
+
+* [Quick Notes about Trading Inverted Head and Shoulders](https://www.tradingview.com/chart/BTCUSD/egkLlnRD-Quick-notes-about-Inverted-Head-and-Shoulders/)
+  <img src="http://i.imgur.com/5kUJr0D.png"/>
+
+### HS Bottoms-Complex [**^**](#Contents)
+
+* [Bulkowski - Inverted Head and Shoulder, Complex](http://thepatternsite.com/chsb.html)
+
+<img src="http://i.imgur.com/N963uRH.png"/>
+
+An inverted head-and-shoulders formation with
+multiple heads, shoulders, or both
+
+<img src="http://i.imgur.com/KJ9Geqa.png">
+
+The failure rate at 6% is outstanding. Only 15 formations out of almost 240 fail to perform as expected. The average rise is a reassuring 37%, and 82% of the formations experiencing an upside breakout meet or exceed their price targets. These figures are all excellent and they imply that this formation is worth trading.
+
+Two interesting findings relate to the formation appearance. When the neckline slopes downward, the stock performs better, with gains averaging 39% versus 34% (for those formations with up-sloping necklines). Formations with high volume breakouts also perform better, with gains averaging 39% versus 32% for low volume breakouts. 
+
 
 ## Horn Bottoms [**^**](#Contents)
 
