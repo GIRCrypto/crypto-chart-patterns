@@ -227,57 +227,64 @@ The larger the event decline, the larger the bounce.
 ## Diamond Tops and Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/6EnaktK.png"/>
-<img src="http://i.imgur.com/b3FG74u.png"/>
 
 * [Bulkowski - Diamond Tops](http://thepatternsite.com/diamondt.html)
 * [Bulkowski - Diamond Bottoms](http://thepatternsite.com/diamondb.html)
 * [Introducing The Bearish Diamond Formation](https://www.investopedia.com/articles/forex/05/diamondbear.asp)
 * [Diamond Top Formation](https://www.investopedia.com/terms/d/diamondtop.asp)
-
+* [Babypips - Diamond](https://www.babypips.com/forexpedia/diamond)
 
 In appearance, the only difference between the two diamond patterns is the price trend leading to the formation. For diamond tops, the prior price trend is upward, whereas diamond bottoms have price trends that lead down to the formation.
 
-<img src="http://i.imgur.com/B876dVh.png"/>
 
-The diamond bottom begins by widening out and tracing higher highs and lower lows, then the process reverses. The price range narrows until the breakout occurs
+<a href="https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/"><img src="http://i.imgur.com/ypAwM5z.png"/></a>
+>The Diamond pattern is a rare, but reliable chart pattern. Diamond chart reversals rarely happen at market bottoms, it most often occurs at major tops and with high-volume. Bulkowski's (2005) research states that the diamond bottom breaks upward 69% of the time. Bulkowski emphasizes that a diamond bottom with a breakout move downward is ranked as being one the best performing patterns. You should always use a stop loss order when trading the diamond pattern. The proper location of your stop should be above the last top inside the diamond for bearish setups and below the last low of inside the diamond for bullish setups. - ([source](https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/))
 
-<img src="http://i.imgur.com/0wEzfrT.png"/>
+
+<a href="https://www.tradingview.com/chart/BTCUSD/PajEGFVg-Confusing-priceaction-on-btc-uncovers-3hour-Diamond-pattern/"><img src="http://i.imgur.com/rPLVeSm.png"/></a>
 
 ## Double Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/dFtYbCI.png"/>
 
+* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
+* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
+* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
+* [Babypips - Double Bottom](https://www.babypips.com/forexpedia/double-bottom)
+* [Investopedia - Double Bottom](https://www.investopedia.com/terms/d/doublebottom.asp)
+* [Bulkowski's Double Bottom Types](http://thepatternsite.com/DoubleBottomTypes.html)
+* [Bulkowski's Double Bottom Setup](http://thepatternsite.com/dbsetup.html)
+
+
 Perhaps the biggest surprise with double bottoms is the high failure rate at 64%. Only a third of the formations classify as true double bottoms. They are the ones that have prices rising above the confirmation point, which is the highest high between the two lows. The failure rate tumbles to just 3 % if one waits for confirmation. Only those formations with confirmed breakouts are evaluated in this study.
 
-<img src="http://i.imgur.com/4HoRq7d.png"/>
+<a href="https://www.tradingview.com/chart/NZDCAD/NgLOZjGz-NZDCAD-Possible-Double-Bottom-and-a-H-S-Failure/"><img src="http://i.imgur.com/azIqHVp.png"/></a>
 
 A double bottom is not a true double bottom until prices rise above the confirmation point. In tabulating the statistics, / only count those double bottoms in which prices rise above the confirmation point. Why? Because of the high failure rate: 64%. There were 980 formations that looked like double bottoms, but their price trends eventually moved below the second bottom. 
 
-An additional 525 formations performed as expected by rising to the confirmation point and continuing higher. If you buy a stock just after it touches the second bottom, your chances of having a successful trade are one in three. In other words, wait for prices to rise above the confirmation point.
+<img src="http://i.imgur.com/53OpzHM.png"/>
 
-<img src="http://i.imgur.com/eiKT7i2.png"/>
+An additional 525 formations performed as expected by rising to the confirmation point and continuing higher. If you buy a stock just after it touches the second bottom, your chances of having a successful trade are one in three. In other words, wait for prices to rise above the confirmation point.
 
 ## Double Tops [**^**](#Contents)
 
 <img src="http://i.imgur.com/o72B6d0.png"/>
-<img src="http://i.imgur.com/VTuQY85.png"/>
 
-The study of double tops results in several surprises. The failure rate at 65% is worse than just tossing a coin. If you blindly sell your holdings before the breakout, you will likely miss out on some handsome upside gains. 
+* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
+* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
+* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
+* [Tradingview - Ideas - Double Tops](https://www.tradingview.com/ideas/doubletop/)
 
-If, instead, you wait for the breakout, then you will be correct in dumping your shares 83% of the time. However, almost half the formations decline less than 15%, and nearly two out of three formations fall shy of their predicted price targets.
+<a href="https://www.tradingview.com/chart/BTCUSD/DLPfJW0U-2618-Double-top-0-618-pull-back-do-not-miss-it/"><img src="http://i.imgur.com/s7sBNE2.png"/></a>
 
-Such poor performance statistics might make you think seriously about hanging onto your shares. Fullbacks to the breakout point are high at 69% . Once a breakout occurs, you can probably safely wait for the pullback to complete and prices to head down again before selling.
+If wait for the breakout, then you will be correct in dumping your shares 83% of the time. However, almost half the formations decline less than 15%, and nearly two out of three formations fall shy of their predicted price targets.
 
-<img src="http://i.imgur.com/GIEa0dE.png"/>
 
-Double tops spaced closer together have larger losses than those with peaks spaced farther apart. With peaks close together, investors are more likely to recognize a double top and try to take advantage of it.
+>The double top is one of the most popular patterns in trading. It's a reliable reversal pattern that can be used to enter a bearish position after a bullish trend. It consists of 2 tops at nearly the same level with a valley in between, which creates the neckline. The second top does not break the level of the first top, so the price retested this level and tried to make a higher high, but failed. Price breaking the neckline and closing below it would complete the pattern. 
 
-There is also a relationship between the size of the decline between the two peaks and the resulting percentage loss. Formations with large peak-totrough declines also have large losses when compared to small trough declines.
+>Conservative traders look for additional confirmation and aggressive traders may enter a bearish position from the second top. The target can be estimated by measuring the height of the pattern and projecting this downwards from the neckline. Common stop levels are just above the neckline, halfway between the neckline and the tops or above the tops.
 
-High volume breakouts result in statistically significant performance differences than those with low volume breakouts. In other words, formations
-with high volume breakouts decline further. The Statistics section of this chapter explores these findings.
-
-<img src="http://i.imgur.com/YVd5zmq.png"/>
+<a href="https://www.tradingview.com/chart/EURUSD/XEPEQbbm-3-TRADING-STRATEGY-S-IN-ONE-CHART-EXPLAINED/"><img src="http://i.imgur.com/45lsZvz.png"/></a>
 
 For double tops, only 39% of the formations decline far enough to fulfill the prediction. Reliable values are above 80%. The poor showing of this formation further emphasizes that many double top patterns do not decline far and this formation may not be worth trading at all.
 
