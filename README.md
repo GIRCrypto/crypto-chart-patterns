@@ -274,6 +274,7 @@ An additional 525 formations performed as expected by rising to the confirmation
 * [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
 * [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
 * [Tradingview - Ideas - Double Tops](https://www.tradingview.com/ideas/doubletop/)
+* [Bulkowski - Double Top Study](http://thepatternsite.com/dtstudy.html)
 
 <a href="https://www.tradingview.com/chart/BTCUSD/DLPfJW0U-2618-Double-top-0-618-pull-back-do-not-miss-it/"><img src="http://i.imgur.com/s7sBNE2.png"/></a>
 
@@ -293,44 +294,73 @@ The question then becomes, is it worth taking profits on a confirmed double top?
 ## Flags and Pennants [**^**](#Contents)
 
 <img src="http://i.imgur.com/q0PnCFP.png"/>
-<img src="http://i.imgur.com/9arkS1H.png"/>
 
 Flags and pennants look alike and in many ways their performance is similar, too. The formations are usually very short in duration, from a few days to 3 weeks, and mark the halfway point in a quick price move. 
 
-<img src="http://i.imgur.com/GITq7s8.png"/>
+
+<a href="https://www.tradingview.com/chart/EURINR/WZdNVSyC-Educational-07-Flag-and-Pennant-Patterns/"><img src="http://i.imgur.com/muwtsBo.png"></a>
 
 These formations can be profitable short-term investments, but you must be nimble and attentive to take full advantage of them. 
 
 Pennants, with a failure rate of 34% in downtrends, are above the 20% rate I consider acceptable. Flags at 12% to 13 % and pennants in a uptrend (19%) perform better.
 
+
+* [TradingView - Wiki - Flag and Pennant](https://www.tradingview.com/wiki/Flag_and_Pennant)
+* [Investopedia - University - Flags and Pennants](https://www.investopedia.com/university/charts/charts6.asp)
+
+### Pennants
+
+* [TradingView - Education - Pennant](https://www.tradingview.com/education/pennant/)
+* [TradingView - Ideas - Pennant](https://www.tradingview.com/ideas/pennant/)
+* [How to Trade Bearish and Bullish Pennants](https://www.babypips.com/learn/forex/pennants)
+* [Babypips - Pennants](https://www.babypips.com/forexpedia/pennants)
+* [Investopedia - Terms - Pennant](https://www.investopedia.com/terms/p/pennant.asp)
+* [Bulkowski - Pennants](http://thepatternsite.com/pennants.html)
+
+
+<a href="https://www.tradingview.com/chart/IMLFF/pxPB4A45-Pattern-Recognition-on-real-time-charts-flags-and-pennants/"><img src="http://i.imgur.com/7xmLhhL.png"></a>
+
+
+### Flags
+
+<a href="https://www.tradingview.com/chart/BTCUSD/czXS2eFp-Bitcoin-Bear-Flags-within-Bear-Flags-within-a-falling-wedge/"><img src="http://i.imgur.com/yzC5xPB.png"></a>
+
+* [TradingView - Ideas - Flag](https://www.tradingview.com/ideas/flagpattern/)
+* [TradingView - Education - Flag](https://www.tradingview.com/education/flagpattern/)
+* [Babypips - Flags](https://www.babypips.com/forexpedia/flags)
+* [Investopedia - Terms - Flag](https://www.investopedia.com/terms/f/flag.asp)
+* [Bulkowski - Flags](http://thepatternsite.com/flags.html)
+
 The percentage of formations that meet or exceed their predicted price targets is disappointing for both flags and pennants. I view values above 80% to be reliable, but the results show values that range from 52% to 63%, suggesting that you should trade these formations with caution as your profits may not be as large as you expect.
 
-<img src="http://i.imgur.com/OgyoLcw.png"/>
-
-Use the measure rule to gauge the amount of profit likely from the trade and weigh the amount of profit against the possible risk of failure. Look for support and resistance levels where price trends were repulsed in the past.
-
-Many times prices will pause or turn around at these junctions. These values become the risk points for a trade. You can compare the risk with the reward by computing the current price with the measure rule target and the first or second level of support or resistance. A ratio of reward to risk should be four to one (or higher) for highly profitable trades.
+<a href="https://www.tradingview.com/chart/USDCHF/j4USneQj-FALLING-FLAG-FOR-A-RETEST/"><img src="http://i.imgur.com/oQB12C2.png"/></a>
 
 ## Flags-High and Tight [**^**](#Contents)
 
 <img src="http://i.imgur.com/anKFGGU.png"/>
-<img src="http://i.imgur.com/s0l1aaw.png"/>
+<a href="https://www.tradingview.com/chart/GOLD/HaHMkOrU-More-Bullish-on-the-2H-High-Tight-Bull-flag/"><img src="http://i.imgur.com/kBb2PBa.png"/></a>
+
+* [Bulkowski - Flags-High and Tight](http://thepatternsite.com/htf.html)
+* [Why The High, Tight Flag Is A Rare Chart Pattern And Produces Big Gains](https://www.investors.com/how-to-invest/investors-corner/emulex-hoisted-a-high-tight-signal-flag-before-its-breakout/)
+* [High and Tight Flag Pattern](https://www.tothetick.com/archives/1835)
+
 Having recently completed the chapter on flags and pennants, I was surprised to discover an abundance of high, right flags. 
 
-Even more surprising is their performance. The 32% failure rate is poor, but if you wait for an upside breakout, the rate drops to 17%. Reliable formations have failure rates below 20%, so high, tight flags score well providing you wait for the breakout.
+>if you wait for an upside breakout, the rate drops to 17%. Reliable formations have failure rates below 20%, so high, tight flags score well providing you wait for the breakout.
 
-<img src="http://i.imgur.com/seaITvy.png"/>
+<img src="http://i.imgur.com/X36eWBB.png"/>
 
-First and most importantly there must be a short, quick rise. A handful (10) of the flags in the database have rises of less than 100% but none are below 90%. Most of the stocks make the journey in less than 2 months with the longest taking an extra week (67 days). Again, the key is a short, quick doubling of the stock price.
+First and most importantly there must be a short, quick rise. Flags with a receding volume trend handily outperform those without. However, I would not ignore a high, tight flag simply because volume is rising. Rather, I would recognize that its  performance may be subpar.
 
-Once the stocks are selected on a price-rise basis, then look for the nearest consolidation area. Most of the time, it will be quite near. In my selections, I did not care how long die stock consolidated nor how far the flag descended before turning upward. All that mattered was that the consolidation area was plainly visible to the casual observer.
-
-The final identification guideline is not really for identification as much as it is for performance. Flags widi a receding volume trend handily outperform those without. However, I would not ignore a high, tight flag simply because volume is rising. Rather, I would recognize that its  performance may be subpar.
 
 ## Gaps [**^**](#Contents)
 
-<img src="http://i.imgur.com/in6Os6l.png"/>
-<img src="http://i.imgur.com/1oACk9q.png"/>
+<img src="http://i.imgur.com/in6Os6l.png"/>\
+<img src="http://i.imgur.com/rbxMzBq.png"/>
+
+* [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
+* [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
+
 A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
 stock to create a gap. 
 
@@ -338,7 +368,8 @@ stock to create a gap.
 
 It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
 
-<img src="http://i.imgur.com/doYdq4h.png"/>
+![](http://i.imgur.com/KIdBpAK.png)
+  * [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
 
 ## Hanging Man [**^**](#Contents)
 
