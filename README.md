@@ -1,10 +1,17 @@
-# awesome-crypto-trading
+# crypto-chart-patterns
 
-Until I'm ready to build a similar cheet sheet for other aspects of trading I'll leave this here:
+
 
 ## Encyclopedia of Chart Patterns - Cheat Sheet
 
-Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). Ultimately, I'll study other sources on the same subject and replace Bulkowski's words with my own. I'm just becomming familiar with the subject, atm.
+Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). 
+
+### Sources besides Bulkowski's Encyclopedia:
+
+* [Investopedia.com](https://investopedia.com)
+* [BabyPips.com](https://babypips.com)
+* [TradingView.com](https://tradingview.com)
+* [Bulkowski's ThePatternSite.com](https://thepatternsite.com)
 
 ### Intro
 
