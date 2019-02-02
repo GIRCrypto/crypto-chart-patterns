@@ -25,6 +25,7 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
 3. Bi-lateral
    * Triangles
 
+* [BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
 
 ## Contents
 * [Broadening Formations](#broadening-formations-)
@@ -36,7 +37,7 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
   * [Broadening Descending Wedges](#broadening-descending-wedges-)
 * [Bump-and-Run Reversal Bottoms](#bump-and-run-reversal-bottoms-)
 * [Bump-and-Run Reversal Tops](#bump-and-run-reversal-tops-)
-* [Cup and Handle](#cup-and-handle-)
+* [Cup With Handle](#cup-with-handle-)
 * [Dead-Cat Bounce](#dead-cat-bounce-)
 * [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
 * [Double Bottoms](#double-bottoms-)
@@ -55,11 +56,13 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
 * [Outside Days](#outside-days-)
 * [Measured Move Down](#measured-move-down-)
 * [Measured Move Up](#measured-move-up-)
-* [Pipe Bottoms](#pipe-bottoms-)
+* [Pipe Bottoms and Tops](#pipe-bottoms-and-tops-)
 * [Rectangles](#rectangles-)
 * [Rounding Bottoms](#rounding-bottoms-)
 * [Rounding Tops](#rounding-tops-)
-* [Scallops-Ascending and Descending](#scallops-ascending-and-descending-)
+* [Scallops](#scallops-)
+  * [Ascending Scallops](#ascending-scallops-)
+  * [Descending Scallops](#descending-scallops-)
 * [Shark-32](#shark-32-)
 * [Triangles](#triangles-)
   * [Ascending](#ascending-)
@@ -520,7 +523,7 @@ The theory behind the formation says an investor can expect a large price move t
 <img src="http://i.imgur.com/4I56t43.png"/>
 
 * [Investopedia - Terms - Outside Days](https://www.investopedia.com/terms/o/outside-days.asp)
-* [Outside Days](http://thepatternsite.com/OutsideDays.html)
+* [Bulkowski - Outside Days](http://thepatternsite.com/OutsideDays.html)
 >Outside days often serve as part of a continuation pattern in the direction of the latest candlestick. For example, a bullish outside day occurring during an uptrend is a signal that the uptrend is expected to continue. However, outside days can also act as reversal patterns depending on the context. An outside reversal will include an outside day pattern in the opposite direction of the security’s price trend. 
 
 <a href="https://www.tradingview.com/chart/GBPUSD/mZS7LEis-GBP-USD-Outside-day-candle-needs-bearish-follow-through/"><img src="http://i.imgur.com/kGq90xC.png"/></a>
@@ -556,27 +559,33 @@ Yes, its just like measured move down, but going up.
 <a href="https://www.tradingview.com/chart/GBPNZD/1WcYeNAN-GBPNZD-Measured-Move-Up-and-Long-Opportunity/"><img src="http://i.imgur.com/pAZ0o95.png"/></a>
 
 
-## Pipe Bottoms [**^**](#Contents)
+## Pipe Bottoms and Tops [**^**](#Contents)
 
-<img src="http://i.imgur.com/dyRppHO.png"/>
-<img src="http://i.imgur.com/qVKyuYo.png"/>
+<img src="http://i.imgur.com/dyRppHO.png"/><img src=http://i.imgur.com/yAQ2Lz5.png/>
 
 * [Bulkowski - Pipe Bottoms](http://thepatternsite.com/pipeb.html)
+* [Bulkowski - Pipe Tops](http://thepatternsite.com/pipet.html)
+* [Excellence Assured - Trading Pipe Tops and Pipe Bottoms](https://excellenceassured.com/trading/trade-chart-patterns/trading-pipe-tops-pipe-bottoms)
+* [TradingView - Scripts - pipe finder Reversal Indicator for Pipe Top Bottom Patterns](https://www.tradingview.com/script/qVxPTRvh-pipe-finder-Reversal-Indicator-for-Pipe-Top-Bottom-Patterns/)
+* [TradingView - Ideas - Pipe Bottom](https://www.tradingview.com/ideas/pipebottom/)
+* [FXCM - Pipe Tops and Pipe Bottoms](https://www.fxcm.com/insights/chart-patterns-pipe-tops-pipe-bottoms/)
 
-After researching the performance of horn tops and bottoms, the natural thing to do is to remove the intervening week and test the pattern again. That is where the pipe formation comes from. Pipes bottoms are an exciting discovery with a low failure rate (12%) and a high average rise (47%).
+<a href="https://www.tradingview.com/chart/EURGBP/4AtQjZrk-EUR-GBP-formed-again-a-pipe-top/"><img src="http://i.imgur.com/qGgfdql.png"/></a>
 
-<img src="http://i.imgur.com/KicO0vz.png"/>
+> Pipes bottoms are an exciting discovery with a low failure rate (12%) and a high average rise (47%).
 
-Perhaps the most critical feature of a pipe bottom is what happens in the third week. While you can easily spot two adjacent downward price spikes, toss the formation aside if prices do not rise the third week. The third week, the week following the second pipe spike, should leave a well-defined dual spike visible on the price chart. The 4-week pair (which includes the weeks before and after the pipe) is V-shaped and is even more clear when combined with a downward price trend.
+> The third week, the week following the second pipe spike, should leave a well-defined dual spike visible on the price chart, is V-shaped and is even more clear when combined with a downward price trend.
 
-a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. Figures 30.1 and 30.2 are good examples of this behavior.
+<a href="https://www.tradingview.com/script/qVxPTRvh-pipe-finder-Reversal-Indicator-for-Pipe-Top-Bottom-Patterns/"><img src="http://i.imgur.com/JfPCXOB.png"/></a>
+
+> a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. 
 
 ## Rectangles [**^**](#Contents)
 
 <img src="http://i.imgur.com/4iCP88e.png"/><img src="http://i.imgur.com/CYtc3dW.png"/>
 <img src="http://i.imgur.com/IO8fy2g.png"/>
 
-As with many patterns, Bulkowski has his own precise methods for examining them. I'll probably stick with the investopedia\babypips\tradingview for now.
+As with many patterns, Bulkowski has his own distinct methods for identifying them.
 
 * [Bulkowski - Rectangle Bottoms](http://thepatternsite.com/rectbots.html)
 * [Bulkowski - Rectangle Bottom Setup](http://thepatternsite.com/RectangleBottomSetup.html)
@@ -586,68 +595,78 @@ As with many patterns, Bulkowski has his own precise methods for examining them.
 * [Investopedia - Terms - Rectangles](https://www.investopedia.com/terms/r/rectangles.asp)
 * [Investopedia - Articles - Rectangle Formations](https://www.investopedia.com/articles/trading/08/rectangle-formation.asp)
   >Most technicians agree, the rectangle can serve as either a reversal or continuation formation. As a reversal pattern, it ends a trend either up or down. As a continuation pattern, it signifies a pause in the prevailing trend, with the expectation that the prior trend will eventually resume. In either case, the rectangle shows a tug of war between buyers and sellers.
+* [TradingView - Education - Rectangles](https://www.tradingview.com/education/rectangle/)
 * [TradingView - Ideas - Rectangle](https://www.tradingview.com/ideas/rectangle/)
 * [Tradingview - Wiki - Rectangle](https://www.tradingview.com/wiki/Rectangle)
   <img src="http://i.imgur.com/mRdS0Ip.png"/>
-* [TradingView - Education - Rectangles](https://www.tradingview.com/education/rectangle/)
 
 
 ## Rounding Bottoms [**^**](#Contents)
 
-<img src="http://i.imgur.com/QUD9peo.png"/>
-A long, rounded upward turn in prices
-<img src="http://i.imgur.com/0DN8Eyy.png"/>
+<img src="http://i.imgur.com/QUD9peo.png"/>\
+A long, rounded upward turn in prices\
+reversal - wait for confirmation.\
+AKA: rounding turns, and saucers.
 
-Rounding bottoms, rounding turns, and saucers are synonyms for the same formation. The pattern differs from the cup-with-handle and scallop formations in subtle ways, so be sure to study those formations if you are unsure about identification.
+* [Investopedia - Terms - Rounding Bottom](https://www.investopedia.com/terms/r/roundingbottom.asp)
+* [Investopedia - University - Round Bottoms](https://www.investopedia.com/university/charts/charts10.asp)
+* [Bulkowski - Rounding Bottoms](http://thepatternsite.com/roundb.html)
+* [TradingView - Ideas - Rounded Bottoms](https://www.tradingview.com/ideas/rounded-bottom/)
 
-<img src="http://i.imgur.com/Ix0NfwP.png"/>
+<a href="https://www.tradingview.com/chart/ANFI/bCjffZx1-Picture-perfect-rounding-bottom/"><img src="http://i.imgur.com/FV9Cy1D.png"/></a>
 
-If you consider that this formation acts as a consolidation of the prevailing trend and anything acting contrary to that is a failure, then the failure rate for this pattern is very high at 38%. However, if you consider upside breakouts only (a breakout being when prices move above the left saucer lip), then the failure rate drops to just 5%. I consider failure rates above 20% to be alarming.
+>The pattern differs from the cup-with-handle and scallop formations in subtle ways, so be sure to study those formations if you are unsure about identification.
 
-<img src="http://i.imgur.com/1fsPJby.png">
+<img src="http://i.imgur.com/Bd7gwjX.png">
 
-The chart pattern sports a 54% average gain with a likely rise of 20%. Almost a quarter of the formations have gains over 90% and that pulls the average upward. The large gain masks the performance of the most likely rise. With a deep cup formed over many months, it makes sense that the measure rule would have trouble predicting accurate price targets. Prices fulfill the measure rule just 36% of the time for successful formations with upside breakouts.
+>If you consider upside breakouts only (a breakout being when prices move above the left saucer lip), then the failure rate drops to just 5%.
 
-<img src="http://i.imgur.com/RgZzSqE.png"/>
 
-## Rounding Tops [**^**](#Contents)
+## Rounding Top [**^**](#Contents)
 
 <img src="http://i.imgur.com/8h5IOLL.png"/>\
 As prices move up, they curve around then breakout upward.
-<img src="http://i.imgur.com/g5UCVDY.png"/>
 
-When is a top not a top? When it is a rounding top or dome and prices break out upward. That is the real surprise with this formation as most of the rounding tops have upside breakouts. The failure rate is 19%, a sliver below the maximum rate of 20% that I consider reliable formations to possess. If you wait for an upside breakout, then the failure rate drops to 6%. 
+Contrary to Bulkowski, most traders seem to look at these as more likely to break down. Because of the conflicting ideas, I would ignore this pattern and move to some other indicator.
 
-<img src="http://i.imgur.com/Eonv5PY.png"/>
+* [Investopedia - Terms - Rounding Top](https://www.investopedia.com/terms/r/roundingtop.asp)
+* [Bulkowski - Rounding Top](http://thepatternsite.com/roundingtop.html)
 
-At first, I set the breakout point as being one-third up the formation. I considered that a 30% retrace after the dome rounds over as a sign of an upside breakout. Prices pierce many
-down-sloping trendlines by that rise and it also gives other investors time to recognize the trend change (so they help push up the price). However, the results were just too unreal to use (a 0% failure rate and average climb of 58%).
 
-<img src="http://i.imgur.com/L4j4crv.png"/>
+<a href="https://in.tradingview.com/chart/USDINR/JY6XKGPH-USD-RUPEE-FACEOFF-in-a-rounding-top-with-momentum-divergence/"><img src="http://i.imgur.com/LUqDkjQ.png"></a>
 
-The computation neglected other formations that began moving up but ultimately ended lower. I reworked the figures using the dome top as the breakout point. The results are more in line with other formations. Rounding tops have an average gain of 41 %, with a likely rise between 20% and 40%.
+<a href="http://www.seeryfutures.com/content/what-rounding-top-chart-pattern-0"><img src="http://i.imgur.com/jd9vsrE.png"></a>
 
-## Scallops-Ascending and Descending [**^**](#Contents)
+
+## Scallops [**^**](#Contents)
 
 <img src="http://i.imgur.com/JIv7ite.png"/>
 
+There are 4 different types of scallops: ascending, ascending inverted, descending, descending inverted. The basic idea is its a curved angle, often in a series of proportionally smaller curves.
+
+* [TradingView - Ideas - Scallop](https://www.tradingview.com/ideas/scallop/)
+
+>The percentage rise for ascending scallops is 33%, respectable but mediocre when compared to other bullish formations. For descending scallops, the declines average 24%; that is quite good (we usually see a 20% decline for bearish patterns). The measure rule is weak in both species and especially so with the descending variety—only 52% of the chart patterns reach their price targets.
+
+### Ascending Scallops [**^**](#Contents)
+
 Prices peak, retrace, and curve around then form a higher peak. The price pattern looks like the letter J.
 
-<img src="http://i.imgur.com/4yKck1v.png"/>
+* [Bulkowski - Ascending Scallop](http://thepatternsite.com/ascscallop.html)
+  [![](http://i.imgur.com/vMoPcop.png)](https://www.tradingview.com/chart/LINKBTC/1Z7b3nmd-Chainlink-ascending-scallop-parabolic-in-the-making/)
+* [Bulkowski - Ascending and Inverted Scallop](http://thepatternsite.com/aiscallop.html)
+  [![](http://i.imgur.com/jXpQs2Q.png)](https://www.tradingview.com/chart/XAUUSD/wUtz8CSv-XAUUSD-Potential-Reversal-Suspected-to-1419/)
 
-The classic definition of scallops refers to the ascending variety only, where you find repeated saucer-shaped formations in a rising price trend. I reasoned that if there is an ascending variety, there probably is a descending variety. I decided to find out, but before I discuss the two types of formations in detail, I think it is worth reviewing the major findings.
 
-<img src="http://i.imgur.com/73BHv5f.png"/>
+### Descending Scallops [**^**](#Contents)
 
-For ascending scallops, the failure rate at 25% is above the 20% maximum that reliable formations possess. Descending scallops have a failure rate of just 3%. Why the big difference in failure rates? The difference is because I use the highest high on the right side of the formation to calculate the percentage change to the ultimate high or low. For ascending scallops, this penalizes performance since the right edge is much higher than the left. For descending scallops, it helps performance because the right side is well above the formation low and the ultimate low.
+* [Bulkowski - Descending Scallop](http://thepatternsite.com/descscallops.html)
 
-<img src="http://i.imgur.com/XDvT2c0.png"/>
+<a href="https://www.tradingview.com/chart/ETHBTC/Fsp2zkQ6-Descending-Scallop/"><img src="http://i.imgur.com/09fKPLA.png"/></a>
+ 
+* [Bulkowski - Descending Inverted Scallop](http://thepatternsite.com/idscallops.html)
 
-The percentage rise for ascending scallops is 33%, respectable but mediocre when compared to other bullish formations. For descending scallops, the declines average 24%; that is quite good (we usually see a 20% decline for bearish patterns). The measure rule is weak in both species and especially so with the descending variety—only 52% of the chart patterns reach their price targets.
-
-One surprising finding is that consecutively ascending scallops get narrower and shorter, on average, when compared with prior scallops in a series. For example, in a line of four ascending scallops, the first one will be wider andvtaller than the last one. The relationship for descending scallops is unknown because of a dearth of consecutive formations.
-
-<img src="http://i.imgur.com/lMv08Uo.png"/>
+<a href="https://www.tradingview.com/chart/BTCUSD/WqlumwO4-BTCUSD-Inverted-descending-scallops/"><img src="http://i.imgur.com/jnziZUw.png"/></a>
 
 ## Shark-32 [**^**](#Contents)
 
