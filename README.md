@@ -63,14 +63,13 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
 * [Scallops](#scallops-)
   * [Ascending Scallops](#ascending-scallops-)
   * [Descending Scallops](#descending-scallops-)
-* [Shark-32](#shark-32-)
 * [Triangles](#triangles-)
   * [Ascending](#ascending-)
   * [Descending](#descending-)
-  * [Symmetrical Bottoms](#symmetrical-bottoms-)
-  * [Symmetrical Tops](#symmetrical-tops-)
-* [Triple Bottoms](#triple-bottoms-)
-* [Triple Tops](#triple-tops-)
+  * [Symmetrical](#symmetrical-)
+* [Triple Bottoms and Tops](#triple-bottoms-and-tops-)
+  * [Triple Bottoms](#triple-bottoms-)
+  * [Triple Tops](#triple-tops-)
 * [Wedges](#wedges-)
   * [Falling](#falling-)
   * [Rising](#rising-)
@@ -629,11 +628,11 @@ As prices move up, they curve around then breakout upward.
 
 Contrary to Bulkowski, most traders seem to look at these as more likely to break down. Because of the conflicting ideas, I would ignore this pattern and move to some other indicator.
 
+<a href="https://in.tradingview.com/chart/USDINR/JY6XKGPH-USD-RUPEE-FACEOFF-in-a-rounding-top-with-momentum-divergence/"><img src="http://i.imgur.com/LUqDkjQ.png"></a>
+
 * [Investopedia - Terms - Rounding Top](https://www.investopedia.com/terms/r/roundingtop.asp)
 * [Bulkowski - Rounding Top](http://thepatternsite.com/roundingtop.html)
 
-
-<a href="https://in.tradingview.com/chart/USDINR/JY6XKGPH-USD-RUPEE-FACEOFF-in-a-rounding-top-with-momentum-divergence/"><img src="http://i.imgur.com/LUqDkjQ.png"></a>
 
 <a href="http://www.seeryfutures.com/content/what-rounding-top-chart-pattern-0"><img src="http://i.imgur.com/jd9vsrE.png"></a>
 
@@ -668,106 +667,94 @@ Prices peak, retrace, and curve around then form a higher peak. The price patter
 
 <a href="https://www.tradingview.com/chart/BTCUSD/WqlumwO4-BTCUSD-Inverted-descending-scallops/"><img src="http://i.imgur.com/jnziZUw.png"/></a>
 
-## Shark-32 [**^**](#Contents)
-
-<img src="http://i.imgur.com/qdLH8AY.png"/>\
-A 3-day symmetrical triangle with consecutively lower highs and higher lows. Breakout is upward.
-
-A 3-day symmetrical triangle with consecutively
-lower highs and higher lows. Breakout is downward
-
-<img src="http://i.imgur.com/luEF0Tu.png"/>
-
-Despite this formation being only 3 days long, I applied the 5% failure rule to its performance. A 5% failure occurs when prices move less than 5% in the breakout direction before reversing and moving significantly in the new direction. For sharks with upside breakouts, the failure rate is exceedingly high at 41 %. The failure rate is even worse for downside breakouts at 44%. I consider formations to be
-reliable if the failure rate is below 20%. 
-
-<img src="http://i.imgur.com/zG70s3k.png"/>
-
-If your worst enemy tells you this is the formation to trade, ignore him; he is trying to lead you into bankruptcy. With a failure rate nearly the same as a fair coin toss, why risk a trade? 
-
 ## Triangles [**^**](#Contents)
+
+* [TradingView - Education - Triangles](https://www.tradingview.com/education/triangle/)
+* [TradingView - Scripts - Triangles](https://www.tradingview.com/scripts/triangle/)
+* [TradingView - Wiki - Triangle Pattern](https://www.tradingview.com/wiki/Triangle_Pattern)
+* [Baby Pips - Learn - Triangles](https://www.babypips.com/learn/forex/triangles)
+  * [Symmetrical Triangle](https://www.babypips.com/forexpedia/symmetrical-triangle)
+* [Investopedia - Triangles a Study in Continuation Patterns](https://www.investopedia.com/articles/technical/03/091003.asp)
+* [Investopedia - University - Triangles](https://www.investopedia.com/university/charts/charts5.asp)
+* [Investopedia - Ideas - Triangles](https://www.tradingview.com/ideas/triangle/)
+* [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
+  ![](http://i.imgur.com/W8DshbP.png)
+
 
 ### Ascending [**^**](#Contents)
 
 <img src="http://i.imgur.com/NXLuicp.png"/>\
 Triangle shape with horizontal top, up-sloping bottom
-<img src="http://i.imgur.com/XrpsvKL.png"/>
 
-Have you ever heard someone say, "I just happened to be in the right place at the right time?" Perhaps you have even said it yourself. Investing is a lot like that—being in the right stock just before it takes off. That is one of the reasons the ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly. But before we get to trading tactics, let us look more closely at ascending triangles.
+I want to do some more research, because again Bulkowski differs from prevailing thoughts. Wait for breakout.
 
-<img src="http://i.imgur.com/z0U8smw.png"/>
+* [TradingView - Ideas - Ascending Triangle](https://www.tradingview.com/ideas/ascendingtriangle/)
+* [Investopedia - Terms - Ascending Triangle](https://www.investopedia.com/terms/a/ascendingtriangle.asp)
+* [Babypips - Ascending Triangle](https://www.babypips.com/forexpedia/ascending-triangle)
+* [Bulkowski - Ascending Triangles](http://thepatternsite.com/at.html)
+
+<img src="http://i.imgur.com/hmAYlr8.png">
+
+>"ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly."
+
+<img src="http://i.imgur.com/9KZQHtT.png"/>
 
 The ascending triangle has a poor failure rate of 32%. However, if you wait for an upside breakout, then the failure rate drops to just 2 %.
-
-For upside breakouts, the average rise is a strong 44%. A frequency distribution of the gains suggests that the most likely gain is 20%. With such avstrong showing, prices fulfill the measure rule 89% of the time. I consider values above 80% to be reliable, so this chart pattern stacks up well.
-
-<img src="http://i.imgur.com/zdP81ph.png"/>
 
 ### Descending [**^**](#Contents)
 
 <img src="http://i.imgur.com/JgtnCed.png"/>\
 Triangle shape with horizontal bottom and downsloping top
 
-<img src="http://i.imgur.com/q3NENt9.png"/>
+* [TradingView - Ideas - Descending Triangles](https://www.tradingview.com/ideas/descendingtriangle/)
+* [Investopedia - Terms - Descending Triangles](https://www.investopedia.com/terms/d/descendingtriangle.asp)
+* [BabyPips - Descending Triangles](https://www.babypips.com/forexpedia/descending-triangle)
+* [Bulkowski - Descending Triangles](http://thepatternsite.com/dt.html)
 
-The Results Snapshot shows performance results for descending triangles. The failure rate at 45% is well above the 20% cutoff for reliable formations. However, if you wait for a downside breakout, then the failure rate drops to just 4%.
 
-<img src="http://i.imgur.com/MgOqrpW.png"/>
+wait for a downside breakout, then the failure rate drops to just 4%.
 
-The average decline, at 19%, is about what you would expect from a bearish formation. The most likely decline, at 10% to 20%, is evenly distributed across the range. Premature breakouts occur in nearly a quarter of the formations (22%), so that is something to watch out for.
+<a href="https://www.tradingview.com/chart/BTCUSD/28gmCjq1-Descending-Triangles-within-a-Larger-Descending-Triangle-2200/"><img src="http://i.imgur.com/U6um20V.png"></a>
 
-<img src="http://i.imgur.com/xBhIsN1.png"/>
+### Symmetrical [**^**](#Contents)
 
-<img src="http://i.imgur.com/HJwXMsC.png"/>
+<img src="http://i.imgur.com/6gq7YsK.png"/><img src="http://i.imgur.com/VZaoiVZ.png"/>
 
-### Symmetrical Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/6gq7YsK.png"/>\
 Prices trend down then form lower highs and higher lows following two sloping trendlines that eventually intersect. The breakout is downward
 
-<img src="http://i.imgur.com/f5DErut.png"/>
+* [Investopedia - Symmetrical Triangle](https://www.investopedia.com/terms/s/symmetricaltriangle.asp)
+* [The Symmetrical Triangle: A Reliable Workhorse](https://www.investopedia.com/university/five-chart-patterns-you-need-know/symmetrical-triangle.asp)
+* [Bulkowski - Symmetrical Triangles](http://thepatternsite.com/st.html)
+* [TradingView - Ideas - Symmetrical Triangles](https://www.tradingview.com/ideas/symmetricaltriangle/)
 
-I separated symmetrical triangles into two types: those with prices trending up to the formation and those with prices trending down. The way you invest in each type may vary, so I wanted to collect the most beneficial statistics for investors. This chapter deals with symmetrical triangle bottoms, where prices trend down to the formation.
+<a href="https://www.tradingview.com/chart/GBPUSD/mi4E4f4s-GBPUSD-Symmetrical-Triangle/"><img src="http://i.imgur.com/NQtMNdH.png"/></a>
 
-<img src="http://i.imgur.com/47drekg.png"/>
+## Triple Bottoms and Tops [**^**](#Contents)
 
-The failure rates at 2% and 3% are surprisingly small. Once a breakout occurs, prices tend to keep going and do not suffer from a 5% failure (that is, a quick reversal). The average move after a breakout is about what you would expect for bullish and bearish formations. Downside breakouts show losses averaging 19%, whereas upside ones gain 41%
+<a href="https://www.tradingview.com/chart/EURGBP/wVqTZZqs-TRIPLE-TOPS-BOTTOMS-TREND-REVERSAL/"><img src="http://i.imgur.com/TxWD3KT.png"/></a>
 
-### Symmetrical Tops [**^**](#Contents)
+* [Investopedia - University - Triple Bottoms and Tops](https://www.investopedia.com/university/charts/charts9.asp)
+* [Investopedia - University - Double\Triple - Bottom\Top](https://www.investopedia.com/university/five-chart-patterns-you-need-know/doubletriple-bottomtop.asp)
+* [Investopedia - Triple Tops and Bottoms](https://www.investopedia.com/articles/technical/02/012102.asp)
 
-<img src="http://i.imgur.com/VZaoiVZ.png"/>
-
-In a rising price trend, prices form lower highs and higher lows following two sloping trendlines that eventually intersect. The breakout is downward.
-
-<img src="http://i.imgur.com/QsUGAxa.png"/>
-
-Those of you familiar with symmetrical triangles might wonder how I separated them into tops and bottoms. I use the price trend leading to the formation. Symmetrical triangle tops have prices that trend up to the formation, whereas bottoms have prices leading down. I separated them by price trend in
-the hope that it would allow prediction of the breakout direction. Alas, it did not. 
-
-<img src="http://i.imgur.com/CDIOiqj.png"/>
-
-This chapter concerns itself with symmetrical triangle tops. The failure rates for symmetrical triangle tops are low at 6% and 5% for the two breakout directions. This compares favorably with the maximum 20% rate I consider reliable formations to possess.
-
-Downside breakouts shows losses of 20%, about average for bearish formations. 
-
-Upside breakouts, however, underperform with gains of 37% instead of the usual 40% for bullish chart patterns. But they are solid performers according to the measure rule (81% hit their targets). I consider values above 80% to be reliable. Downside breakouts fall short with only 62% meeting or exceeding their price targets.
-
-<img src="http://i.imgur.com/6hNVjNm.png"/>
-
-## Triple Bottoms [**^**](#Contents)
+### Triple Bottoms [**^**](#Contents)
 
 <img src="http://i.imgur.com/LBCbJ5H.png"/>\
 Three distinct minor lows at about the same price level
-<img src="http://i.imgur.com/YtiLSKx.png"/>
+
+* [Babypips - Triple Bottom](https://www.babypips.com/forexpedia/triple-bottom)
+* [Investopedia - Terms - Triple Bottom](https://www.investopedia.com/terms/t/triplebottom.asp)
+* [Bulkowski - Triple Bottoms](http://thepatternsite.com/tb.html)
+* [TradingView - Ideas - Triple Bottom](https://www.tradingview.com/ideas/triple-bottom/)
+
+<img src="http://i.imgur.com/u3faOkU.png"/>
 
 One of the surprising things about triple bottoms is their low failure rate: 4%. For some reason, I expected it to be higher. If one plays by the rules and waits for an upside breakout, then few triple bottoms fail to continue moving up, many times substantially. The average rise is 38% with a likely gain of 20%, about what you would expect from bullish formations.
 
 
-<img src="http://i.imgur.com/6krd5ZW.png"/>
+<img src="http://i.imgur.com/dzUr23v.png">
 
-Almost three out of four formations (70%) throw back to the breakout point. This is somewhat misleading because the breakout point can be far removed from the final trough—an average of almost 6 weeks away. But the time is well spent as prices climb from the third recession to the breakout or confirmation point.
-
-<img src="http://i.imgur.com/wzdEft3.png"/>
+Obviously the above tripple bottom didn't pan out for Bitcoin.
 
 Just for kicks, I measured the average gain for those formations with a third bottom above the low posted by the second one. The gain is 48%, whereas those with a third bottom below the second one score gains averaging just 31%.
 
@@ -778,22 +765,20 @@ The differences are statistically significant but it may surprise you to learn t
 <img src="http://i.imgur.com/MsDzt4h.png"/>\
 Three distinct minor highs at about the same price
 level
-<img src="http://i.imgur.com/aNVLzWF.png"/>
+
+* [Bulkowski - Triple Tops](http://thepatternsite.com/tt.html)
+* [Investopedia - Triple Top](https://www.investopedia.com/terms/t/tripletop.asp)
+* [Investopedia - Multiple Tops](https://www.investopedia.com/terms/m/multiple-tops.asp)
+* [TradingView - Ideas - Triple Top](https://www.tradingview.com/ideas/triple-top/)
+
+<img src="http://i.imgur.com/WDRtKsi.png">
 
 The failure rate at 15% for triple tops approaches the 20% maximum*! consider permissible for reliable formations. Still, there are a number of formations that perform worse, so there is no reason for concern. 
 
-To take a more optimistic view, there is an 85% chance that prices will decline by more than 5%. The average loss is 21% with a likely decline of only 10%. So, if you are depending on the triple top formation to score an outsized decline, the probabilities are against you.
-
-<img src="http://i.imgur.com/JdC0c8Y.png"/>
-
-The pullback rate at 84% is one of the highest I have seen. This means you will have another opportunity to either sell your holdings before the real decline begins or add to your short position. It suggests some hesitancy for prices to break away.
-
-Before you place a trade in a security showing a triple top, think about a short decline. Only 47% of the formations meet their price targets, whereas reliable readings are above 80%. It is comparatively unlikely that prices will decline by more than the formation height.
+<img src="http://i.imgur.com/6Oyx1Dp.png">
 
 One surprising finding about triple tops is when the price of the highest high in the third top is above the second top. Formations with this configuration have losses of 22% versus 17%. The differences are statistically significant
 meaning that die results likely are not due to chance.
-
-<img src="http://i.imgur.com/p2OgXxC.png"/>
 
 
 ## Wedges [**^**](#Contents)
