@@ -380,7 +380,9 @@ First and most importantly there must be a short, quick rise. Flags with a reced
 
 * [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
 * [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
+* [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
 * [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
+* [Investopedia - University - Gaps](https://www.investopedia.com/university/charts/charts8.asp)
 * [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
 
 A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
@@ -390,8 +392,16 @@ stock to create a gap.
 
 It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
 
-![](http://i.imgur.com/KIdBpAK.png)
-  * [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
+
+### Island Reversals [**^**](#Contents)
+
+<img src="http://i.imgur.com/zhv3ClU.png"/>
+
+* [Bulkowski - Island Reversal](http://thepatternsite.com/islandrev.html)
+* [Advanced Candlestick Patterns](https://www.investopedia.com/articles/trading/06/advcandlesticks.asp) - Has a section on Island Reversals.
+
+"The performance of island reversals is perhaps surprising only for its mediocrity."
+
 
 ## Hanging Man [**^**](#Contents)
 
@@ -414,8 +424,13 @@ After careful consideration, I cannot recommend trading this formation. The prim
 
 ## Head-and-Shoulders [**^**](#Contents)
 
-<a href="https://www.tradingview.com/chart/GBPJPY/yv4IbECk-GBPJPY-Head-and-Shoulders-Pattern-Neckline-barely-broken/"><img src="http://i.imgur.com/28rS1rV.png"/></a>
+### HS Tops [**^**](#Contents)
 
+<img src="http://i.imgur.com/gMIQ51S.png"/>
+
+>Most references to head and shoulders are to the tops, and bottoms are known as inverse. Note Bulkowski's distinct nomenclature. It's popularity is due to its reliability.
+
+* [Bulkowski - Head and Shoulder Tops](http://thepatternsite.com/hst.html)
 * [Bulkowski's Head-and-Shoulders Explained](http://thepatternsite.com/HSTExplained.html)
 * [Investopedia - University - Head and Shoulders](https://www.investopedia.com/university/charts/charts2.asp)
 * [Investopedia - Terms - Head and shoulders](https://www.investopedia.com/terms/h/head-shoulders.asp)
@@ -427,55 +442,28 @@ After careful consideration, I cannot recommend trading this formation. The prim
 
 <img src="http://i.imgur.com/OfXsPjs.png"/>
 
-### HS Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/gMIQ51S.png"/>
-
-Most references to head and shoulders are to the tops, and bottoms are known as inverse.
-
-* [Bulkowski - Head and Shoulder Tops](http://thepatternsite.com/hst.html)
-* []
-
-Three-bump formation with center bump taller than
-the others
-
 <img src="http://i.imgur.com/2rxMcIp.png"/>
 
-Of all the formations in this book, die head-and-shoulders top is perhaps the most popular. This sterns, in part, from its reliability. With 93% of the formations breaking out downward and continuing to move down, there is no need to wait for a breakout before trading.
+>With 93% of the formations breaking out downward and continuing to move down, there is no need to wait for a breakout before trading.
 
-<img src="http://i.imgur.com/QCzL1WR.png"/>
-
-The head-and-shoulders top formation can appear in a wide variety of shapes. Consider Figure 20.3. Shown is a head-and-shoulders top formation, but there are four shoulders and only one head. 
-
-<img src="http://i.imgur.com/qozWovr.png"/>
-
-When a formation appears with more than the standard two shoulders and one head it is called a complex head-and-shoulders pattern. Complex head-and-shoulders patterns for both tops and bottoms have their own chapters but many appear in this chapter's statistics. They are, after all, head-and-shoulder tops too.
+>When a formation appears with more than the standard two shoulders and one head it is called a complex head-and-shoulders pattern. Complex head-and-shoulders patterns for both tops and bottoms have their own chapters but many appear in this chapter's statistics. They are, after all, head-and-shoulder tops too.
 
 ### HS Tops-Complex [**^**](#Contents)
 
 <img src="http://i.imgur.com/jA0vkm2.png"/>
 
+* [Bulkowski - Head and Shoulders Top-Complex](http://thepatternsite.com/chst.html)
+
 A head-and-shoulders formation with multiple heads,
 shoulders, or both
 
-<img src="http://i.imgur.com/Xg3Xh9o.png"/>
+<a href="https://www.tradingview.com/chart/BTCUSD/s6nLX8fl-BTC-1-hr-complex-head-and-shoulders-top-with-price-target-8900/"><img src="http://i.imgur.com/1hapzsv.png"/></a>
 
-Except for appearance, there is not much difference between a normal headand-shoulders top and a complex one. Add a dual head or a few extra shoulders to a regular formation and you have a complex head-and-shoulders top. 
-
-Both formations have a volume trend that generally slopes downward between the shoulders. The left shoulders often have higher volume than the corresponding right ones.
-
-The failure rate for complex head-and-shoulders tops is very low (8%) but slightly above the rate recorded for regular head-and-shoulders tops. Pullbacks have also moved up a notch and now appear in nearly two out of three formations.
-
-<img src="http://i.imgur.com/Go5XsqB.png"/>
-
-Consider Figure 21.3, another example of a multiple shoulder chart pattern. After a decline from a head-and-shoulders formation just off the left side of the chart, prices decline until reaching bottom at the start of July. Then they rise up, haltingly, and form a new head-and-shoulders formation: a complex top. 
+>Except for appearance, there is not much difference between a normal headand-shoulders top and a complex one. Add a dual head or a few extra shoulders to a regular formation and you have a complex head-and-shoulders top. The left shoulders often have higher volume than the corresponding right ones.
 
 <img src="http://i.imgur.com/Rh2tyXx.png"/>
 
-If you ignore the labels for a moment, the inner price action looks like a rounding top. This smooth price rollover is common for complex head-andshoulder formations. Of course, the flat head shape for a multiple shoulder pattern (Figure 21.2) is also typical.
-
-<img src="http://i.imgur.com/TKEpqOn.png"/>
-
+>If you ignore the labels for a moment, the inner price action looks like a rounding top. This smooth price rollover is common for complex head-andshoulder formations. Of course, the flat head shape for a multiple shoulder pattern (Figure 21.2) is also typical.
 
 ### Inverted Head and Shoulders [**^**](#Contents)
 
@@ -483,12 +471,12 @@ If you ignore the labels for a moment, the inner price action looks like a round
 
 * [Bulkowski - Head and Shoulder Bottoms](http://thepatternsite.com/hsb.html)
 * [Tradingview - Inverted Head and Shoulders](https://www.tradingview.com/ideas/inverseheadandshoulders/)
+* [Babypips - Inverted Head and Shoulders](https://www.babypips.com/forexpedia/inverted-head-and-shoulders)
+* [Investopedia - Inverse Head and Shoulders](https://www.investopedia.com/terms/i/inverseheadandshoulders.asp)
+
+>Investors typically enter into a long position when the price rises above the resistance of the neckline. The first and third trough are considered shoulders, and the second peak forms the head. A move above the resistance, also known as the neckline, is used as a signal of a sharp move higher. 
 
 <a href="https://www.tradingview.com/chart/EURUSD/p1ezt9N2-Discussion-Head-and-Shoulders-Bottoms/"><img src="http://i.imgur.com/FtyT6zr.png"></a>
-
-I find it easier to pick out tops than bottoms. Perhaps this is because I spend so much time worrying about when to sell. 
-
-Placing a trade is easy but getting out is the tough part. In my quest to sell at the appropriate time, I have often overlooked the buy side: bottom reversals. Head-and-shoulders bottoms are just such a formation. They are quite easy to spot and can be very profitable.
 
 * [Quick Notes about Trading Inverted Head and Shoulders](https://www.tradingview.com/chart/BTCUSD/egkLlnRD-Quick-notes-about-Inverted-Head-and-Shoulders/)
   <img src="http://i.imgur.com/5kUJr0D.png"/>
@@ -504,115 +492,31 @@ multiple heads, shoulders, or both
 
 <img src="http://i.imgur.com/KJ9Geqa.png">
 
-The failure rate at 6% is outstanding. Only 15 formations out of almost 240 fail to perform as expected. The average rise is a reassuring 37%, and 82% of the formations experiencing an upside breakout meet or exceed their price targets. These figures are all excellent and they imply that this formation is worth trading.
+"The failure rate at 6% is outstanding. Only 15 formations out of almost 240 fail to perform as expected. The average rise is a reassuring 37%, and 82% of the formations experiencing an upside breakout meet or exceed their price targets."
 
-Two interesting findings relate to the formation appearance. When the neckline slopes downward, the stock performs better, with gains averaging 39% versus 34% (for those formations with up-sloping necklines). Formations with high volume breakouts also perform better, with gains averaging 39% versus 32% for low volume breakouts. 
+When the neckline slopes downward, the stock performs better.
+
+<a href="https://www.tradingview.com/chart/CSGNZ/EmTbRIii-A-Bestiary-of-Heads-and-Shoulders/"><img src="http://i.imgur.com/Nn7flI9.png"/></a>
 
 
-## Horn Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/Y5bogCO.png"/>
-<img src="http://i.imgur.com/OaR8z0k.png"/>
-
-I first discovered this formation while pondering a result from my study of double bottoms. Double bottom formations with bottoms closer together perform better than those spaced widely apart. What would happen if you considered formations that have bottoms only a week or so apart? I tested the idea
-and discovered that the formation performs well. The failure rate at 11 % is well below the 20% maximum rate I allow for reliable formations
-
-<img src="http://i.imgur.com/BVLfvv2.png"/>
-
-Table 22.2 shows statistics for horn bottoms. The chart pattern is quite plentiful, occurring almost 300 times in 500 stocks over 5 years. Of these formations, 160 are consolidations of the prevailing trend, whereas the remainder act as reversals. A closer examination of the data shows that 88% of the reversals occur when prices are moving down—they reverse direction and head up after the formation.
-
-I classify the most likely gain as the column(s) with the highest frequency (not including die rightmost column). In Figure 22.4, these are 20% and 30%, so the most likely gain should fall in that region. 
-
-<img src="http://i.imgur.com/DHWeEN1.png"/>
-
-Do large downward price spikes perform better? Yes, with gains of 43% but die failure rate rises slightly to 12%. To arrive at this determination, I computed die spike length from die lowest low to die lowest adjacent low (on either side) over the prior year leading to die formation. I averaged the values together to get an average spike length and compared it to the horn length.
-
-## Horn Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/1XQdNWU.png"/>
-<img src="http://i.imgur.com/MjKEYWI.png"/>
-A horn top is an inverted version of the weekly horn bottom. A horn top sports twin peaks separated by a week and is commonly found near the end of an uptrend. Volume is usually heavy at both peaks but not by a huge margin above the 25-day moving average. After the right price spike, prices drop lower and continue moving down, sometimes substantially
-
-As you look at the Results Snapshot statistics, you have to ask yourself one question: Why would you ever want to trade this formation? With a likely loss of just 10%, you probably would be a fool to short a stock based on this formation. However, if you trade enough and with luck, your returns should approach the average of 21 %
-
-<img src="http://i.imgur.com/JASTFco.png"/>
-
-In situations like this, after a long downtrend, a stock usually bounces up, curls around, and retests the low (but not always). So when the horn formed, it probably signaled the price top before the retest. Although not shown in Figure 2 3.3, the stock did move lower, but it first bobbled up for a few months (to 63 l/i). Ultimately, the stock dipped to 49'/s before recovering.
-
-Before you invest in this formation, you have to place emphasis on the piercing of the down trendline. It suggests that prices will rise (a piercing is one indicator of a trend change). With a price rise imminent, why would you consider shorting the stock? Even though the horn reversal suggests prices will decline (and they do, in the short term, but only by a dollar or so), does it merit a trade?
-
-<img src="http://i.imgur.com/7Y4oYG6.png"/>
 
 ## Inside Days [**^**](#Contents)
 
-<img src="http://i.imgur.com/dsVo7E9.png"/>
+<img src="http://i.imgur.com/dsVo7E9.png"/>\
 A daily price range narrower than the prior day
+
+* [Investopedia - Terms - Inside Day](https://www.investopedia.com/terms/i/inside_day.asp)
+* [Bulkowski - Inside Days](http://thepatternsite.com/InsideDays.html)
+* [TradingView - Scripts - Inside Day](https://www.tradingview.com/script/KvyWCIYN-Inside-Day/)
+* [TradingView - Ideas - Inside Bar](https://www.tradingview.com/ideas/insidebar/)
 
 The theory behind the formation says an investor can expect a large price move the day after an inside day;
 
-<img src="http://i.imgur.com/5MG06rp.png">
+<a href="https://www.tradingview.com/chart/USDJPY/sKSELCBl-USDJPY-inside-bar-trade/"><img src="http://i.imgur.com/1BitDsp.png"></a>
 
-when the close is within 25% of the prior day's low, a downside breakout occurs 70% of the time. Thus, if you have an inside day that closes near the prior days low, expect a downside breakout
+>"when the close is within 25% of the prior day's low, a downside breakout occurs 70% of the time. Thus, if you have an inside day that closes near the prior days low, expect a downside breakout"
 
 <img src="http://i.imgur.com/ycpEWPh.png"/>
-
-## Island Reversals [**^**](#Contents)
-
-<img src="http://i.imgur.com/dnqP5bt.png"/>
-
-The performance of island reversals is perhaps surprising only for its mediocrity.
-
-Failure rates for both tops (13%) and bottoms (17%) is quite good, below the 20% threshold that I view as the maximum allowable for reliable formations.
-
-For tops, the average decline is a very respectable 21%, but the most likely decline is less than 10%. This suggests you would not want to make a habit of trading this formation. For bottoms, the average rise is 34%, reasonable for bullish formations but still not up to the caliber of other bottom reversals. The most likely rise is less than 20%, about average for bullish formations.
-
-Fullbacks and throwbacks are prevalent, suggesting that the gap after the island completes closes quite quickly. Investors can make use of this behavior to delay their investments until the pullback or throwback completes and prices resume their breakout direction.
-
-## Measured Move Down [**^**](#Contents)
-
-<img src="http://i.imgur.com/ARJr1m3.png"/>\
-Prices move down, retrace, then move down again. The two down legs are nearly equal in both price and time.
-<img src="http://i.imgur.com/R1L2wxH.png"/>
-
-The measured move down, or swing measurement as it is sometimes called, is an exciting formation because it vividly tells you how far down it is going.
-
-<img src="http://i.imgur.com/y2jzXbN.png"/>
-
-Unfortunately, with a failure rate of 22%, it is also more risky. I consider formations with failure rates less than 20% to be reliable. 
-
-That is not to say that this one is unreliable, especially since it has a 36% average decline, which is well above the usual 20% decline for bearish reversals. For this formation even the most likely decline is high but wide at 25% to 40%.
-
-<img src="http://i.imgur.com/Zz9LY0M.png"/>
-
-## Measured Move Up [**^**](#Contents)
-
-<img src="http://i.imgur.com/Oi3bpLt.png"/>\
-Prices move up, retrace, then move up again
-
-<img src="http://i.imgur.com/pelOOia.png"/>
-
-The measured moved up formation is die reverse of the measured move down.
-
-The measured move up sports a 23 % failure rate, slightly higher than the 20% maximum I consider reliable formations to possess. However, the average gain is an astounding 68%, which is misleading. 
-
-The value represents the price difference between the lowest low in the first leg and the highest high in the second leg. Obviously, this is a best-case scenario and you can expect your results to be a little better than half that rate. Why? 
-
-The reason stems from being able to identify the formation promptly.
-
-<img src="http://i.imgur.com/a2IxXRB.png"/>
-
-## One-Day Reversals [**^**](#Contents)
-
-<img src="http://i.imgur.com/ywOWfmq.png"/>
-
-<img src="http://i.imgur.com/UIy74OH.png"/>
-
-I do not recommend trading ODRs. Although their average return is acceptable, the most likely return is just too small at less than 15%. I consider these
-values just too skimpy to risk a trade. Coupled with a high failure rate, for ODR tops anyway, one should look for a more promising formation. However, that is not to say that these formations are not useful. They are. 
-
-If you are considering buying a stock and see a large upward spike on high volume, beware. Prices will likely head lower. The same applies to downward spikes, which signal a bullish reversal. 
-
-Again, that is worth knowing if you see one of these spikes in a stock you own. A large downward spike may cause you concern, but it is really a bullish event. Prices generally move higher, especially if the close is near the daily high.
 
 ## Outside Days [**^**](#Contents)
 
@@ -632,6 +536,39 @@ The formation comes in two varieties: those with upside breakouts and those with
 * Downside breakouts perform substantially worse in some respects. Their failure rate is exceedingly high at 42% with an average decline of 17%. The average decline is not bad for a bearish formation but the most likely loss is less than 10%.
 
 With likely gains or losses of less than 10%, you have to consider whether this formation is worth trading. Meager gains coupled with a high failure rate suggest dial this is probably one formation to avoid.
+
+
+
+## Measured Move Down [**^**](#Contents)
+
+<img src="http://i.imgur.com/ARJr1m3.png"/>\
+
+* [Bulkowski - Measured Move Down](http://thepatternsite.com/mmd.html)
+* [Wiley - Measured Move Down](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119274933.ch11)
+  >The measured move down is a unique chart pattern best used as a tool to help predict where price is going. The second leg of the measured move approaches the length and duration of the first leg. Once the measured move down completes, price often retraces to the corrective phase, too. That is invaluable information for swing traders.
+
+<img src="http://i.imgur.com/y2jzXbN.png"/>
+
+>Unfortunately, with a failure rate of 22%, it is also more risky.  That is not to say that this one is unreliable, especially since it has a 36% average decline, which is well above the usual 20% decline for bearish reversals. For this formation even the most likely decline is high but wide at 25% to 40%.
+
+<a href="https://www.tradingview.com/chart/LTCZ18/PxALp5lC-Bearish-pattern-Measured-move-down/"><img src="http://i.imgur.com/TZUREFT.png"/></a>
+
+## Measured Move Up [**^**](#Contents)
+
+<img src="http://i.imgur.com/Oi3bpLt.png"/>\
+Prices move up, retrace, then move up again
+
+* [Bulkowski - Measured Move Up](http://thepatternsite.com/mmu.html)
+* [Finvids - Measured Move Up](http://www.finvids.com/Chart-Pattern/Measured-Move)
+
+<img src="http://i.imgur.com/4oD6ncZ.png"/>
+
+Yes, its just like measured move down, but going up.
+
+>The measured move up sports a 23 % failure rate, slightly higher than the 20% maximum I consider reliable formations to possess. However, the average gain is an astounding 68%, which is misleading. 
+
+<a href="https://www.tradingview.com/chart/GBPNZD/1WcYeNAN-GBPNZD-Measured-Move-Up-and-Long-Opportunity/"><img src="http://i.imgur.com/pAZ0o95.png"/></a>
+
 
 ## Pipe Bottoms [**^**](#Contents)
 
