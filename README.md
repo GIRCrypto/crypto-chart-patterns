@@ -33,8 +33,6 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
   * [Broadening Tops](#broadening-tops-)
   * [Right-Angled and Ascending](#right-angled-and-ascending-)
   * [Right-Angled and Descending](#right-angled-and-descending-)
-  * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
-  * [Broadening Descending Wedges](#broadening-descending-wedges-)
 * [Bump-and-Run Reversal Bottoms](#bump-and-run-reversal-bottoms-)
 * [Bump-and-Run Reversal Tops](#bump-and-run-reversal-tops-)
 * [Cup With Handle](#cup-with-handle-)
@@ -73,9 +71,10 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
 * [Wedges](#wedges-)
   * [Falling](#falling-)
   * [Rising](#rising-)
-* [Weekly Reversals-Downside](#Weekly-Reversals-Downside)
-* [Weekly Reversals-Upside](#Weekly-Reversals-Upside)
-* [Statistics](#Statistics)
+  * [Broadening Wedges](#broadening-wedges-)
+    * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
+    * [Broadening Descending Wedges](#broadening-descending-wedges-)
+* [Statistics](#statistics-)
 
 ## Broadening Formations [**^**](#Contents)
 
@@ -145,34 +144,6 @@ The characteristic flat top and down-sloping bottom are apparent in the figure. 
 
 Along the bottom of the formation, the minor lows touch a down-sloping trendline before prices rebound. Eventually, prices break out of the formation by either closing above the top trendline or below the bottom one.
 
-### Broadening Ascending Wedges [**^**](#Contents)
-
-<img src="http://i.imgur.com/wM5asGY.png"/>
-
-* [TradingView - Ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
-* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)\
-^^^ shows entirely different version of this based on updated statistics.
-
-<a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
-
-### Broadening Descending Wedges [**^**](#Contents) 
-
-<img src="http://i.imgur.com/d1K92Dv.png"/> 
-
-* [TradingView - Ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
-* [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
-  > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
-
-
-<a href="https://www.tradingview.com/chart/AUDUSD/BTTUvzhp-AUDUSD-Descending-Broadening-Wedge-And-Short-Setup/"><img src="http://i.imgur.com/jV5HN0x.png"/></a>
-
->descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases.
-
-During my search through the various stocks in the database, I noticed that this formation appears most often after an uptrend. Prices move down in a broadening wedge for several months then return to their original direction: up.
-
-Once I knew that the formation acts as a consolidation of the trend, then trend reversals become failures. Also, formations that are consolidations but fail to move more than 5% in the breakout direction (after a breakout) are also failures. Altogether, 37% of the formations fail. That is well above the maximum 20% that I consider reliable formations to possess.
-
-Being a consolidation in a bull market, the average rise is a very high 46%. The most likely rise is 20% and an astounding 40% of the formations have gains above 50%! With bullish numbers like these, it makes the failure rate seem tolerable.
 
 ## Bump-and-Run Reversal Bottoms [**^**](#Contents)
 
@@ -779,90 +750,85 @@ The failure rate at 15% for triple tops approaches the 20% maximum*! consider pe
 
 One surprising finding about triple tops is when the price of the highest high in the third top is above the second top. Formations with this configuration have losses of 22% versus 17%. The differences are statistically significant
 meaning that die results likely are not due to chance.
-
-
 ## Wedges [**^**](#Contents)
 
-### Falling [**^**](#Contents)
+* [TradingView - Ideas - Wedge](https://www.tradingview.com/ideas/wedgepattern/)
+* [Investopedia - Terms - Wedge](https://www.investopedia.com/terms/w/wedge.asp)
+* [Investopedia - University - Wedges](https://www.investopedia.com/university/charts/charts7.asp)
+* [Babypips - Learn - How to Trade Wedges](https://www.babypips.com/learn/forex/wedges)
+* [Babypips - Wiki - Wedges](https://www.babypips.com/forexpedia/wedges)
+
+<a href="https://www.tradingview.com/chart/BTCUSD/8heRqCJq-Every-major-chart-pattern-between-3-18-and-3-28/"><img src="http://i.imgur.com/u8bgzU3.png"/></a>
+
+### Falling Wedge [**^**](#Contents)
 
 <img src="http://i.imgur.com/4La7j7f.png"/>
 
 A downward price trend bounded by two intersecting, down-sloping, trendlines
 
-<img src="http://i.imgur.com/0CWeow0.png"/>
+* [Bulkowski - Falling Wedge](http://thepatternsite.com/fallwedge.html)
+* [Babypips - Falling Wedge](https://www.babypips.com/forexpedia/falling-wedge)
+* [TradingView - Ideas - Falling Wedge](https://www.tradingview.com/ideas/fallingwedge/)
+* [TradingView - Education - Falling Wedge](https://www.tradingview.com/education/fallingwedge/)
 
-There are no outstanding surprises among the statistics shown in the Results Snapshot. The failure rate for falling wedges is low at 10%. This low failure rate, coupled with an average rise of 43% and a likely rise of between 20% and 30%, suggests it is a profitable formation to trade. However, it is also quite rare.
+<a href="https://www.tradingview.com/chart/NASBTC/HnpSRKwM-NASBTC-GOOD-ENTRY-FOR-LONG/"><img src="http://i.imgur.com/Q1t2jaR.png"></a>
 
-<img src="http://i.imgur.com/TCzhdds.png"/>
+There are no outstanding surprises among the statistics shown in the Results Snapshot. The failure rate for falling wedges is low at 10%, with an average rise of 43% and a likely rise of between 20% and 30%.
 
-The percentage of falling wedges meeting the predicted price target, at 88%, is very high but then the benchmark is easy. Prices need only rise above the top of the formation to hit the target. My statistics show the most powerful breakouts occur at 50% to 80% of the distance to the apex (the center of this range being two-thirds of the way to the apex). By powerful, I mean that stocks falling within the range show
-larger gains, on average.
+<a href="https://www.tradingview.com/chart/BTCUSD/rESVgDFW-Falling-and-Rising-Wedges/"><img src="http://i.imgur.com/UpXaXWv.png"></a>
 
-<img src="http://i.imgur.com/mm9nldS.png"/>
 
-### Rising [**^**](#Contents)
+### Rising Wedge [**^**](#Contents)
 
 <img src="http://i.imgur.com/YrAPOWb.png"/>
 
+* [Babypips - Rising Wedge](https://www.babypips.com/forexpedia/rising-wedge)
+* [Bulkowski - Wedge](http://thepatternsite.com/risewedge.html)
+* [Tradingview - Ideas - Rising Wedge](https://www.tradingview.com/ideas/risingwedge/)
+* [TradingView - Education - Rising Wedge](https://www.tradingview.com/education/risingwedge/)
+* [TradingView - Scripts - Rising Wedge](https://www.tradingview.com/scripts/wedgepattern/)
+
 An upward price trend bounded by two intersecting, up-sloping, trendlines
 
-<img src="http://i.imgur.com/WTXrzKH.png"/>
+<a href="https://www.tradingview.com/chart/NQ1!/bsh3zQjr-NQ-Rising-Wedge-Drop-it-like-it-s-Hot/"><img src="http://i.imgur.com/p4ris4n.png"></a>
 
 As formations go, the rising wedge is one of the poorer performing chart patterns. It sports a failure rate of 24%, which falls to 6% if you wait for a downside breakout. The average decline is 19%, just a bit below the usual
 20% decline for other bearish chart patterns.
 
-<img src="http://i.imgur.com/iKdsRxC.png"/>
+<a href="https://www.tradingview.com/chart/BTCUSD/rUE7pMk0-Rising-Wedge-Pattern-TUTORIAL/"><img src="http://i.imgur.com/l1KQAoZ.png"></a>
 
 One interesting finding concerns the volume trend. Successful formations with a receding volume trend outperform those with a rising volume trend; the losses are 21% and 15%, respectively. This means if you restrict your selections to those showing receding volume throughout the formation, you should do better. On the flip side, you will also be passing up many formations in which you could trade profitably.
 
-<img src="http://i.imgur.com/TEKJfs9.png"/>
+### Broadening Wedges [**^**](#Contents)
 
-Only 38% of the formations have high volume downside breakouts.
-Apparently, prices can fall of their own weight even on low volume.
+* [TradingView -Ideas - Broadening Wedge](https://www.tradingview.com/ideas/broadeningwedge/)
 
-<img src="http://i.imgur.com/PvGESxo.png"/>
+#### Broadening Ascending Wedges [**^**](#Contents)
 
-## Weekly Reversals-Downside [**^**](#Contents)
+<img src="http://i.imgur.com/wM5asGY.png"/>
 
-<img src="http://i.imgur.com/Lk3u3HF.png"/>
+* [TradingView - Ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
+* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)\
+^^^ shows entirely different version of this based on updated statistics.
 
-On the weekly scale, a higher high, lower low, and closing price below the prior weekly low
+<a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
 
-<img src="http://i.imgur.com/eMqz6WP.png"/>
+#### Broadening Descending Wedges [**^**](#Contents) 
 
-Perhaps the most remarkable feature of the downside weekly reversal formation, if you can call it a formation, is its high failure rate at 37%. One out of three downside weekly reversals fail! I consider failure rates below 20% to be acceptable, so this chart pattern should serve as a warning: 
+<img src="http://i.imgur.com/d1K92Dv.png"/> 
 
-Perhaps you should skip this one.
+* [TradingView - Ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
+* [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
+  > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
 
-<img src="http://i.imgur.com/Ccs9cle.png"/>
 
-The average decline is 18% with a likely loss of 10%. The average decline is a little less than what you would expect (20%) from a well-performing bearish reversal. 
+<a href="https://www.tradingview.com/chart/AUDUSD/BTTUvzhp-AUDUSD-Descending-Broadening-Wedge-And-Short-Setup/"><img src="http://i.imgur.com/jV5HN0x.png"/></a>
 
-The reversal does have some interesting statistical findings. First, weekly reversals usually occur near a price peak and quite often near a major peak (signaling a change in the primary trend). The further from the peak the reversal occurs, the more likely it is to end in failure. This makes intuitive sense because prices are already sliding down the trend before the reversal hits and takes them closer to the ultimate low.
+>descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases.
 
-<img src="http://i.imgur.com/aldV2zG.png"/>
 
-## Weekly Reversals-Upside [**^**](#Contents)
+Being a consolidation in a bull market, the average rise is a very high 46%. The most likely rise is 20% and an astounding 40% of the formations have gains above 50%! With bullish numbers like these, it makes the failure rate seem tolerable.
 
-<img src="http://i.imgur.com/7oQ1ZQx.png"/>
-
-The Results Snapshot shows a quick synopsis of the statistical results for upside weekly reversals. The formation performs substantially better than its brother, the downside weekly reversal. 
-
-<img src="http://i.imgur.com/tmoRJKr.png"/>
-
-The upside variety sports a failure rate of 23%, still above the 20% maximum that I consider reliable formations should meet. Its average rise at 44% is quite high until you consider the most likely gain is 20%. The difference between the two values suggests there are a significant number of large gains pulling the average upward. A frequency distribution of the gains, which is where the most likely gain comes from, suggests meager gains are the norm.
-
-How can you gain 44% in 3 months? Normally, you cannot. A frequency distribution of the days to the ultimate high shows that most formations (47%) reach the high in 3 months or less. The next highest category, at 38%, is for those formations with long-term gains (taking over 6 months to reach the ultimate high). The large number of quick but small gains are why the most likely gain is so low. It is not a contradiction at all, just a warning that this formation either performs poorly or very well. There is little middle ground.
-
-<img src="http://i.imgur.com/EuRCHGi.png"/>
-
-The percentage of upside weekly reversals meeting their price targets at 84% is above the 80% reliability threshold. The high value should not come as a complete surprise since most bullish formations score well. The results are helped, in part, by each stock participating in a bull market over the 5 years under study.
-
-I compared the gains for successful upside weekly reversals when their volume is half the 25-week moving average to reversals having volume 50% above the average. The performance associated with the low volume variety show gains of 38%; the higher volume reversals have gains of 44%. The difference between the two results is statistically significant. However, when raising the volume benchmark to two, three, and four times the moving average, performance steadily declines. Another study of all formations, both successful and unsuccessful ones, supports the deteriorating performance results as volume increases.
-
-Performance improves with a wider weekly price range. The results range from an average gain of 15% for those formations with a narrow price range to 57% for those with a wider range.
-
-<img src="http://i.imgur.com/RDGFYTl.png"/>
 
 ## Statistics [**^**](#Contents)
 
