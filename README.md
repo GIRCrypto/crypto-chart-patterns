@@ -27,59 +27,55 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
 
 
 ## Contents
-* [Broadening Formations](#Broadening-Formations)
-  * [Broadening Bottoms](#Broadening-Bottoms)
-  * [Right-Angled and Ascending](#Right-Angled-and-Ascending)
-  * [Right-Angled and Descending](#Right-Angled-and-Descending)
-  * [Broadening Tops](#Broadening-Tops)
-  * [Broadening Wedges, Ascending](#Broadening-Wedges,-Ascending)
-* [Bump-and-Run Reversal Bottoms](#Bump-and-Run-Reversal-Bottoms)
-* [Bump-and-Run Reversal Tops](#Bump-and-Run-Reversal-Tops)
-* [Cup and Handle](#Cup-and-Handle)
-* [Dead-Cat Bounce](#Dead-Cat-Bounce)
-* [Diamond Tops and Bottoms](#Diamond-Tops-and-Bottoms)
-* [Double Bottoms](#Double-Bottoms)
-* [Double Tops](#Double-Tops)
-* [Flags and Pennants](#Flags-and-Pennants)
-  * [Flags-High and Tight](#Flags-High-and-Tight)
-* [Gaps](#Gaps)
-* [Hanging Man](#Hanging-Man)
-* [Head and Shoulders](#Heads-and-Shoulders-)
-  * [Inverted](#Inverted-Head-and-Shoulders)
-  * [Inverted-Complex](#HS-Bottoms-Complex)
-  * [HS Tops](#HS-Tops)
-  * [HS Tops Complex](#HS-Tops-Complex)
-* [Horn Bottoms](#Horn-Bottoms)
-* [Horn Tops](#Horn-Tops)
-* [Inside Days](#Inside-Days)
-* [Island Reversals](#Island-Reversals)
-* [Measured Move Down](#Measured-Move-Down)
-* [Measured Move Up](#Measured-Move-Up)
-* [One Day Reversals](#One-Day-Reversals)
-* [Outside Days](#Outside-Days)
-* [Pipe Bottoms](#Pipe-Bottoms)
-* [Pipe Tops](#Pipe-Tops)
-* [Rectangle Bottoms](#Rectangle-Bottoms)
-* [Rectangle Tops](#Rectangle-Tops)
-* [Rounding Bottoms](#Rounding-Bottoms)
-* [Rounding Tops](#Rounding-Tops)
-* [Scallops-Ascending and Descending](#Scallops-Ascending-and-Descending)
-* [Shark-32](#Shark-32)
-* [Triangles](#Triangles)
-  * [Ascending](#Ascending)
-  * [Descending](#Descending)
-  * [Symmetrical Bottoms](#Symmetrical-Bottoms)
-  * [Symmetrical Tops](#Symmetrical-Tops)
-* [Triple Bottoms](#Triple-Bottoms)
-* [Triple Tops](#Triple-Tops)
-* [Wedges](#Wedges)
-  * [Falling](#Falling)
-  * [Rising](#Rising)
+* [Broadening Formations](#broadening-formations-)
+  * [Broadening Bottoms](#broadening-bottoms-)
+  * [Broadening Tops](#broadening-tops-)
+  * [Right-Angled and Ascending](#right-angled-and-ascending-)
+  * [Right-Angled and Descending](#right-angled-and-descending-)
+  * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
+  * [Broadening Descending Wedges](#broadening-descending-wedges-)
+* [Bump-and-Run Reversal Bottoms](#bump-and-run-reversal-bottoms-)
+* [Bump-and-Run Reversal Tops](#bump-and-run-reversal-tops-)
+* [Cup and Handle](#cup-and-handle-)
+* [Dead-Cat Bounce](#dead-cat-bounce-)
+* [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
+* [Double Bottoms](#double-bottoms-)
+* [Double Tops](#double-tops-)
+* [Flags and Pennants](#flags-and-pennants-)
+  * [Flags-High and Tight](#flags-high-and-tight-)
+* [Gaps](#gaps-)
+  * [Island Reversals](#island-reversals-)
+* [Hanging Man](#hanging-man-)
+* [Head and Shoulders](#head-and-shoulders-)
+  * [HS Tops](#hs-tops-)
+  * [HS Tops Complex](#hs-tops-complex-)
+  * [Inverted](#inverted-head-and-shoulders-)
+  * [Inverted-Complex](#hs-bottoms-complex-)
+* [Inside Days](#inside-days-)
+* [Outside Days](#outside-days-)
+* [Measured Move Down](#measured-move-down-)
+* [Measured Move Up](#measured-move-up-)
+* [Pipe Bottoms](#pipe-bottoms-)
+* [Rectangles](#rectangles-)
+* [Rounding Bottoms](#rounding-bottoms-)
+* [Rounding Tops](#rounding-tops-)
+* [Scallops-Ascending and Descending](#scallops-ascending-and-descending-)
+* [Shark-32](#shark-32-)
+* [Triangles](#triangles-)
+  * [Ascending](#ascending-)
+  * [Descending](#descending-)
+  * [Symmetrical Bottoms](#symmetrical-bottoms-)
+  * [Symmetrical Tops](#symmetrical-tops-)
+* [Triple Bottoms](#triple-bottoms-)
+* [Triple Tops](#triple-tops-)
+* [Wedges](#wedges-)
+  * [Falling](#falling-)
+  * [Rising](#rising-)
 * [Weekly Reversals-Downside](#Weekly-Reversals-Downside)
 * [Weekly Reversals-Upside](#Weekly-Reversals-Upside)
 * [Statistics](#Statistics)
 
-## Broadening Formations 
+## Broadening Formations [**^**](#Contents)
 
 Broadening formations are generally considered bearish, and involve increased volitility with no clear direction.
 
@@ -94,6 +90,7 @@ Good for those who work on a low timeframe.
 * [TradingView - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
 
 Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class and not worth spending too much time on the variants unless noted otherwise.
+
 
 
 ### Broadening Bottoms [**^**](#Contents)
@@ -135,7 +132,7 @@ Bulkowski seems to be the only person who has tested different broadening patter
 
 >Right-angled ascending broadening formations: What does the name mean? Right angle implies that it is a member of the triangle family. A horizontal base with an up-sloping hypotenuse forms a right triangle. The third side drops down from the hypotenuse to the base and intersects it at a 90 degree angle, forming the so-called right angle. Ascending means that the hypotenuse ascends over time as contrasted with descending broadening formations. Broadening formation means that prices make higher highs. Ascending and descending triangles, in contrast, have narrowing price movements.
 
-## Right-Angled and Descending [**^**](#Contents)
+### Right-Angled and Descending [**^**](#Contents)
 
 <img src="http://i.imgur.com/NmJySGO.png"/>
 <a href="https://www.tradingview.com/chart/BTCUSD/cQ0rTZ0i-A-Right-Angled-and-Descending-Broadening-Formations/"><img src="http://i.imgur.com/QE58pku.png"/></a>
@@ -156,7 +153,7 @@ Along the bottom of the formation, the minor lows touch a down-sloping trendline
 
 <a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
 
-### Broadening Wedges, Descending [**^**](#Contents) 
+### Broadening Descending Wedges [**^**](#Contents) 
 
 <img src="http://i.imgur.com/d1K92Dv.png"/> 
 
@@ -522,22 +519,11 @@ The theory behind the formation says an investor can expect a large price move t
 
 <img src="http://i.imgur.com/4I56t43.png"/>
 
-A daily price range wider than the prior day;
-breakout is upward
+* [Investopedia - Terms - Outside Days](https://www.investopedia.com/terms/o/outside-days.asp)
+* [Outside Days](http://thepatternsite.com/OutsideDays.html)
+>Outside days often serve as part of a continuation pattern in the direction of the latest candlestick. For example, a bullish outside day occurring during an uptrend is a signal that the uptrend is expected to continue. However, outside days can also act as reversal patterns depending on the context. An outside reversal will include an outside day pattern in the opposite direction of the security’s price trend. 
 
-Outside days are mirror images of inside days. Outside days are characterized by a wider price range, one that is both higher and lower than the prior day.
-
-<img src="http://i.imgur.com/WAw8N31.png"/>
-
-The formation comes in two varieties: those with upside breakouts and those with downside ones. 
-
-* Upside breakouts, as the Results Snapshot outlines, sport a failure rate of 25%, just above the maximum 20% rate that I consider acceptable. The average rise is a subpar 32% with a likely rise of less than 10%. 
-
-* Downside breakouts perform substantially worse in some respects. Their failure rate is exceedingly high at 42% with an average decline of 17%. The average decline is not bad for a bearish formation but the most likely loss is less than 10%.
-
-With likely gains or losses of less than 10%, you have to consider whether this formation is worth trading. Meager gains coupled with a high failure rate suggest dial this is probably one formation to avoid.
-
-
+<a href="https://www.tradingview.com/chart/GBPUSD/mZS7LEis-GBP-USD-Outside-day-candle-needs-bearish-follow-through/"><img src="http://i.imgur.com/kGq90xC.png"/></a>
 
 ## Measured Move Down [**^**](#Contents)
 
@@ -575,77 +561,36 @@ Yes, its just like measured move down, but going up.
 <img src="http://i.imgur.com/dyRppHO.png"/>
 <img src="http://i.imgur.com/qVKyuYo.png"/>
 
+* [Bulkowski - Pipe Bottoms](http://thepatternsite.com/pipeb.html)
+
 After researching the performance of horn tops and bottoms, the natural thing to do is to remove the intervening week and test the pattern again. That is where the pipe formation comes from. Pipes bottoms are an exciting discovery with a low failure rate (12%) and a high average rise (47%).
 
 <img src="http://i.imgur.com/KicO0vz.png"/>
 
 Perhaps the most critical feature of a pipe bottom is what happens in the third week. While you can easily spot two adjacent downward price spikes, toss the formation aside if prices do not rise the third week. The third week, the week following the second pipe spike, should leave a well-defined dual spike visible on the price chart. The 4-week pair (which includes the weeks before and after the pipe) is V-shaped and is even more clear when combined with a downward price trend.
 
-<img src="http://i.imgur.com/jadbsvZ.png"/>
+a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. Figures 30.1 and 30.2 are good examples of this behavior.
 
-As mentioned in Table 30.4, a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. Figures 30.1 and 30.2 are good examples of this behavior.
+## Rectangles [**^**](#Contents)
 
-## Pipe Tops [**^**](#Contents)
+<img src="http://i.imgur.com/4iCP88e.png"/><img src="http://i.imgur.com/CYtc3dW.png"/>
+<img src="http://i.imgur.com/IO8fy2g.png"/>
 
-<img src="http://i.imgur.com/WFvJT9l.png"/>
-<img src="http://i.imgur.com/prwyCmo.png"/>
-Two adjacent upward price spikes on the weekly chart
+As with many patterns, Bulkowski has his own precise methods for examining them. I'll probably stick with the investopedia\babypips\tradingview for now.
 
-If you compare the above statistics with horn tops, you will not find much difference because the two formations are similar, even in appearance. 
+* [Bulkowski - Rectangle Bottoms](http://thepatternsite.com/rectbots.html)
+* [Bulkowski - Rectangle Bottom Setup](http://thepatternsite.com/RectangleBottomSetup.html)
+* [Bulkowski - Rectangle Tops](http://thepatternsite.com/recttops.html)
+* [Babypips - Learn - How to Use Rectangle Chart Patterns to Trade Breakouts](https://www.babypips.com/learn/forex/rectangles)
+* [Babypips - Wiki - Rectangles](https://www.babypips.com/forexpedia/rectangles)
+* [Investopedia - Terms - Rectangles](https://www.investopedia.com/terms/r/rectangles.asp)
+* [Investopedia - Articles - Rectangle Formations](https://www.investopedia.com/articles/trading/08/rectangle-formation.asp)
+  >Most technicians agree, the rectangle can serve as either a reversal or continuation formation. As a reversal pattern, it ends a trend either up or down. As a continuation pattern, it signifies a pause in the prevailing trend, with the expectation that the prior trend will eventually resume. In either case, the rectangle shows a tug of war between buyers and sellers.
+* [TradingView - Ideas - Rectangle](https://www.tradingview.com/ideas/rectangle/)
+* [Tradingview - Wiki - Rectangle](https://www.tradingview.com/wiki/Rectangle)
+  <img src="http://i.imgur.com/mRdS0Ip.png"/>
+* [TradingView - Education - Rectangles](https://www.tradingview.com/education/rectangle/)
 
-Still, the 18% failure rate for pipe tops is quite good, below the 20% maximum for formations that I consider reliable. The average decline is 21 % with a likely loss between 10% and 20%. 
-
-<img src="http://i.imgur.com/cIEKoFG.png"/>
-
-This is an improvement from horn tops, which show the most likely loss to be just 10%. The best performing pipe tops are those with price trends at least 3 months long leading down to the formation. 
-
-The pipes appear as part of a retrace in a downtrend and perform much better than other combinations. They score average losses of 24% with a smaller failure
-rate of 11%.
-
-<img src="http://i.imgur.com/15fzfkY.png"/>
-
-## Rectangle Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/4iCP88e.png"/>
-<img src="http://i.imgur.com/04cSZH3.png"/>
-Prices trend down to the formation then oscillate between two horizontal trendlines before breaking out upward.
-
-The failure rate for rectangles with upside breakouts is 0%. Do not get too excited as the sample size is small (41 formations). I do not believe that upside breakouts never fail. They do, it just did not shappen on my shift. One thing is clear, though: They are reliable. The average rise is 46%, above the usual 40% gain for bullish formations. 
-
-The most likely rise at 20% is about what you would expect. With such a large gain, it is no surprise that the formation meets its price target 93% of the time. I consider anything above 80% to be reliable.
-
-<img src="http://i.imgur.com/HV0JNvB.png"/>
-
-Rectangles with downside breakouts perform almost as well. They have a 4% failure rate. That is very good as I consider reliable anything below 20%.
-
-The average loss is 19%, just shy of the usual 20% for bearish formations. Pullbacks score well, appearing 70% of the time. 
-
-That score is high enough on which to base a trading tactic. After a downside breakout, short the stock then add to the position once a pullback returns to the formation and begins moving down again (always wait for the downside move because prices might continue climbing)
-
-<img src="http://i.imgur.com/toGtSIm.png"/>
-
-Of the 95 bottoms studied, I found slightly more rectangles acting as consolidations (54) of the prevailing price trend than reversals (41). Expect the breakout direction to follow the trend leading to the formation. 
-
-If, upon entry, prices are moving down, expect them to continue moving lower after the breakout 55% of the time. That result is not much above a coin toss but it is
-useful.
-
-As mentioned in the Focus on Failures section, just two formations fail, placing the failure rate at 4% for rectangles with downside breakouts or 2 % for rectangle bottoms overall. Let me emphasize that because I did not find any failures of rectangle patterns with upside breakouts does not mean there are none. I just did not find any in the stocks I was looking at. However, as a rule, rectangle bottom formations rarely fail, but they do have premature breakouts, so be careful
-
-## Rectangle Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/CYtc3dW.png"/>\
-Prices trend up to the formation then oscillate between two horizontal trendlines before breaking out upward.
-<img src="http://i.imgur.com/f1NkDko.png">
-
-Rectangle tops with upside breakouts fail 2% of the time. The average rise is an astounding 52% with a likely gain between 20% and 30%. These numbers are excellent. With such a large gain, it is no surprise that the measure rule works out well with 91% of the formations hitting their price targets.
-
-<img src="http://i.imgur.com/jLKxWpD.png"/>
-
-Downside breakouts tell a similar tale, but one that is not quite as rosy. Downside breakouts have a 0% failure rate not because they are excellent performers, but because I did not find any that failed. I am sure there are rectangle tops with downside breakouts that fail to move down by less than 5%. The average loss is 20% with a strong likely decline of 20%, too. 
-
-This is unusual but it suggests there are few large declines to skew the average. A glance at the frequency distribution shows that the assumption is correct. The percentage of formations with downside breakouts meeting or exceeding the price target is 77%, just below the 80% threshold that I consider reliable.
-
-<img src="http://i.imgur.com/yQ7LFRg.png"/>
 
 ## Rounding Bottoms [**^**](#Contents)
 
