@@ -4,7 +4,11 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
 
 ## Contents
 * [Intro](#intro-)
+  * [Most Common Patterns](#most-common-patterns-)
 * [Chart Patterns](#chart-patterns-)
+  * [Support and Resistance](#support-and-resistance-)
+  * [Trendlines](#trendlines-)
+  * [Channels](#channels-)
 * [Triangles](#triangles-)
   * [Ascending](#ascending-)
   * [Descending](#descending-)
@@ -30,19 +34,19 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
   * [Inverted](#inverted-head-and-shoulders-)
   * [Inverted-Complex](#hs-bottoms-complex-)
 * [Dead-Cat Bounce](#dead-cat-bounce-)
+* [Gaps](#gaps-)
+  * [Island Reversals](#island-reversals-)
+* [Rounding Bottoms](#rounding-bottoms-)
+* [Rounding Tops](#rounding-tops-)
 * [Bump-and-Run Reversal Bottom](#bump-and-run-reversal-bottoms-)
 * [Bump-and-Run Reversal Tops](#bump-and-run-reversal-bottoms-)
 * [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
-* [Gaps](#gaps-)
-  * [Island Reversals](#island-reversals-)
 * [Hanging Man](#hanging-man-)
 * [Inside Days](#inside-days-)
 * [Outside Days](#outside-days-)
 * [Measured Move Down](#measured-move-down-)
 * [Measured Move Up](#measured-move-up-)
 * [Pipe Bottoms and Tops](#pipe-bottoms-and-tops-)
-* [Rounding Bottoms](#rounding-bottoms-)
-* [Rounding Tops](#rounding-tops-)
 * [Scallops](#scallops-)
   * [Ascending Scallops](#ascending-scallops-)
   * [Descending Scallops](#descending-scallops-)
@@ -56,73 +60,72 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
 ## Intro
 Deciding how to organize patterns, and their relative importance. So first I'm gathering how others do it.
 
-### BabyPips
+* [BabyPips - How to Trade Chart Patterns](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns)
+* [Investopedia - University - Charts](https://www.investopedia.com/university/charts/)
 
-According to **BabyPips** there are [3 main groups](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns) of trading patterns:
-
-1. Reversal
-   * Double Top
-   * Double Bottom
-   * Head and Shoulders
-   * Inverse Head and Shoulders
-   * Rising Wedge
-   * Falling Wedge
-2. Continuation
-   * wedges
-   * rectangles
-   * pennants
-* Note that wedges can be considered either reversal or continuation patterns depending on the trend on which they form.
-3. Bi-lateral
-   * Triangles
-
-On **TradingView** when you hover over their ideas menu, the chart patterns they have listed are:
-* Double Top or Bottom 
-* Wedge
-* Cup and Handle
-* Flag
-* Pennant
-* Rectangle
+On **TradingView** when you hover over their ideas menu, there are a few chart patterns listed that I haven't covered here, yet:
 * Parralel
-* Channel
 * Pitchforks
-* Triangle
-
-### BitcoinTradingSites
-
-**Bullish**
-* Flag
-* Pennant
-* Measured move up
-* Symmetrical triangle
-* Ascending scallop
-* 3 rising valleys
-* Cup with Handle
-* Ascending triangle
-
-**Bearish**
-* Symmetric triangle
-* 3 descending peaks
-* Descending scallop
-* Descending triangle
-* Flag
-* Inverted Cup with handle
-* Measured move down
-* Pennant
-
-**Reversal**
-* Head and shoulders top
-* Tops rectangle
-* Double bottoms
-* Diamond bottoms
 
 
-[BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
+### Most Common Patterns
+
+* [4 Reliable Chart Patterns](https://hacked.com/trading-101-4-reliable-chart-patterns-in-crypto-trading/)
+  * Bull Flag
+  * Head and Shoulders
+  * Cup and Handle
+  * Rectangle
+
+* [BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
+  <img src="https://media.discordapp.net/attachments/350717439388024835/362750300513107978/unknown_2.png"/>
 
 ---
+
 ## Chart Patterns [**^**](#Contents)
+
+Roughly in order of importance. Mostly I just look for rising and falling wedges.
+
+* [CarpeNoctom - Crypto Chart Pattern Compendium](https://medium.com/@CarpeNoctom/crypto-chart-pattern-compendium-c0deed5719f0)
+* [Babypips - How to Trade Breakouts Using Trend Lines, Channels and Triangles](https://www.babypips.com/learn/forex/spotting-breakouts)
+
+### Support and Resistance
+<a href="https://www.tradingview.com/chart/EURUSD/BwJjAP78-Trading-Fundamentals-Horizontal-Support-Resistance-forex/"><img src="http://i.imgur.com/UQRMZDS.png"/></a>
+
+* [Investopedia - University - Support and Resistance](https://www.investopedia.com/university/technical/techanalysis4.asp)
+* [Babypips - Learn - Support and Resistance](https://www.babypips.com/learn/forex/support-and-resistance)
+* [Bulkowski - Support and Resistance](http://thepatternsite.com/SAR.html)
+* [TradingView - Ideas - Support and Resistance](https://www.tradingview.com/ideas/supportandresistance/)
+* [TradingView - Education - Support and Resistance](https://www.tradingview.com/education/supportandresistance/)
+* [TradingView - Scripts - Support and Resistance](https://www.tradingview.com/scripts/supportandresistance/)
+
+>Support and Resistance is one of the most used techniques in technical analysis based on a concept that's easy to understand but difficult to master. It identifies price levels where historically the price reacted either by reversing or at least by slowing down and prior price behavior at these levels can leave clues for future price behavior. There are many different ways to identify these levels and to apply them in trading. Support and Resistance levels can be identifiable turning points, areas of congestion or psychological levels (round numbers that traders attach significance to). The higher the timeframe, the more relevant the levels become. 
+
+### Trendlines
+
+<a href="https://www.tradingview.com/chart/MCOBTC/iPsabAQv-Trendlines/"><img src="http://i.imgur.com/MEJvNJz.png"/></a>
+
+* [TradingView - Education - Trendline](https://www.tradingview.com/education/trendline/)
+* [TradingView - Ideas - Trendline](https://www.tradingview.com/ideas/trendline/)
+* [TradingView - Scripts - Trendline](https://www.tradingview.com/scripts/trendline/)
+* [Investopedia - University - Trendlines](https://www.investopedia.com/university/technical/techanalysis3.asp)
+* [Bulkowski - Trend Down](http://thepatternsite.com/trenddown.html)
+* [Bulkowski - Trend Up](http://thepatternsite.com/uptrendlines.html)
+
+
+### Channels
+
+<a href="https://www.tradingview.com/chart/UKOIL/KdG4JPm9-OIL/"><img src="http://i.imgur.com/5jyyQc6.png"/></a>
+
+* [Bulkowski - Channels](http://thepatternsite.com/channels.html)
+* [Bulkowski - Drawing 3 Point Channels](http://thepatternsite.com/3PointChannels.html)
+* [Bulkowski - Trendline Mirrors](http://thepatternsite.com/TrendlineMirrors.html)
+* [TradingView - Ideas - Channels](https://www.tradingview.com/ideas/channelstudies/)
+* [TradingView - Scripts - Channels](https://www.tradingview.com/scripts/channelstudies/)
 
 ## Triangles [**^**](#Contents)
 
+* [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
+  ![](http://i.imgur.com/W8DshbP.png)
 * [TradingView - Education - Triangles](https://www.tradingview.com/education/triangle/)
 * [TradingView - Scripts - Triangles](https://www.tradingview.com/scripts/triangle/)
 * [TradingView - Wiki - Triangle Pattern](https://www.tradingview.com/wiki/Triangle_Pattern)
@@ -131,8 +134,6 @@ On **TradingView** when you hover over their ideas menu, the chart patterns they
 * [Investopedia - Triangles a Study in Continuation Patterns](https://www.investopedia.com/articles/technical/03/091003.asp)
 * [Investopedia - University - Triangles](https://www.investopedia.com/university/charts/charts5.asp)
 * [Investopedia - Ideas - Triangles](https://www.tradingview.com/ideas/triangle/)
-* [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
-  ![](http://i.imgur.com/W8DshbP.png)
 
 
 ### Ascending [**^**](#Contents)
@@ -149,11 +150,12 @@ I want to do some more research, because again Bulkowski differs from prevailing
 
 <img src="http://i.imgur.com/hmAYlr8.png">
 
->"ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly."
+>"ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly." (**wait for breakout**)
 
-<img src="http://i.imgur.com/9KZQHtT.png"/>
+* <a href="https://twitter.com/PeterLBrandt/status/1039575413985398784">Ascending and Descending Triangles</a>
+<img src="https://pbs.twimg.com/media/Dm1QPD2V4AEvcWd.jpg:large"/>
 
-The ascending triangle has a poor failure rate of 32%. However, if you wait for an upside breakout, then the failure rate drops to just 2 %.
+
 
 ### Descending [**^**](#Contents)
 
@@ -555,6 +557,71 @@ It is not so much a chart formation as it is a warning to exit the stock quickly
 
 The larger the event decline, the larger the bounce. 
 
+## Gaps [**^**](#Contents)
+
+<img src="http://i.imgur.com/in6Os6l.png"/>\
+<img src="http://i.imgur.com/rbxMzBq.png"/>
+
+* [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
+* [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
+* [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
+* [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
+* [Investopedia - University - Gaps](https://www.investopedia.com/university/charts/charts8.asp)
+* [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
+
+A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
+stock to create a gap. 
+
+<img src="http://i.imgur.com/zW5p40p.png"/>
+
+It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
+
+
+### Island Reversals [**^**](#Contents)
+
+<img src="http://i.imgur.com/zhv3ClU.png"/>
+
+* [Bulkowski - Island Reversal](http://thepatternsite.com/islandrev.html)
+* [Advanced Candlestick Patterns](https://www.investopedia.com/articles/trading/06/advcandlesticks.asp) - Has a section on Island Reversals.
+
+"The performance of island reversals is perhaps surprising only for its mediocrity."
+
+## Rounding Bottoms [**^**](#Contents)
+
+<img src="http://i.imgur.com/QUD9peo.png"/>\
+A long, rounded upward turn in prices\
+reversal - wait for confirmation.\
+AKA: rounding turns, and saucers.
+
+* [Investopedia - Terms - Rounding Bottom](https://www.investopedia.com/terms/r/roundingbottom.asp)
+* [Investopedia - University - Round Bottoms](https://www.investopedia.com/university/charts/charts10.asp)
+* [Bulkowski - Rounding Bottoms](http://thepatternsite.com/roundb.html)
+* [TradingView - Ideas - Rounded Bottoms](https://www.tradingview.com/ideas/rounded-bottom/)
+
+<a href="https://www.tradingview.com/chart/ANFI/bCjffZx1-Picture-perfect-rounding-bottom/"><img src="http://i.imgur.com/FV9Cy1D.png"/></a>
+
+>The pattern differs from the cup-with-handle and scallop formations in subtle ways, so be sure to study those formations if you are unsure about identification.
+
+<img src="http://i.imgur.com/Bd7gwjX.png">
+
+>If you consider upside breakouts only (a breakout being when prices move above the left saucer lip), then the failure rate drops to just 5%.
+
+
+## Rounding Top [**^**](#Contents)
+
+<img src="http://i.imgur.com/8h5IOLL.png"/>\
+As prices move up, they curve around then breakout upward.
+
+Contrary to Bulkowski, most traders seem to look at these as more likely to break down. Because of the conflicting ideas, I would ignore this pattern and move to some other indicator.
+
+<a href="https://in.tradingview.com/chart/USDINR/JY6XKGPH-USD-RUPEE-FACEOFF-in-a-rounding-top-with-momentum-divergence/"><img src="http://i.imgur.com/LUqDkjQ.png"></a>
+
+* [Investopedia - Terms - Rounding Top](https://www.investopedia.com/terms/r/roundingtop.asp)
+* [Bulkowski - Rounding Top](http://thepatternsite.com/roundingtop.html)
+
+
+<a href="http://www.seeryfutures.com/content/what-rounding-top-chart-pattern-0"><img src="http://i.imgur.com/jd9vsrE.png"></a>
+
 
 
 ## Bump-and-Run Reversal Bottoms[**^**](#Contents)
@@ -608,35 +675,6 @@ In appearance, the only difference between the two diamond patterns is the price
 
 
 <a href="https://www.tradingview.com/chart/BTCUSD/PajEGFVg-Confusing-priceaction-on-btc-uncovers-3hour-Diamond-pattern/"><img src="http://i.imgur.com/rPLVeSm.png"/></a>
-
-## Gaps [**^**](#Contents)
-
-<img src="http://i.imgur.com/in6Os6l.png"/>\
-<img src="http://i.imgur.com/rbxMzBq.png"/>
-
-* [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
-* [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
-* [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
-* [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
-* [Investopedia - University - Gaps](https://www.investopedia.com/university/charts/charts8.asp)
-* [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
-
-A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
-stock to create a gap. 
-
-<img src="http://i.imgur.com/zW5p40p.png"/>
-
-It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
-
-
-### Island Reversals [**^**](#Contents)
-
-<img src="http://i.imgur.com/zhv3ClU.png"/>
-
-* [Bulkowski - Island Reversal](http://thepatternsite.com/islandrev.html)
-* [Advanced Candlestick Patterns](https://www.investopedia.com/articles/trading/06/advcandlesticks.asp) - Has a section on Island Reversals.
-
-"The performance of island reversals is perhaps surprising only for its mediocrity."
 
 
 ## Hanging Man [**^**](#Contents)
@@ -739,42 +777,6 @@ Yes, its just like measured move down, but going up.
 
 > a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. 
 
-
-## Rounding Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/QUD9peo.png"/>\
-A long, rounded upward turn in prices\
-reversal - wait for confirmation.\
-AKA: rounding turns, and saucers.
-
-* [Investopedia - Terms - Rounding Bottom](https://www.investopedia.com/terms/r/roundingbottom.asp)
-* [Investopedia - University - Round Bottoms](https://www.investopedia.com/university/charts/charts10.asp)
-* [Bulkowski - Rounding Bottoms](http://thepatternsite.com/roundb.html)
-* [TradingView - Ideas - Rounded Bottoms](https://www.tradingview.com/ideas/rounded-bottom/)
-
-<a href="https://www.tradingview.com/chart/ANFI/bCjffZx1-Picture-perfect-rounding-bottom/"><img src="http://i.imgur.com/FV9Cy1D.png"/></a>
-
->The pattern differs from the cup-with-handle and scallop formations in subtle ways, so be sure to study those formations if you are unsure about identification.
-
-<img src="http://i.imgur.com/Bd7gwjX.png">
-
->If you consider upside breakouts only (a breakout being when prices move above the left saucer lip), then the failure rate drops to just 5%.
-
-
-## Rounding Top [**^**](#Contents)
-
-<img src="http://i.imgur.com/8h5IOLL.png"/>\
-As prices move up, they curve around then breakout upward.
-
-Contrary to Bulkowski, most traders seem to look at these as more likely to break down. Because of the conflicting ideas, I would ignore this pattern and move to some other indicator.
-
-<a href="https://in.tradingview.com/chart/USDINR/JY6XKGPH-USD-RUPEE-FACEOFF-in-a-rounding-top-with-momentum-divergence/"><img src="http://i.imgur.com/LUqDkjQ.png"></a>
-
-* [Investopedia - Terms - Rounding Top](https://www.investopedia.com/terms/r/roundingtop.asp)
-* [Bulkowski - Rounding Top](http://thepatternsite.com/roundingtop.html)
-
-
-<a href="http://www.seeryfutures.com/content/what-rounding-top-chart-pattern-0"><img src="http://i.imgur.com/jd9vsrE.png"></a>
 
 
 ## Scallops [**^**](#Contents)
@@ -882,7 +884,7 @@ Descending\
 
 <img src="http://i.imgur.com/eIYOjLF.png"/>
 
-## Resources:
+## Resources [**^**](#contents)
 
 * [Investopedia.com](https://investopedia.com)
 * [BabyPips.com](https://babypips.com)
