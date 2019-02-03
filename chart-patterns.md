@@ -4,60 +4,59 @@ Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](
 
 ## Contents
 * [Intro](#intro-)
-* [Broadening Formations](#broadening-formations-)
-  * [Broadening Bottoms](#broadening-bottoms-)
-  * [Broadening Tops](#broadening-tops-)
-  * [Right-Angled and Ascending](#right-angled-and-ascending-)
-  * [Right-Angled and Descending](#right-angled-and-descending-)
-* [Bump-and-Run Reversal Bottoms](#bump-and-run-reversal-bottoms-)
-* [Bump-and-Run Reversal Tops](#bump-and-run-reversal-tops-)
-* [Cup With Handle](#cup-with-handle-)
-* [Dead-Cat Bounce](#dead-cat-bounce-)
-* [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
-* [Double Bottoms](#double-bottoms-)
-* [Double Tops](#double-tops-)
-* [Flags and Pennants](#flags-and-pennants-)
-  * [Flags-High and Tight](#flags-high-and-tight-)
-* [Gaps](#gaps-)
-  * [Island Reversals](#island-reversals-)
-* [Hanging Man](#hanging-man-)
-* [Head and Shoulders](#head-and-shoulders-)
-  * [HS Tops](#hs-tops-)
-  * [HS Tops Complex](#hs-tops-complex-)
-  * [Inverted](#inverted-head-and-shoulders-)
-  * [Inverted-Complex](#hs-bottoms-complex-)
-* [Inside Days](#inside-days-)
-* [Outside Days](#outside-days-)
-* [Measured Move Down](#measured-move-down-)
-* [Measured Move Up](#measured-move-up-)
-* [Pipe Bottoms and Tops](#pipe-bottoms-and-tops-)
-* [Rectangles](#rectangles-)
-* [Rounding Bottoms](#rounding-bottoms-)
-* [Rounding Tops](#rounding-tops-)
-* [Scallops](#scallops-)
-  * [Ascending Scallops](#ascending-scallops-)
-  * [Descending Scallops](#descending-scallops-)
+* [Chart Patterns](#chart-patterns-)
 * [Triangles](#triangles-)
   * [Ascending](#ascending-)
   * [Descending](#descending-)
   * [Symmetrical](#symmetrical-)
-* [Triple Bottoms and Tops](#triple-bottoms-and-tops-)
-  * [Triple Bottoms](#triple-bottoms-)
-  * [Triple Tops](#triple-tops-)
+* [Flags and Pennants](#flags-and-pennants-)
+  * [Flags-High and Tight](#flags-high-and-tight-)
 * [Wedges](#wedges-)
   * [Falling](#falling-)
   * [Rising](#rising-)
   * [Broadening Wedges](#broadening-wedges-)
     * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
     * [Broadening Descending Wedges](#broadening-descending-wedges-)
+* [Rectangles](#rectangles-)
+* [Double Bottoms](#double-bottoms-)
+* [Double Tops](#double-tops-)
+* [Triple Bottoms and Tops](#triple-bottoms-and-tops-)
+  * [Triple Bottoms](#triple-bottoms-)
+  * [Triple Tops](#triple-tops-)
+* [Cup With Handle](#cup-with-handle-)
+* [Head and Shoulders](#head-and-shoulders-)
+  * [HS Tops](#hs-tops-)
+  * [HS Tops Complex](#hs-tops-complex-)
+  * [Inverted](#inverted-head-and-shoulders-)
+  * [Inverted-Complex](#hs-bottoms-complex-)
+* [Dead-Cat Bounce](#dead-cat-bounce-)
+* [Bump-and-Run Reversal Bottom](#bump-and-run-reversal-bottoms-)
+* [Bump-and-Run Reversal Tops](#bump-and-run-reversal-bottoms-)
+* [Diamond Tops and Bottoms](#diamond-tops-and-bottoms-)
+* [Gaps](#gaps-)
+  * [Island Reversals](#island-reversals-)
+* [Hanging Man](#hanging-man-)
+* [Inside Days](#inside-days-)
+* [Outside Days](#outside-days-)
+* [Measured Move Down](#measured-move-down-)
+* [Measured Move Up](#measured-move-up-)
+* [Pipe Bottoms and Tops](#pipe-bottoms-and-tops-)
+* [Rounding Bottoms](#rounding-bottoms-)
+* [Rounding Tops](#rounding-tops-)
+* [Scallops](#scallops-)
+  * [Ascending Scallops](#ascending-scallops-)
+  * [Descending Scallops](#descending-scallops-)
+* [Broadening Formations](#broadening-formations-)
+  * [Broadening Tops and Bottoms](#broadening-tops-and-bottoms-)
+  * [Right-Angled](#right-angled-)
 * [Statistics](#statistics-)
 * [Resources](#resources-)
 
 
-### Intro
+## Intro
 Deciding how to organize patterns, and their relative importance. So first I'm gathering how others do it.
 
-#### BabyPips
+### BabyPips
 
 According to **BabyPips** there are [3 main groups](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns) of trading patterns:
 
@@ -88,227 +87,102 @@ On **TradingView** when you hover over their ideas menu, the chart patterns they
 * Pitchforks
 * Triangle
 
-**Bitcointradingsites.net** arranges patterns Bullish, Bearish, and Reversal. 
+### BitcoinTradingSites
 
 **Bullish**
-Flag
-Pennant
-Measured move up
-Symmetrical triangle
-Ascending scallop
-3 rising valleys
-Cup with Handle
-Ascending triangle
+* Flag
+* Pennant
+* Measured move up
+* Symmetrical triangle
+* Ascending scallop
+* 3 rising valleys
+* Cup with Handle
+* Ascending triangle
 
+**Bearish**
+* Symmetric triangle
+* 3 descending peaks
+* Descending scallop
+* Descending triangle
+* Flag
+* Inverted Cup with handle
+* Measured move down
+* Pennant
 
-* [BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
+**Reversal**
+* Head and shoulders top
+* Tops rectangle
+* Double bottoms
+* Diamond bottoms
 
 
+[BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
 
-## Broadening Formations [**^**](#Contents)
+---
+## Chart Patterns [**^**](#Contents)
 
-Broadening formations are generally considered bearish, and involve increased volitility with no clear direction.
+## Triangles [**^**](#Contents)
 
-Good for those who work on a low timeframe.
+* [TradingView - Education - Triangles](https://www.tradingview.com/education/triangle/)
+* [TradingView - Scripts - Triangles](https://www.tradingview.com/scripts/triangle/)
+* [TradingView - Wiki - Triangle Pattern](https://www.tradingview.com/wiki/Triangle_Pattern)
+* [Baby Pips - Learn - Triangles](https://www.babypips.com/learn/forex/triangles)
+  * [Symmetrical Triangle](https://www.babypips.com/forexpedia/symmetrical-triangle)
+* [Investopedia - Triangles a Study in Continuation Patterns](https://www.investopedia.com/articles/technical/03/091003.asp)
+* [Investopedia - University - Triangles](https://www.investopedia.com/university/charts/charts5.asp)
+* [Investopedia - Ideas - Triangles](https://www.tradingview.com/ideas/triangle/)
+* [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
+  ![](http://i.imgur.com/W8DshbP.png)
 
->A broadening formation is an example of a consolidation pattern and a highly useful tool in the prediction of the likelihood of a reversal in the direction of a current trend. When found in an uptrend it indicates not a continuation of that trend, but a near-term reversal of the price action.
 
-<a href="https://www.tradingview.com/chart/BTCUSD/oiTdqZex-BTC-too-early-to-Tell-Broadening-Pattern/"><img src="http://i.imgur.com/5hZLIzW.png"/></a>
+### Ascending [**^**](#Contents)
 
-* [Investopedia - Terms - Broadening Formations](https://www.investopedia.com/terms/b/broadeningformation.asp)
-* [Baby Pips - Broadening Formations](https://www.babypips.com/forexpedia/broadening-formation)
-* [TradingView - Ideas - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
+<img src="http://i.imgur.com/NXLuicp.png"/>\
+Triangle shape with horizontal top, up-sloping bottom
 
-Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class and not worth spending too much time on the variants unless noted otherwise.
+I want to do some more research, because again Bulkowski differs from prevailing thoughts. Wait for breakout.
 
+* [TradingView - Ideas - Ascending Triangle](https://www.tradingview.com/ideas/ascendingtriangle/)
+* [Investopedia - Terms - Ascending Triangle](https://www.investopedia.com/terms/a/ascendingtriangle.asp)
+* [Babypips - Ascending Triangle](https://www.babypips.com/forexpedia/ascending-triangle)
+* [Bulkowski - Ascending Triangles](http://thepatternsite.com/at.html)
 
+<img src="http://i.imgur.com/hmAYlr8.png">
 
-### Broadening Bottoms [**^**](#Contents)
+>"ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly."
 
-<img src="http://i.imgur.com/ZdMwvG5.png"/>
+<img src="http://i.imgur.com/9KZQHtT.png"/>
 
-* [TradingView - Wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
-* [TradingView - Ideas - Broadening Bottoms](https://www.tradingview.com/ideas/broadening-bottom/)
-* [Bulkowski - Broadening Bottoms](http://thepatternsite.com/rabfa.html)
+The ascending triangle has a poor failure rate of 32%. However, if you wait for an upside breakout, then the failure rate drops to just 2 %.
 
-<a href="https://www.tradingview.com/chart/BTCUSD/IxwU3hjj-BTC-BROADENING-BOTTOM-BULLISH/"><img src="http://i.imgur.com/gJEFw7m.png"></a>
+### Descending [**^**](#Contents)
 
-### Broadening Tops [**^**](#Contents)
+<img src="http://i.imgur.com/JgtnCed.png"/>\
+Triangle shape with horizontal bottom and downsloping top
 
-<img src="http://i.imgur.com/aYRNLT6.png"/>
+* [TradingView - Ideas - Descending Triangles](https://www.tradingview.com/ideas/descendingtriangle/)
+* [Investopedia - Terms - Descending Triangles](https://www.investopedia.com/terms/d/descendingtriangle.asp)
+* [BabyPips - Descending Triangles](https://www.babypips.com/forexpedia/descending-triangle)
+* [Bulkowski - Descending Triangles](http://thepatternsite.com/dt.html)
 
-<a href="https://www.tradingview.com/chart/AUDCHF/yqgnq7zm-Broadening-Top-on-AUDCHF/"><img src="http://i.imgur.com/dr6ubSl.png"/></a>
 
-* [TradingView.wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
-* [Tradingview.ideas - Broadening Tops](https://www.tradingview.com/ideas/broadening-tops/)
-* [Bulkowski - Broadening Tops](http://thepatternsite.com/bt.html)
+wait for a downside breakout, then the failure rate drops to just 4%.
 
->Broadening tops, not surprisingly, act a lot like broadening bottoms. What separates a top from a bottom is the price trend leading to the chart pattern.
+<a href="https://www.tradingview.com/chart/BTCUSD/28gmCjq1-Descending-Triangles-within-a-Larger-Descending-Triangle-2200/"><img src="http://i.imgur.com/U6um20V.png"></a>
 
-<img src="http://i.imgur.com/wJhx8U7.png"/>
+### Symmetrical [**^**](#Contents)
 
+<img src="http://i.imgur.com/6gq7YsK.png"/><img src="http://i.imgur.com/VZaoiVZ.png"/>
 
->There should be at least two minor highs and two minor lows before die chart pattern becomes a broadening top. A minor high is another name for a distinct price peak. A minor low refers to the valley pattern as prices descend to a low then turn back up. Again, the minor low should be a distinct trough that is easily recognizable. Figure 4.1 shows diree minor highs touching die top trendline and four minor lows either nearing or touching die bottom trendline. The minor highs and minor lows need not alternate as prices crisscross die formation.
+Prices trend down then form lower highs and higher lows following two sloping trendlines that eventually intersect. The breakout is downward
 
+* [Investopedia - Symmetrical Triangle](https://www.investopedia.com/terms/s/symmetricaltriangle.asp)
+* [The Symmetrical Triangle: A Reliable Workhorse](https://www.investopedia.com/university/five-chart-patterns-you-need-know/symmetrical-triangle.asp)
+* [Bulkowski - Symmetrical Triangles](http://thepatternsite.com/st.html)
+* [TradingView - Ideas - Symmetrical Triangles](https://www.tradingview.com/ideas/symmetricaltriangle/)
 
-### Right-Angled and Ascending [**^**](#Contents)
+<a href="https://www.tradingview.com/chart/GBPUSD/mi4E4f4s-GBPUSD-Symmetrical-Triangle/"><img src="http://i.imgur.com/NQtMNdH.png"/></a>
 
-<img src="http://i.imgur.com/sKlLY09.png"/>
-<a href="https://in.tradingview.com/chart/BOSCHLTD/ostmxgIZ-Broadening-Formations-Right-Angled-and-Ascending-Engulfing/"><img src="http://i.imgur.com/RtOVuz1.png"/></a>
-
-* [Bulkowski - Broadening formations: Right-Angled and Ascending](http://thepatternsite.com/rabfa.html)
-
->The right-angled and ascending broadening chart pattern is not one you might choose to trade. -[source](https://education.howthemarketworks.com/advanced/charts-and-patterns/broadening-formations-right-angled-and-ascending/)
-
->Right-angled ascending broadening formations: What does the name mean? Right angle implies that it is a member of the triangle family. A horizontal base with an up-sloping hypotenuse forms a right triangle. The third side drops down from the hypotenuse to the base and intersects it at a 90 degree angle, forming the so-called right angle. Ascending means that the hypotenuse ascends over time as contrasted with descending broadening formations. Broadening formation means that prices make higher highs. Ascending and descending triangles, in contrast, have narrowing price movements.
-
-### Right-Angled and Descending [**^**](#Contents)
-
-<img src="http://i.imgur.com/NmJySGO.png"/>
-<a href="https://www.tradingview.com/chart/BTCUSD/cQ0rTZ0i-A-Right-Angled-and-Descending-Broadening-Formations/"><img src="http://i.imgur.com/QE58pku.png"/></a>
-
-* [Bulkowski - Broadening formations: Right-Angled and Descending](http://thepatternsite.com/rabfd.html)
-
-The characteristic flat top and down-sloping bottom are apparent in the figure. These are the two key ingredients. Prices at the top of the formation reach the same price level before declining. Over time, a horizontal trendline can be drawn connecting them. 
-
-Along the bottom of the formation, the minor lows touch a down-sloping trendline before prices rebound. Eventually, prices break out of the formation by either closing above the top trendline or below the bottom one.
-
-
-## Bump-and-Run Reversal Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/C3adH9M.png"/>
-
-* https://www.tradingview.com/ideas/bump/
-* [Bulkowski - Bump and Run Reversal Bottoms](http://thepatternsite.com/barrb.html)
-  >The bump-and-run reversal bottom is a chart pattern that is a surprisingly good performer in both bull and bear markets. It has a low break even failure rate and high average rise after the breakout. Discovered by Thomas Bulkowski in 1999.
-
-If you wait for a breakout, the failure rate drops from 19% to 9%. I consider anything less than 20% to indicate a reliable formation. The average gain is 37%. This is a bit shy of the usual 40% for bullish formations, but the most likely rise, at 20%, is quite good.
-
-<img src="http://i.imgur.com/t6Ft0C9.png"/>
-
-Many would recognize this formation as a cup-with-handle, and indeed it is. But it is also a BARR bottom, as a cup does not depend on a down-sloping trendline and a larger handle on the left such as that shown in Figure 7.1. Whatever you call the formation, the result is still the same: Prices move
-higher.
-
-<a href="https://www.tradingview.com/chart/ITC/d5Pr576Q-ITC-Bulkowski-s-Bump-and-Run-Reversal-Bottoms-LONG/"><img src="http://i.imgur.com/hJAhGQL.png"></a>
-
-
-## Bump-and-Run Reversal Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/MJQXJcz.png"/>\
-<img src="http://i.imgur.com/2JpGC1p.png"/>
-
-* https://www.tradingview.com/ideas/bump/
-* [Bulkowski - Bump and Run Reversal Top](http://thepatternsite.com/barrt.html)
-
-The overall formation reminds me of a mountain range. The foothills at the start of the formation are low and subdued, not venturing too far above the up-sloping plain. Volume at the start of the formation is high but quickly recedes. The mountains themselves rise up well above the foothills on high volume. 
-
-Investor enthusiasm continues high as prices round over at the top, then diminishes on the far side. When the mountains end, prices decline sharply and continue moving down. That is a BARR. Prices bump-up, round over, and run back down again. The formation is the visual representation of momentum. The base of the formation follows a trendline that always slopes upward. It signals investors' eagerness to acquire the stock. As each day goes by, investors bid higher to reluctant sellers and the price rises
-
-<img src="http://i.imgur.com/jEwAZ1E.png"/>
-
-
-Other momentum players eventually notice the rise in the stock price. Many jump on the bandwagon the day after a surprisingly good earnings announcement. That is when the bump begins. Volume spikes upward along with the stock price. Quickly rising prices entice others to join the fray and that, in turn, sends the stock even higher. As momentum increases, prices jump up to form a new, higher-sloping trendline. Then things start going wrong.
-
-
-## Cup with Handle [**^**](#Contents)
-
-<img src="http://i.imgur.com/piGF9G6.png"/>\
-<img src="http://i.imgur.com/nn0KcON.png"/>
-
-* [Investopedia - Terms - Cup and Handle](https://www.investopedia.com/terms/c/cupandhandle.asp)
-* [Investopedia - University - Cup and Handle](https://www.investopedia.com/university/charts/charts3.asp)
-* [TradingView - Ideas - Cup and Handle](https://www.tradingview.com/ideas/cupandhandle/)
-* [TradingView - Education - Cup and Handle](https://www.tradingview.com/education/cupandhandle/)
-* [TradingView - Wiki - Cup and Handle](https://www.tradingview.com/wiki/Cup_and_Handle)
-* [Bulkowski - Cup with Handle](http://thepatternsite.com/cup.html)
-* [Babypips - Cup and Handle](https://www.babypips.com/forexpedia/cup-with-handle)
-
-As I was selecting cup-with-handle formations, it became apparent that locating cups during an uptrend is important. So, I adopted O'Neil's criteria of a minimum 30% rise leading up to the cup.
-
-All the cups are U-shaped (V-shaped ones being removed). Also removed from the study were cups without handles. To me, a cup without a handle is a rounding bottom
-
-## Dead-Cat Bounce [**^**](#Contents)
-
-<img src="http://i.imgur.com/vyJdfDG.png"/>
-
-* [Investopedia - Terms - Dead-cat Bounce](https://www.investopedia.com/terms/d/deadcatbounce.asp)
-* [Investopedia - Articles - Dead-cat Bounce](https://www.investopedia.com/articles/00/101700.asp)
-* [Bulkowski - Dead-cat Bounce](http://thepatternsite.com/dcb.html)
-* [Bulkowski's Dead-Cat Bounce Setup](http://thepatternsite.com/DCBSetup.html)
-* [TradingView - Ideas - Dead-Cat Bounce](https://www.tradingview.com/ideas/dead-cat-bounce/)
-
-<a href="https://www.tradingview.com/chart/BTCUSD/mhSdd8K0-How-High-Will-The-Dead-Cat-Bounce-Bitcoin-BTC-MEOOOW/"><img src="http://i.imgur.com/Q7Az9KV.png"/></a>
-
-It is not so much a chart formation as it is a warning to exit the stock quickly after a dramatic decline. The event decline, which is the decline that spawns the dead-cat bounce, averages 25%. After the event decline, prices bounce up, round over, and continue down another 15%, on average (measured from the event low to the ultimate low). 
-
-The larger the event decline, the larger the bounce. 
-
-## Diamond Tops and Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/6EnaktK.png"/>
-
-* [Bulkowski - Diamond Tops](http://thepatternsite.com/diamondt.html)
-* [Bulkowski - Diamond Bottoms](http://thepatternsite.com/diamondb.html)
-* [Introducing The Bearish Diamond Formation](https://www.investopedia.com/articles/forex/05/diamondbear.asp)
-* [Diamond Top Formation](https://www.investopedia.com/terms/d/diamondtop.asp)
-* [Babypips - Diamond](https://www.babypips.com/forexpedia/diamond)
-
-In appearance, the only difference between the two diamond patterns is the price trend leading to the formation. For diamond tops, the prior price trend is upward, whereas diamond bottoms have price trends that lead down to the formation.
-
-
-<a href="https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/"><img src="http://i.imgur.com/ypAwM5z.png"/></a>
->The Diamond pattern is a rare, but reliable chart pattern. Diamond chart reversals rarely happen at market bottoms, it most often occurs at major tops and with high-volume. Bulkowski's (2005) research states that the diamond bottom breaks upward 69% of the time. Bulkowski emphasizes that a diamond bottom with a breakout move downward is ranked as being one the best performing patterns. You should always use a stop loss order when trading the diamond pattern. The proper location of your stop should be above the last top inside the diamond for bearish setups and below the last low of inside the diamond for bullish setups. - ([source](https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/))
-
-
-<a href="https://www.tradingview.com/chart/BTCUSD/PajEGFVg-Confusing-priceaction-on-btc-uncovers-3hour-Diamond-pattern/"><img src="http://i.imgur.com/rPLVeSm.png"/></a>
-
-## Double Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/dFtYbCI.png"/>
-
-* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
-* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
-* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
-* [Babypips - Double Bottom](https://www.babypips.com/forexpedia/double-bottom)
-* [Investopedia - Double Bottom](https://www.investopedia.com/terms/d/doublebottom.asp)
-* [Bulkowski's Double Bottom Types](http://thepatternsite.com/DoubleBottomTypes.html)
-* [Bulkowski's Double Bottom Setup](http://thepatternsite.com/dbsetup.html)
-
-
-Perhaps the biggest surprise with double bottoms is the high failure rate at 64%. Only a third of the formations classify as true double bottoms. They are the ones that have prices rising above the confirmation point, which is the highest high between the two lows. The failure rate tumbles to just 3 % if one waits for confirmation. Only those formations with confirmed breakouts are evaluated in this study.
-
-<a href="https://www.tradingview.com/chart/NZDCAD/NgLOZjGz-NZDCAD-Possible-Double-Bottom-and-a-H-S-Failure/"><img src="http://i.imgur.com/azIqHVp.png"/></a>
-
-A double bottom is not a true double bottom until prices rise above the confirmation point. In tabulating the statistics, / only count those double bottoms in which prices rise above the confirmation point. Why? Because of the high failure rate: 64%. There were 980 formations that looked like double bottoms, but their price trends eventually moved below the second bottom. 
-
-<img src="http://i.imgur.com/53OpzHM.png"/>
-
-An additional 525 formations performed as expected by rising to the confirmation point and continuing higher. If you buy a stock just after it touches the second bottom, your chances of having a successful trade are one in three. In other words, wait for prices to rise above the confirmation point.
-
-## Double Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/o72B6d0.png"/>
-
-* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
-* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
-* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
-* [Tradingview - Ideas - Double Tops](https://www.tradingview.com/ideas/doubletop/)
-* [Bulkowski - Double Top Study](http://thepatternsite.com/dtstudy.html)
-
-<a href="https://www.tradingview.com/chart/BTCUSD/DLPfJW0U-2618-Double-top-0-618-pull-back-do-not-miss-it/"><img src="http://i.imgur.com/s7sBNE2.png"/></a>
-
-If wait for the breakout, then you will be correct in dumping your shares 83% of the time. However, almost half the formations decline less than 15%, and nearly two out of three formations fall shy of their predicted price targets.
-
-
->The double top is one of the most popular patterns in trading. It's a reliable reversal pattern that can be used to enter a bearish position after a bullish trend. It consists of 2 tops at nearly the same level with a valley in between, which creates the neckline. The second top does not break the level of the first top, so the price retested this level and tried to make a higher high, but failed. Price breaking the neckline and closing below it would complete the pattern. 
-
->Conservative traders look for additional confirmation and aggressive traders may enter a bearish position from the second top. The target can be estimated by measuring the height of the pattern and projecting this downwards from the neckline. Common stop levels are just above the neckline, halfway between the neckline and the tops or above the tops.
-
-<a href="https://www.tradingview.com/chart/EURUSD/XEPEQbbm-3-TRADING-STRATEGY-S-IN-ONE-CHART-EXPLAINED/"><img src="http://i.imgur.com/45lsZvz.png"/></a>
-
-For double tops, only 39% of the formations decline far enough to fulfill the prediction. Reliable values are above 80%. The poor showing of this formation further emphasizes that many double top patterns do not decline far and this formation may not be worth trading at all.
-
-The question then becomes, is it worth taking profits on a confirmed double top? If prices continue down an additional 15 % and then turn around, why not just wait for prices to recover? Those are good questions. If you sell when the double top is confirmed, you may be selling near the ultimate low.
 
 ## Flags and Pennants [**^**](#Contents)
 
@@ -372,54 +246,222 @@ Having recently completed the chapter on flags and pennants, I was surprised to 
 First and most importantly there must be a short, quick rise. Flags with a receding volume trend handily outperform those without. However, I would not ignore a high, tight flag simply because volume is rising. Rather, I would recognize that its  performance may be subpar.
 
 
-## Gaps [**^**](#Contents)
+## Wedges [**^**](#Contents)
 
-<img src="http://i.imgur.com/in6Os6l.png"/>\
-<img src="http://i.imgur.com/rbxMzBq.png"/>
+* [TradingView - Ideas - Wedge](https://www.tradingview.com/ideas/wedgepattern/)
+* [Investopedia - Terms - Wedge](https://www.investopedia.com/terms/w/wedge.asp)
+* [Investopedia - University - Wedges](https://www.investopedia.com/university/charts/charts7.asp)
+* [Babypips - Learn - How to Trade Wedges](https://www.babypips.com/learn/forex/wedges)
+* [Babypips - Wiki - Wedges](https://www.babypips.com/forexpedia/wedges)
 
-* [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
-* [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
-* [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
-* [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
-* [Investopedia - University - Gaps](https://www.investopedia.com/university/charts/charts8.asp)
-* [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
+<a href="https://www.tradingview.com/chart/BTCUSD/8heRqCJq-Every-major-chart-pattern-between-3-18-and-3-28/"><img src="http://i.imgur.com/u8bgzU3.png"/></a>
 
-A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
-stock to create a gap. 
+### Falling Wedge [**^**](#Contents)
 
-<img src="http://i.imgur.com/zW5p40p.png"/>
+<img src="http://i.imgur.com/4La7j7f.png"/>
 
-It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
+A downward price trend bounded by two intersecting, down-sloping, trendlines
 
+* [Bulkowski - Falling Wedge](http://thepatternsite.com/fallwedge.html)
+* [Babypips - Falling Wedge](https://www.babypips.com/forexpedia/falling-wedge)
+* [TradingView - Ideas - Falling Wedge](https://www.tradingview.com/ideas/fallingwedge/)
+* [TradingView - Education - Falling Wedge](https://www.tradingview.com/education/fallingwedge/)
 
-### Island Reversals [**^**](#Contents)
+<a href="https://www.tradingview.com/chart/NASBTC/HnpSRKwM-NASBTC-GOOD-ENTRY-FOR-LONG/"><img src="http://i.imgur.com/Q1t2jaR.png"></a>
 
-<img src="http://i.imgur.com/zhv3ClU.png"/>
+There are no outstanding surprises among the statistics shown in the Results Snapshot. The failure rate for falling wedges is low at 10%, with an average rise of 43% and a likely rise of between 20% and 30%.
 
-* [Bulkowski - Island Reversal](http://thepatternsite.com/islandrev.html)
-* [Advanced Candlestick Patterns](https://www.investopedia.com/articles/trading/06/advcandlesticks.asp) - Has a section on Island Reversals.
-
-"The performance of island reversals is perhaps surprising only for its mediocrity."
+<a href="https://www.tradingview.com/chart/BTCUSD/rESVgDFW-Falling-and-Rising-Wedges/"><img src="http://i.imgur.com/UpXaXWv.png"></a>
 
 
-## Hanging Man [**^**](#Contents)
+### Rising Wedge [**^**](#Contents)
 
-<img src="http://i.imgur.com/dUiqpr0.png"/>
+<img src="http://i.imgur.com/YrAPOWb.png"/>
 
-* [Bulkowski - Hanging Man](http://thepatternsite.com/HangingMan.html)
-* [Babypips - Single Candlestick Patterns](https://www.babypips.com/learn/forex/lone-rangers-single-candlestick-patterns)
-  * (diff between hanging man and hammer is that hammer is at the bottom)
-* [Investopedia - Terms - Hanging Man](https://www.investopedia.com/terms/h/hangingman.asp)
-* [Investopedia - Ideas - Hanging Man](https://www.tradingview.com/ideas/hangingman/)
-* [Investopdedia - Scripts - Hanging Man](https://www.tradingview.com/scripts/hangingman/)
+* [Babypips - Rising Wedge](https://www.babypips.com/forexpedia/rising-wedge)
+* [Bulkowski - Wedge](http://thepatternsite.com/risewedge.html)
+* [Tradingview - Ideas - Rising Wedge](https://www.tradingview.com/ideas/risingwedge/)
+* [TradingView - Education - Rising Wedge](https://www.tradingview.com/education/risingwedge/)
+* [TradingView - Scripts - Rising Wedge](https://www.tradingview.com/scripts/wedgepattern/)
 
-Hanging man formations with upside breakouts show gains averaging 40%, which is quite good, but the most likely gain is 10%—comparatively poor. For downside breakouts, the average loss is 16% with a likely loss between 5% and 10%. If you decide to trade this formation, do not expect a large price move.
+An upward price trend bounded by two intersecting, up-sloping, trendlines
 
-<img src="http://i.imgur.com/l29D51i.png">
+<a href="https://www.tradingview.com/chart/NQ1!/bsh3zQjr-NQ-Rising-Wedge-Drop-it-like-it-s-Hot/"><img src="http://i.imgur.com/p4ris4n.png"></a>
 
-After careful consideration, I cannot recommend trading this formation. The primary belief behind this chart pattern is that prices will reverse the uptrend. They do not. Just a third of the formations reverse, whereas the others see prices continue higher. 
+As formations go, the rising wedge is one of the poorer performing chart patterns. It sports a failure rate of 24%, which falls to 6% if you wait for a downside breakout. The average decline is 19%, just a bit below the usual
+20% decline for other bearish chart patterns.
 
-<img src="http://i.imgur.com/tf78WgB.png"/>
+<a href="https://www.tradingview.com/chart/BTCUSD/rUE7pMk0-Rising-Wedge-Pattern-TUTORIAL/"><img src="http://i.imgur.com/l1KQAoZ.png"></a>
+
+One interesting finding concerns the volume trend. Successful formations with a receding volume trend outperform those with a rising volume trend; the losses are 21% and 15%, respectively. This means if you restrict your selections to those showing receding volume throughout the formation, you should do better. On the flip side, you will also be passing up many formations in which you could trade profitably.
+
+### Broadening Wedges [**^**](#Contents)
+
+* [TradingView -Ideas - Broadening Wedge](https://www.tradingview.com/ideas/broadeningwedge/)
+
+#### Broadening Ascending Wedges [**^**](#Contents)
+
+<img src="http://i.imgur.com/wM5asGY.png"/>
+
+* [TradingView - Ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
+* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)\
+^^^ shows entirely different version of this based on updated statistics.
+
+<a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
+
+#### Broadening Descending Wedges [**^**](#Contents) 
+
+<img src="http://i.imgur.com/d1K92Dv.png"/> 
+
+* [TradingView - Ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
+* [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
+  > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
+
+
+<a href="https://www.tradingview.com/chart/AUDUSD/BTTUvzhp-AUDUSD-Descending-Broadening-Wedge-And-Short-Setup/"><img src="http://i.imgur.com/jV5HN0x.png"/></a>
+
+>descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases.
+
+
+Being a consolidation in a bull market, the average rise is a very high 46%. The most likely rise is 20% and an astounding 40% of the formations have gains above 50%! With bullish numbers like these, it makes the failure rate seem tolerable.
+
+
+## Rectangles [**^**](#Contents)
+
+<img src="http://i.imgur.com/4iCP88e.png"/><img src="http://i.imgur.com/CYtc3dW.png"/>
+<img src="http://i.imgur.com/IO8fy2g.png"/>
+
+As with many patterns, Bulkowski has his own distinct methods for identifying them.
+
+* [Bulkowski - Rectangle Bottoms](http://thepatternsite.com/rectbots.html)
+* [Bulkowski - Rectangle Bottom Setup](http://thepatternsite.com/RectangleBottomSetup.html)
+* [Bulkowski - Rectangle Tops](http://thepatternsite.com/recttops.html)
+* [Babypips - Learn - How to Use Rectangle Chart Patterns to Trade Breakouts](https://www.babypips.com/learn/forex/rectangles)
+* [Babypips - Wiki - Rectangles](https://www.babypips.com/forexpedia/rectangles)
+* [Investopedia - Terms - Rectangles](https://www.investopedia.com/terms/r/rectangles.asp)
+* [Investopedia - Articles - Rectangle Formations](https://www.investopedia.com/articles/trading/08/rectangle-formation.asp)
+  >Most technicians agree, the rectangle can serve as either a reversal or continuation formation. As a reversal pattern, it ends a trend either up or down. As a continuation pattern, it signifies a pause in the prevailing trend, with the expectation that the prior trend will eventually resume. In either case, the rectangle shows a tug of war between buyers and sellers.
+* [TradingView - Education - Rectangles](https://www.tradingview.com/education/rectangle/)
+* [TradingView - Ideas - Rectangle](https://www.tradingview.com/ideas/rectangle/)
+* [Tradingview - Wiki - Rectangle](https://www.tradingview.com/wiki/Rectangle)
+  <img src="http://i.imgur.com/mRdS0Ip.png"/>
+
+## Double Bottoms [**^**](#Contents)
+
+<img src="http://i.imgur.com/dFtYbCI.png"/>
+
+* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
+* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
+* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
+* [Babypips - Double Bottom](https://www.babypips.com/forexpedia/double-bottom)
+* [Investopedia - Double Bottom](https://www.investopedia.com/terms/d/doublebottom.asp)
+* [Bulkowski's Double Bottom Types](http://thepatternsite.com/DoubleBottomTypes.html)
+* [Bulkowski's Double Bottom Setup](http://thepatternsite.com/dbsetup.html)
+
+
+Perhaps the biggest surprise with double bottoms is the high failure rate at 64%. Only a third of the formations classify as true double bottoms. They are the ones that have prices rising above the confirmation point, which is the highest high between the two lows. The failure rate tumbles to just 3 % if one waits for confirmation. Only those formations with confirmed breakouts are evaluated in this study.
+
+<a href="https://www.tradingview.com/chart/NZDCAD/NgLOZjGz-NZDCAD-Possible-Double-Bottom-and-a-H-S-Failure/"><img src="http://i.imgur.com/azIqHVp.png"/></a>
+
+A double bottom is not a true double bottom until prices rise above the confirmation point. In tabulating the statistics, / only count those double bottoms in which prices rise above the confirmation point. Why? Because of the high failure rate: 64%. There were 980 formations that looked like double bottoms, but their price trends eventually moved below the second bottom. 
+
+<img src="http://i.imgur.com/53OpzHM.png"/>
+
+An additional 525 formations performed as expected by rising to the confirmation point and continuing higher. If you buy a stock just after it touches the second bottom, your chances of having a successful trade are one in three. In other words, wait for prices to rise above the confirmation point.
+
+## Double Tops [**^**](#Contents)
+
+<img src="http://i.imgur.com/o72B6d0.png"/>
+
+* [Babypips - Learn - Double Top and Double Bottom](https://www.babypips.com/learn/forex/double-top-and-double-bottom)
+* [Investopedia - University - Double Tops and Double Bottoms](https://www.investopedia.com/university/charts/charts4.asp)
+* [TradingView - Ideas - Double Top or Bottom](https://www.tradingview.com/ideas/doubletoporbottom/)
+* [Tradingview - Ideas - Double Tops](https://www.tradingview.com/ideas/doubletop/)
+* [Bulkowski - Double Top Study](http://thepatternsite.com/dtstudy.html)
+
+<a href="https://www.tradingview.com/chart/BTCUSD/DLPfJW0U-2618-Double-top-0-618-pull-back-do-not-miss-it/"><img src="http://i.imgur.com/s7sBNE2.png"/></a>
+
+If wait for the breakout, then you will be correct in dumping your shares 83% of the time. However, almost half the formations decline less than 15%, and nearly two out of three formations fall shy of their predicted price targets.
+
+
+>The double top is one of the most popular patterns in trading. It's a reliable reversal pattern that can be used to enter a bearish position after a bullish trend. It consists of 2 tops at nearly the same level with a valley in between, which creates the neckline. The second top does not break the level of the first top, so the price retested this level and tried to make a higher high, but failed. Price breaking the neckline and closing below it would complete the pattern. 
+
+>Conservative traders look for additional confirmation and aggressive traders may enter a bearish position from the second top. The target can be estimated by measuring the height of the pattern and projecting this downwards from the neckline. Common stop levels are just above the neckline, halfway between the neckline and the tops or above the tops.
+
+<a href="https://www.tradingview.com/chart/EURUSD/XEPEQbbm-3-TRADING-STRATEGY-S-IN-ONE-CHART-EXPLAINED/"><img src="http://i.imgur.com/45lsZvz.png"/></a>
+
+For double tops, only 39% of the formations decline far enough to fulfill the prediction. Reliable values are above 80%. The poor showing of this formation further emphasizes that many double top patterns do not decline far and this formation may not be worth trading at all.
+
+The question then becomes, is it worth taking profits on a confirmed double top? If prices continue down an additional 15 % and then turn around, why not just wait for prices to recover? Those are good questions. If you sell when the double top is confirmed, you may be selling near the ultimate low.
+
+## Triple Bottoms and Tops [**^**](#Contents)
+
+<a href="https://www.tradingview.com/chart/EURGBP/wVqTZZqs-TRIPLE-TOPS-BOTTOMS-TREND-REVERSAL/"><img src="http://i.imgur.com/TxWD3KT.png"/></a>
+
+* [Investopedia - University - Triple Bottoms and Tops](https://www.investopedia.com/university/charts/charts9.asp)
+* [Investopedia - University - Double\Triple - Bottom\Top](https://www.investopedia.com/university/five-chart-patterns-you-need-know/doubletriple-bottomtop.asp)
+* [Investopedia - Triple Tops and Bottoms](https://www.investopedia.com/articles/technical/02/012102.asp)
+
+### Triple Bottoms [**^**](#Contents)
+
+<img src="http://i.imgur.com/LBCbJ5H.png"/>\
+Three distinct minor lows at about the same price level
+
+* [Babypips - Triple Bottom](https://www.babypips.com/forexpedia/triple-bottom)
+* [Investopedia - Terms - Triple Bottom](https://www.investopedia.com/terms/t/triplebottom.asp)
+* [Bulkowski - Triple Bottoms](http://thepatternsite.com/tb.html)
+* [TradingView - Ideas - Triple Bottom](https://www.tradingview.com/ideas/triple-bottom/)
+
+<img src="http://i.imgur.com/u3faOkU.png"/>
+
+One of the surprising things about triple bottoms is their low failure rate: 4%. For some reason, I expected it to be higher. If one plays by the rules and waits for an upside breakout, then few triple bottoms fail to continue moving up, many times substantially. The average rise is 38% with a likely gain of 20%, about what you would expect from bullish formations.
+
+
+<img src="http://i.imgur.com/dzUr23v.png">
+
+Obviously the above tripple bottom didn't pan out for Bitcoin.
+
+Just for kicks, I measured the average gain for those formations with a third bottom above the low posted by the second one. The gain is 48%, whereas those with a third bottom below the second one score gains averaging just 31%.
+
+The differences are statistically significant but it may surprise you to learn the average price difference between the two bottoms is only 35 cents.
+
+## Triple Tops [**^**](#Contents)
+
+<img src="http://i.imgur.com/MsDzt4h.png"/>\
+Three distinct minor highs at about the same price
+level
+
+* [Bulkowski - Triple Tops](http://thepatternsite.com/tt.html)
+* [Investopedia - Triple Top](https://www.investopedia.com/terms/t/tripletop.asp)
+* [Investopedia - Multiple Tops](https://www.investopedia.com/terms/m/multiple-tops.asp)
+* [TradingView - Ideas - Triple Top](https://www.tradingview.com/ideas/triple-top/)
+
+<img src="http://i.imgur.com/WDRtKsi.png">
+
+The failure rate at 15% for triple tops approaches the 20% maximum*! consider permissible for reliable formations. Still, there are a number of formations that perform worse, so there is no reason for concern. 
+
+<img src="http://i.imgur.com/6Oyx1Dp.png">
+
+One surprising finding about triple tops is when the price of the highest high in the third top is above the second top. Formations with this configuration have losses of 22% versus 17%. The differences are statistically significant
+meaning that die results likely are not due to chance.
+
+## Cup with Handle [**^**](#Contents)
+
+<img src="http://i.imgur.com/piGF9G6.png"/>\
+<img src="http://i.imgur.com/nn0KcON.png"/>
+
+* [Investopedia - Terms - Cup and Handle](https://www.investopedia.com/terms/c/cupandhandle.asp)
+* [Investopedia - University - Cup and Handle](https://www.investopedia.com/university/charts/charts3.asp)
+* [TradingView - Ideas - Cup and Handle](https://www.tradingview.com/ideas/cupandhandle/)
+* [TradingView - Education - Cup and Handle](https://www.tradingview.com/education/cupandhandle/)
+* [TradingView - Wiki - Cup and Handle](https://www.tradingview.com/wiki/Cup_and_Handle)
+* [Bulkowski - Cup with Handle](http://thepatternsite.com/cup.html)
+* [Babypips - Cup and Handle](https://www.babypips.com/forexpedia/cup-with-handle)
+
+As I was selecting cup-with-handle formations, it became apparent that locating cups during an uptrend is important. So, I adopted O'Neil's criteria of a minimum 30% rise leading up to the cup.
+
+All the cups are U-shaped (V-shaped ones being removed). Also removed from the study were cups without handles. To me, a cup without a handle is a rounding bottom
+
 
 ## Head-and-Shoulders [**^**](#Contents)
 
@@ -497,6 +539,124 @@ When the neckline slopes downward, the stock performs better.
 
 <a href="https://www.tradingview.com/chart/CSGNZ/EmTbRIii-A-Bestiary-of-Heads-and-Shoulders/"><img src="http://i.imgur.com/Nn7flI9.png"/></a>
 
+## Dead-Cat Bounce [**^**](#Contents)
+
+<img src="http://i.imgur.com/vyJdfDG.png"/>
+
+* [Investopedia - Terms - Dead-cat Bounce](https://www.investopedia.com/terms/d/deadcatbounce.asp)
+* [Investopedia - Articles - Dead-cat Bounce](https://www.investopedia.com/articles/00/101700.asp)
+* [Bulkowski - Dead-cat Bounce](http://thepatternsite.com/dcb.html)
+* [Bulkowski's Dead-Cat Bounce Setup](http://thepatternsite.com/DCBSetup.html)
+* [TradingView - Ideas - Dead-Cat Bounce](https://www.tradingview.com/ideas/dead-cat-bounce/)
+
+<a href="https://www.tradingview.com/chart/BTCUSD/mhSdd8K0-How-High-Will-The-Dead-Cat-Bounce-Bitcoin-BTC-MEOOOW/"><img src="http://i.imgur.com/Q7Az9KV.png"/></a>
+
+It is not so much a chart formation as it is a warning to exit the stock quickly after a dramatic decline. The event decline, which is the decline that spawns the dead-cat bounce, averages 25%. After the event decline, prices bounce up, round over, and continue down another 15%, on average (measured from the event low to the ultimate low). 
+
+The larger the event decline, the larger the bounce. 
+
+
+
+## Bump-and-Run Reversal Bottoms[**^**](#Contents)
+
+<img src="http://i.imgur.com/C3adH9M.png"/>
+
+* [TradingView - Ideas - Bump](https://www.tradingview.com/ideas/bump/)
+* [Bulkowski - Bump and Run Reversal Bottoms](http://thepatternsite.com/barrb.html)
+  >The bump-and-run reversal bottom is a chart pattern that is a surprisingly good performer in both bull and bear markets. It has a low break even failure rate and high average rise after the breakout. Discovered by Thomas Bulkowski in 1999.
+
+If you wait for a breakout, the failure rate drops from 19% to 9%. I consider anything less than 20% to indicate a reliable formation. The average gain is 37%. This is a bit shy of the usual 40% for bullish formations, but the most likely rise, at 20%, is quite good.
+
+<img src="http://i.imgur.com/t6Ft0C9.png"/>
+
+Many would recognize this formation as a cup-with-handle, and indeed it is. But it is also a BARR bottom, as a cup does not depend on a down-sloping trendline and a larger handle on the left such as that shown in Figure 7.1. Whatever you call the formation, the result is still the same: Prices move
+higher.
+
+<a href="https://www.tradingview.com/chart/ITC/d5Pr576Q-ITC-Bulkowski-s-Bump-and-Run-Reversal-Bottoms-LONG/"><img src="http://i.imgur.com/hJAhGQL.png"></a>
+
+
+## Bump-and-Run Reversal Tops [**^**](#Contents)
+
+<img src="http://i.imgur.com/MJQXJcz.png"/>\
+<img src="http://i.imgur.com/2JpGC1p.png"/>
+
+* [TradingView - Ideas - Bump](https://www.tradingview.com/ideas/bump/)
+* [Bulkowski - Bump and Run Reversal Top](http://thepatternsite.com/barrt.html)
+
+The overall formation reminds me of a mountain range. Investor enthusiasm continues high as prices round over at the top, then diminishes on the far side. When the mountains end, prices decline sharply and continue moving down. That is a BARR. 
+
+Prices bump-up, round over, and run back down again. The formation is the visual representation of momentum. 
+
+<img src="http://i.imgur.com/jEwAZ1E.png"/>
+
+
+## Diamond Tops and Bottoms [**^**](#Contents)
+
+<img src="http://i.imgur.com/6EnaktK.png"/>
+
+* [Bulkowski - Diamond Tops](http://thepatternsite.com/diamondt.html)
+* [Bulkowski - Diamond Bottoms](http://thepatternsite.com/diamondb.html)
+* [Introducing The Bearish Diamond Formation](https://www.investopedia.com/articles/forex/05/diamondbear.asp)
+* [Diamond Top Formation](https://www.investopedia.com/terms/d/diamondtop.asp)
+* [Babypips - Diamond](https://www.babypips.com/forexpedia/diamond)
+
+In appearance, the only difference between the two diamond patterns is the price trend leading to the formation. For diamond tops, the prior price trend is upward, whereas diamond bottoms have price trends that lead down to the formation.
+
+
+<a href="https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/"><img src="http://i.imgur.com/ypAwM5z.png"/></a>
+>The Diamond pattern is a rare, but reliable chart pattern. Diamond chart reversals rarely happen at market bottoms, it most often occurs at major tops and with high-volume. Bulkowski's (2005) research states that the diamond bottom breaks upward 69% of the time. Bulkowski emphasizes that a diamond bottom with a breakout move downward is ranked as being one the best performing patterns. You should always use a stop loss order when trading the diamond pattern. The proper location of your stop should be above the last top inside the diamond for bearish setups and below the last low of inside the diamond for bullish setups. - ([source](https://www.tradingview.com/chart/ETHBTC/INJrp9Cq-ETH-BTC-Diamond-Chart-Formation/))
+
+
+<a href="https://www.tradingview.com/chart/BTCUSD/PajEGFVg-Confusing-priceaction-on-btc-uncovers-3hour-Diamond-pattern/"><img src="http://i.imgur.com/rPLVeSm.png"/></a>
+
+## Gaps [**^**](#Contents)
+
+<img src="http://i.imgur.com/in6Os6l.png"/>\
+<img src="http://i.imgur.com/rbxMzBq.png"/>
+
+* [TradingView - Ideas - Gaps](https://www.tradingview.com/ideas/gaps/)
+* [TradingView - Scripts - Gap](https://www.tradingview.com/scripts/gap/)
+* [Tradingview - Wiki - Gap](https://www.tradingview.com/wiki/Price_Gap)
+* [Investopedia - Gap](https://www.investopedia.com/terms/g/gap.asp)
+* [Investopedia - University - Gaps](https://www.investopedia.com/university/charts/charts8.asp)
+* [Bulkowski - Gauging Gaps](http://thepatternsite.com/GaugingGaps.html)
+
+A gap appears in an uptrend price series when yesterday's daily high is below today's low price. A downtrend gap is similar, being created when yesterday's low is above today's high. In both cases, some type of exuberance is driving the
+stock to create a gap. 
+
+<img src="http://i.imgur.com/zW5p40p.png"/>
+
+It sometimes is nothing more than the stock being worth less simply because of a dividend distribution. At other times, the repercussions are more severe. An earnings surprise, either positive or negative, often causes a gap and the stock to rise by 10% or 15% or to decline by 30% or more, depending on the severity of the news
+
+
+### Island Reversals [**^**](#Contents)
+
+<img src="http://i.imgur.com/zhv3ClU.png"/>
+
+* [Bulkowski - Island Reversal](http://thepatternsite.com/islandrev.html)
+* [Advanced Candlestick Patterns](https://www.investopedia.com/articles/trading/06/advcandlesticks.asp) - Has a section on Island Reversals.
+
+"The performance of island reversals is perhaps surprising only for its mediocrity."
+
+
+## Hanging Man [**^**](#Contents)
+
+<img src="http://i.imgur.com/dUiqpr0.png"/>
+
+* [Bulkowski - Hanging Man](http://thepatternsite.com/HangingMan.html)
+* [Babypips - Single Candlestick Patterns](https://www.babypips.com/learn/forex/lone-rangers-single-candlestick-patterns)
+  * (diff between hanging man and hammer is that hammer is at the bottom)
+* [Investopedia - Terms - Hanging Man](https://www.investopedia.com/terms/h/hangingman.asp)
+* [Investopedia - Ideas - Hanging Man](https://www.tradingview.com/ideas/hangingman/)
+* [Investopdedia - Scripts - Hanging Man](https://www.tradingview.com/scripts/hangingman/)
+
+Hanging man formations with upside breakouts show gains averaging 40%, which is quite good, but the most likely gain is 10%—comparatively poor. For downside breakouts, the average loss is 16% with a likely loss between 5% and 10%. If you decide to trade this formation, do not expect a large price move.
+
+<img src="http://i.imgur.com/l29D51i.png">
+
+After careful consideration, I cannot recommend trading this formation. The primary belief behind this chart pattern is that prices will reverse the uptrend. They do not. Just a third of the formations reverse, whereas the others see prices continue higher. 
+
+<img src="http://i.imgur.com/tf78WgB.png"/>
 
 
 ## Inside Days [**^**](#Contents)
@@ -579,26 +739,6 @@ Yes, its just like measured move down, but going up.
 
 > a downward price trend is usually where you will see these formations, at least the best performing ones. Prices move down, reach the pipe bottom, then turn around and start climbing. 
 
-## Rectangles [**^**](#Contents)
-
-<img src="http://i.imgur.com/4iCP88e.png"/><img src="http://i.imgur.com/CYtc3dW.png"/>
-<img src="http://i.imgur.com/IO8fy2g.png"/>
-
-As with many patterns, Bulkowski has his own distinct methods for identifying them.
-
-* [Bulkowski - Rectangle Bottoms](http://thepatternsite.com/rectbots.html)
-* [Bulkowski - Rectangle Bottom Setup](http://thepatternsite.com/RectangleBottomSetup.html)
-* [Bulkowski - Rectangle Tops](http://thepatternsite.com/recttops.html)
-* [Babypips - Learn - How to Use Rectangle Chart Patterns to Trade Breakouts](https://www.babypips.com/learn/forex/rectangles)
-* [Babypips - Wiki - Rectangles](https://www.babypips.com/forexpedia/rectangles)
-* [Investopedia - Terms - Rectangles](https://www.investopedia.com/terms/r/rectangles.asp)
-* [Investopedia - Articles - Rectangle Formations](https://www.investopedia.com/articles/trading/08/rectangle-formation.asp)
-  >Most technicians agree, the rectangle can serve as either a reversal or continuation formation. As a reversal pattern, it ends a trend either up or down. As a continuation pattern, it signifies a pause in the prevailing trend, with the expectation that the prior trend will eventually resume. In either case, the rectangle shows a tug of war between buyers and sellers.
-* [TradingView - Education - Rectangles](https://www.tradingview.com/education/rectangle/)
-* [TradingView - Ideas - Rectangle](https://www.tradingview.com/ideas/rectangle/)
-* [Tradingview - Wiki - Rectangle](https://www.tradingview.com/wiki/Rectangle)
-  <img src="http://i.imgur.com/mRdS0Ip.png"/>
-
 
 ## Rounding Bottoms [**^**](#Contents)
 
@@ -667,196 +807,61 @@ Prices peak, retrace, and curve around then form a higher peak. The price patter
 
 <a href="https://www.tradingview.com/chart/BTCUSD/WqlumwO4-BTCUSD-Inverted-descending-scallops/"><img src="http://i.imgur.com/jnziZUw.png"/></a>
 
-## Triangles [**^**](#Contents)
 
-* [TradingView - Education - Triangles](https://www.tradingview.com/education/triangle/)
-* [TradingView - Scripts - Triangles](https://www.tradingview.com/scripts/triangle/)
-* [TradingView - Wiki - Triangle Pattern](https://www.tradingview.com/wiki/Triangle_Pattern)
-* [Baby Pips - Learn - Triangles](https://www.babypips.com/learn/forex/triangles)
-  * [Symmetrical Triangle](https://www.babypips.com/forexpedia/symmetrical-triangle)
-* [Investopedia - Triangles a Study in Continuation Patterns](https://www.investopedia.com/articles/technical/03/091003.asp)
-* [Investopedia - University - Triangles](https://www.investopedia.com/university/charts/charts5.asp)
-* [Investopedia - Ideas - Triangles](https://www.tradingview.com/ideas/triangle/)
-* [Investopedia - Terms - Triangles](https://www.investopedia.com/terms/t/triangle.asp)
-  ![](http://i.imgur.com/W8DshbP.png)
+## Broadening Formations [**^**](#Contents)
 
+Broadening formations are generally considered bearish, and involve increased volitility with no clear direction.
 
-### Ascending [**^**](#Contents)
+Good for those who work on a low timeframe.
 
-<img src="http://i.imgur.com/NXLuicp.png"/>\
-Triangle shape with horizontal top, up-sloping bottom
+>A broadening formation is an example of a consolidation pattern and a highly useful tool in the prediction of the likelihood of a reversal in the direction of a current trend. When found in an uptrend it indicates not a continuation of that trend, but a near-term reversal of the price action.
 
-I want to do some more research, because again Bulkowski differs from prevailing thoughts. Wait for breakout.
+<a href="https://www.tradingview.com/chart/BTCUSD/oiTdqZex-BTC-too-early-to-Tell-Broadening-Pattern/"><img src="http://i.imgur.com/5hZLIzW.png"/></a>
 
-* [TradingView - Ideas - Ascending Triangle](https://www.tradingview.com/ideas/ascendingtriangle/)
-* [Investopedia - Terms - Ascending Triangle](https://www.investopedia.com/terms/a/ascendingtriangle.asp)
-* [Babypips - Ascending Triangle](https://www.babypips.com/forexpedia/ascending-triangle)
-* [Bulkowski - Ascending Triangles](http://thepatternsite.com/at.html)
+* [Investopedia - Terms - Broadening Formations](https://www.investopedia.com/terms/b/broadeningformation.asp)
+* [Baby Pips - Broadening Formations](https://www.babypips.com/forexpedia/broadening-formation)
+* [TradingView - Ideas - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
 
-<img src="http://i.imgur.com/hmAYlr8.png">
+Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class. 
 
->"ascending triangle is one of my favorite formations. You can make a bundle of money if you trade it properly."
+### Broadening Tops and Bottoms [**^**](#Contents)
 
-<img src="http://i.imgur.com/9KZQHtT.png"/>
+<img src="http://i.imgur.com/aYRNLT6.png"/><img src="http://i.imgur.com/ZdMwvG5.png"/>
 
-The ascending triangle has a poor failure rate of 32%. However, if you wait for an upside breakout, then the failure rate drops to just 2 %.
 
-### Descending [**^**](#Contents)
+* [TradingView - Wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
+* [Bulkowski - Broadening Tops](http://thepatternsite.com/bt.html)
+* [Bulkowski - Broadening Bottoms](http://thepatternsite.com/rabfa.html)
+* [TradingView - Ideas - Broadening Bottoms](https://www.tradingview.com/ideas/broadening-bottom/)
+* [Tradingview - Ideas - Broadening Tops](https://www.tradingview.com/ideas/broadening-tops/)
 
-<img src="http://i.imgur.com/JgtnCed.png"/>\
-Triangle shape with horizontal bottom and downsloping top
+<a href="https://www.tradingview.com/chart/BTCUSD/IxwU3hjj-BTC-BROADENING-BOTTOM-BULLISH/"><img src="http://i.imgur.com/gJEFw7m.png"></a>
 
-* [TradingView - Ideas - Descending Triangles](https://www.tradingview.com/ideas/descendingtriangle/)
-* [Investopedia - Terms - Descending Triangles](https://www.investopedia.com/terms/d/descendingtriangle.asp)
-* [BabyPips - Descending Triangles](https://www.babypips.com/forexpedia/descending-triangle)
-* [Bulkowski - Descending Triangles](http://thepatternsite.com/dt.html)
+>The Broadening Top pattern is a bearish pattern which is characterized by five small reversals followed by a significant drop in price. 
+>
+>The Broadening Bottom pattern is also characterized by five small reversals however it is the opposite of the Broadening Top. In the Broadening Bottom, the reversals are followed by an advance in price, not a decline. It is considered a bullish pattern. -tradingview wiki
 
+<a href="https://www.tradingview.com/chart/AUDCHF/yqgnq7zm-Broadening-Top-on-AUDCHF/"><img src="http://i.imgur.com/dr6ubSl.png"/></a>
 
-wait for a downside breakout, then the failure rate drops to just 4%.
+### Right-Angled Ascending or Descending [**^**](#Contents)
 
-<a href="https://www.tradingview.com/chart/BTCUSD/28gmCjq1-Descending-Triangles-within-a-Larger-Descending-Triangle-2200/"><img src="http://i.imgur.com/U6um20V.png"></a>
+<img src="http://i.imgur.com/sKlLY09.png"/>\
+Ascending\
+<a href="https://in.tradingview.com/chart/BOSCHLTD/ostmxgIZ-Broadening-Formations-Right-Angled-and-Ascending-Engulfing/"><img src="http://i.imgur.com/RtOVuz1.png"/></a>
 
-### Symmetrical [**^**](#Contents)
+* [Bulkowski - Broadening formations: Right-Angled and Ascending](http://thepatternsite.com/rabfa.html)
 
-<img src="http://i.imgur.com/6gq7YsK.png"/><img src="http://i.imgur.com/VZaoiVZ.png"/>
+>The right-angled and ascending broadening chart pattern is not one you might choose to trade. -[source](https://education.howthemarketworks.com/advanced/charts-and-patterns/broadening-formations-right-angled-and-ascending/)
 
-Prices trend down then form lower highs and higher lows following two sloping trendlines that eventually intersect. The breakout is downward
+>Right-angled ascending broadening formations: What does the name mean? Right angle implies that it is a member of the triangle family. A horizontal base with an up-sloping hypotenuse forms a right triangle. The third side drops down from the hypotenuse to the base and intersects it at a 90 degree angle, forming the so-called right angle. Ascending means that the hypotenuse ascends over time as contrasted with descending broadening formations. Broadening formation means that prices make higher highs. Ascending and descending triangles, in contrast, have narrowing price movements.
 
-* [Investopedia - Symmetrical Triangle](https://www.investopedia.com/terms/s/symmetricaltriangle.asp)
-* [The Symmetrical Triangle: A Reliable Workhorse](https://www.investopedia.com/university/five-chart-patterns-you-need-know/symmetrical-triangle.asp)
-* [Bulkowski - Symmetrical Triangles](http://thepatternsite.com/st.html)
-* [TradingView - Ideas - Symmetrical Triangles](https://www.tradingview.com/ideas/symmetricaltriangle/)
+<img src="http://i.imgur.com/NmJySGO.png"/>\
+Descending\
+<a href="https://www.tradingview.com/chart/BTCUSD/cQ0rTZ0i-A-Right-Angled-and-Descending-Broadening-Formations/"><img src="http://i.imgur.com/QE58pku.png"/></a>
 
-<a href="https://www.tradingview.com/chart/GBPUSD/mi4E4f4s-GBPUSD-Symmetrical-Triangle/"><img src="http://i.imgur.com/NQtMNdH.png"/></a>
+* [Bulkowski - Broadening formations: Right-Angled and Descending](http://thepatternsite.com/rabfd.html)
 
-## Triple Bottoms and Tops [**^**](#Contents)
 
-<a href="https://www.tradingview.com/chart/EURGBP/wVqTZZqs-TRIPLE-TOPS-BOTTOMS-TREND-REVERSAL/"><img src="http://i.imgur.com/TxWD3KT.png"/></a>
-
-* [Investopedia - University - Triple Bottoms and Tops](https://www.investopedia.com/university/charts/charts9.asp)
-* [Investopedia - University - Double\Triple - Bottom\Top](https://www.investopedia.com/university/five-chart-patterns-you-need-know/doubletriple-bottomtop.asp)
-* [Investopedia - Triple Tops and Bottoms](https://www.investopedia.com/articles/technical/02/012102.asp)
-
-### Triple Bottoms [**^**](#Contents)
-
-<img src="http://i.imgur.com/LBCbJ5H.png"/>\
-Three distinct minor lows at about the same price level
-
-* [Babypips - Triple Bottom](https://www.babypips.com/forexpedia/triple-bottom)
-* [Investopedia - Terms - Triple Bottom](https://www.investopedia.com/terms/t/triplebottom.asp)
-* [Bulkowski - Triple Bottoms](http://thepatternsite.com/tb.html)
-* [TradingView - Ideas - Triple Bottom](https://www.tradingview.com/ideas/triple-bottom/)
-
-<img src="http://i.imgur.com/u3faOkU.png"/>
-
-One of the surprising things about triple bottoms is their low failure rate: 4%. For some reason, I expected it to be higher. If one plays by the rules and waits for an upside breakout, then few triple bottoms fail to continue moving up, many times substantially. The average rise is 38% with a likely gain of 20%, about what you would expect from bullish formations.
-
-
-<img src="http://i.imgur.com/dzUr23v.png">
-
-Obviously the above tripple bottom didn't pan out for Bitcoin.
-
-Just for kicks, I measured the average gain for those formations with a third bottom above the low posted by the second one. The gain is 48%, whereas those with a third bottom below the second one score gains averaging just 31%.
-
-The differences are statistically significant but it may surprise you to learn the average price difference between the two bottoms is only 35 cents.
-
-## Triple Tops [**^**](#Contents)
-
-<img src="http://i.imgur.com/MsDzt4h.png"/>\
-Three distinct minor highs at about the same price
-level
-
-* [Bulkowski - Triple Tops](http://thepatternsite.com/tt.html)
-* [Investopedia - Triple Top](https://www.investopedia.com/terms/t/tripletop.asp)
-* [Investopedia - Multiple Tops](https://www.investopedia.com/terms/m/multiple-tops.asp)
-* [TradingView - Ideas - Triple Top](https://www.tradingview.com/ideas/triple-top/)
-
-<img src="http://i.imgur.com/WDRtKsi.png">
-
-The failure rate at 15% for triple tops approaches the 20% maximum*! consider permissible for reliable formations. Still, there are a number of formations that perform worse, so there is no reason for concern. 
-
-<img src="http://i.imgur.com/6Oyx1Dp.png">
-
-One surprising finding about triple tops is when the price of the highest high in the third top is above the second top. Formations with this configuration have losses of 22% versus 17%. The differences are statistically significant
-meaning that die results likely are not due to chance.
-## Wedges [**^**](#Contents)
-
-* [TradingView - Ideas - Wedge](https://www.tradingview.com/ideas/wedgepattern/)
-* [Investopedia - Terms - Wedge](https://www.investopedia.com/terms/w/wedge.asp)
-* [Investopedia - University - Wedges](https://www.investopedia.com/university/charts/charts7.asp)
-* [Babypips - Learn - How to Trade Wedges](https://www.babypips.com/learn/forex/wedges)
-* [Babypips - Wiki - Wedges](https://www.babypips.com/forexpedia/wedges)
-
-<a href="https://www.tradingview.com/chart/BTCUSD/8heRqCJq-Every-major-chart-pattern-between-3-18-and-3-28/"><img src="http://i.imgur.com/u8bgzU3.png"/></a>
-
-### Falling Wedge [**^**](#Contents)
-
-<img src="http://i.imgur.com/4La7j7f.png"/>
-
-A downward price trend bounded by two intersecting, down-sloping, trendlines
-
-* [Bulkowski - Falling Wedge](http://thepatternsite.com/fallwedge.html)
-* [Babypips - Falling Wedge](https://www.babypips.com/forexpedia/falling-wedge)
-* [TradingView - Ideas - Falling Wedge](https://www.tradingview.com/ideas/fallingwedge/)
-* [TradingView - Education - Falling Wedge](https://www.tradingview.com/education/fallingwedge/)
-
-<a href="https://www.tradingview.com/chart/NASBTC/HnpSRKwM-NASBTC-GOOD-ENTRY-FOR-LONG/"><img src="http://i.imgur.com/Q1t2jaR.png"></a>
-
-There are no outstanding surprises among the statistics shown in the Results Snapshot. The failure rate for falling wedges is low at 10%, with an average rise of 43% and a likely rise of between 20% and 30%.
-
-<a href="https://www.tradingview.com/chart/BTCUSD/rESVgDFW-Falling-and-Rising-Wedges/"><img src="http://i.imgur.com/UpXaXWv.png"></a>
-
-
-### Rising Wedge [**^**](#Contents)
-
-<img src="http://i.imgur.com/YrAPOWb.png"/>
-
-* [Babypips - Rising Wedge](https://www.babypips.com/forexpedia/rising-wedge)
-* [Bulkowski - Wedge](http://thepatternsite.com/risewedge.html)
-* [Tradingview - Ideas - Rising Wedge](https://www.tradingview.com/ideas/risingwedge/)
-* [TradingView - Education - Rising Wedge](https://www.tradingview.com/education/risingwedge/)
-* [TradingView - Scripts - Rising Wedge](https://www.tradingview.com/scripts/wedgepattern/)
-
-An upward price trend bounded by two intersecting, up-sloping, trendlines
-
-<a href="https://www.tradingview.com/chart/NQ1!/bsh3zQjr-NQ-Rising-Wedge-Drop-it-like-it-s-Hot/"><img src="http://i.imgur.com/p4ris4n.png"></a>
-
-As formations go, the rising wedge is one of the poorer performing chart patterns. It sports a failure rate of 24%, which falls to 6% if you wait for a downside breakout. The average decline is 19%, just a bit below the usual
-20% decline for other bearish chart patterns.
-
-<a href="https://www.tradingview.com/chart/BTCUSD/rUE7pMk0-Rising-Wedge-Pattern-TUTORIAL/"><img src="http://i.imgur.com/l1KQAoZ.png"></a>
-
-One interesting finding concerns the volume trend. Successful formations with a receding volume trend outperform those with a rising volume trend; the losses are 21% and 15%, respectively. This means if you restrict your selections to those showing receding volume throughout the formation, you should do better. On the flip side, you will also be passing up many formations in which you could trade profitably.
-
-### Broadening Wedges [**^**](#Contents)
-
-* [TradingView -Ideas - Broadening Wedge](https://www.tradingview.com/ideas/broadeningwedge/)
-
-#### Broadening Ascending Wedges [**^**](#Contents)
-
-<img src="http://i.imgur.com/wM5asGY.png"/>
-
-* [TradingView - Ideas - Broadening Ascending Wedge](https://www.tradingview.com/ideas/ascendingbroadeningwedge/)
-* [Bulkowski - Ascending Broadening Wedge](http://thepatternsite.com/abw.html)\
-^^^ shows entirely different version of this based on updated statistics.
-
-<a href="https://www.tradingview.com/chart/USDCHF/pdrfhWxJ-Ascending-broadening-wedge/"><img src="http://i.imgur.com/1589i4I.png"/></a>
-
-#### Broadening Descending Wedges [**^**](#Contents) 
-
-<img src="http://i.imgur.com/d1K92Dv.png"/> 
-
-* [TradingView - Ideas - Descending Broadening Wedge](https://www.tradingview.com/ideas/descendingbroadeningwedge/)
-* [Bulkowski - Descending Broadening Wedge](http://thepatternsite.com/dbw.html)
-  > "Descending broadening wedges are mid list performers, found most often with upward breakouts in a bull market." 
-
-
-<a href="https://www.tradingview.com/chart/AUDUSD/BTTUvzhp-AUDUSD-Descending-Broadening-Wedge-And-Short-Setup/"><img src="http://i.imgur.com/jV5HN0x.png"/></a>
-
->descending broadening wedges act as a consolidation of the prevailing trend. The volume pattern is also different from falling wedges. In the descending broadening wedge formation, the volume tends to increase over time but with falling wedges, it decreases.
-
-
-Being a consolidation in a bull market, the average rise is a very high 46%. The most likely rise is 20% and an astounding 40% of the formations have gains above 50%! With bullish numbers like these, it makes the failure rate seem tolerable.
 
 
 ## Statistics [**^**](#Contents)
