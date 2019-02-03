@@ -2,35 +2,8 @@
 
 Taking notes while reading Encyclopedia of Chart patterns [by Thomas Bulkowski](https://www.amazon.com/Encyclopedia-Chart-Patterns-Thomas-Bulkowski/dp/0471668265). 
 
-### Sources besides Bulkowski's Encyclopedia:
-
-* [Investopedia.com](https://investopedia.com)
-* [BabyPips.com](https://babypips.com)
-* [TradingView.com](https://tradingview.com)
-* [Bulkowski's ThePatternSite.com](https://thepatternsite.com)
-
-### Intro
-
-According to BabyPips there are [3 main groups](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns) of trading patterns:
-
-1. Reversal
-   * Double Top
-   * Double Bottom
-   * Head and Shoulders
-   * Inverse Head and Shoulders
-   * Rising Wedge
-   * Falling Wedge
-2. Continuation
-   * wedges
-   * rectangles
-   * pennants
-* Note that wedges can be considered either reversal or continuation patterns depending on the trend on which they form.
-3. Bi-lateral
-   * Triangles
-
-* [BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
-
 ## Contents
+* [Intro](#intro-)
 * [Broadening Formations](#broadening-formations-)
   * [Broadening Bottoms](#broadening-bottoms-)
   * [Broadening Tops](#broadening-tops-)
@@ -78,6 +51,59 @@ According to BabyPips there are [3 main groups](https://www.babypips.com/learn/f
     * [Broadening Ascending Wedges](#broadening-ascending-wedges=)
     * [Broadening Descending Wedges](#broadening-descending-wedges-)
 * [Statistics](#statistics-)
+* [Resources](#resources-)
+
+
+### Intro
+Deciding how to organize patterns, and their relative importance. So first I'm gathering how others do it.
+
+#### BabyPips
+
+According to **BabyPips** there are [3 main groups](https://www.babypips.com/learn/forex/how-to-trade-chart-patterns) of trading patterns:
+
+1. Reversal
+   * Double Top
+   * Double Bottom
+   * Head and Shoulders
+   * Inverse Head and Shoulders
+   * Rising Wedge
+   * Falling Wedge
+2. Continuation
+   * wedges
+   * rectangles
+   * pennants
+* Note that wedges can be considered either reversal or continuation patterns depending on the trend on which they form.
+3. Bi-lateral
+   * Triangles
+
+On **TradingView** when you hover over their ideas menu, the chart patterns they have listed are:
+* Double Top or Bottom 
+* Wedge
+* Cup and Handle
+* Flag
+* Pennant
+* Rectangle
+* Parralel
+* Channel
+* Pitchforks
+* Triangle
+
+**Bitcointradingsites.net** arranges patterns Bullish, Bearish, and Reversal. 
+
+**Bullish**
+Flag
+Pennant
+Measured move up
+Symmetrical triangle
+Ascending scallop
+3 rising valleys
+Cup with Handle
+Ascending triangle
+
+
+* [BitcoinTradingSites.net - Most Common Bitcoin Chart Patterns](http://www.bitcointradingsites.net/technical-analysis-bitcoin-chart-patterns/)
+
+
 
 ## Broadening Formations [**^**](#Contents)
 
@@ -89,9 +115,9 @@ Good for those who work on a low timeframe.
 
 <a href="https://www.tradingview.com/chart/BTCUSD/oiTdqZex-BTC-too-early-to-Tell-Broadening-Pattern/"><img src="http://i.imgur.com/5hZLIzW.png"/></a>
 
-* [Investopedia - Broadening Formations](https://www.investopedia.com/terms/b/broadeningformation.asp)
+* [Investopedia - Terms - Broadening Formations](https://www.investopedia.com/terms/b/broadeningformation.asp)
 * [Baby Pips - Broadening Formations](https://www.babypips.com/forexpedia/broadening-formation)
-* [TradingView - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
+* [TradingView - Ideas - Broadening Formation](https://www.tradingview.com/ideas/broadening-formation/)
 
 Bulkowski seems to be the only person who has tested different broadening patterns, mostly they are considered as a class and not worth spending too much time on the variants unless noted otherwise.
 
@@ -101,8 +127,8 @@ Bulkowski seems to be the only person who has tested different broadening patter
 
 <img src="http://i.imgur.com/ZdMwvG5.png"/>
 
-* [TradingView.wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
-* [TradingView.ideas - Broadening Bottoms](https://www.tradingview.com/ideas/broadening-bottom/)
+* [TradingView - Wiki - Broadening Tops and Bottoms](https://www.tradingview.com/wiki/Broadening_Tops_and_Bottoms)
+* [TradingView - Ideas - Broadening Bottoms](https://www.tradingview.com/ideas/broadening-bottom/)
 * [Bulkowski - Broadening Bottoms](http://thepatternsite.com/rabfa.html)
 
 <a href="https://www.tradingview.com/chart/BTCUSD/IxwU3hjj-BTC-BROADENING-BOTTOM-BULLISH/"><img src="http://i.imgur.com/gJEFw7m.png"></a>
@@ -851,3 +877,12 @@ Being a consolidation in a bull market, the average rise is a very high 46%. The
 
 <img src="http://i.imgur.com/eIYOjLF.png"/>
 
+## Resources:
+
+* [Investopedia.com](https://investopedia.com)
+* [BabyPips.com](https://babypips.com)
+* [Bulkowski's ThePatternSite.com](https://thepatternsite.com)
+* [TradingView.com](https://tradingview.com)
+  * [Ideas - Chart Patterns](https://www.tradingview.com/ideas/chartpattern/)
+  * [Education - Chart Patterns](https://www.tradingview.com/education/chartpattern/)
+  * [Scripts - Chart Patterns](https://www.tradingview.com/scripts/chartpattern/)
